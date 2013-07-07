@@ -1,0 +1,3692 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>Bogdan Vladu</string>
+	<key>CreatedWith</key>
+	<string>SpriteHelper</string>
+	<key>SHEETS_INFO</key>
+	<array>
+		<dict>
+			<key>2HDSuffix</key>
+			<string>-ipadhd</string>
+			<key>AllowRotation</key>
+			<true/>
+			<key>Crop</key>
+			<false/>
+			<key>DropSprites</key>
+			<false/>
+			<key>HDSuffix</key>
+			<string>-hd</string>
+			<key>IsRendable</key>
+			<true/>
+			<key>MaxSheetSize</key>
+			<integer>4096</integer>
+			<key>NpotSize</key>
+			<string>{1920, 1824}</string>
+			<key>Padding</key>
+			<integer>8</integer>
+			<key>PixelFormat</key>
+			<integer>0</integer>
+			<key>SheetImage</key>
+			<string>initierRed_initierRed.png</string>
+			<key>SheetImage-HD</key>
+			<string>initierRed_initierRed-hd.png</string>
+			<key>SheetName</key>
+			<string>initierRed</string>
+			<key>SheetSceneImageName</key>
+			<string></string>
+			<key>Sheet_Sprites_Info</key>
+			<dict>
+				<key>block1red</key>
+				<dict>
+					<key>DocumentSecurityImageBookmark</key>
+					<data>
+					Ym9va5wEAAAAAAQQMAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAdAMAAAUA
+					AAABAQAAVXNlcnMAAAALAAAAAQEAAHByYXRv
+					ZnVuZ3VzAAkAAAABAQAARG9jdW1lbnRzAAAA
+					BQAAAAEBAAB4Y29kZQAAAAgAAAABAQAAY2Fz
+					dGlsbG8IAAAAAQEAAENhc3RpbGxvCQAAAAEB
+					AABSZXNvdXJjZXMAAAAGAAAAAQEAAEltYWdl
+					cwAAEQAAAAEBAABpbml0aWVyUmVkLWhkLnBu
+					ZwAAACQAAAABBgAABAAAABQAAAAoAAAAPAAA
+					AEwAAABcAAAAbAAAAIAAAACQAAAACAAAAAQD
+					AACnAwIAAAAAAAgAAAAEAwAA/8EFAAAAAAAI
+					AAAABAMAAADCBQAAAAAACAAAAAQDAAC/9QkA
+					AAAAAAgAAAAEAwAAdOk/AAAAAAAIAAAABAMA
+					AJLpPwAAAAAACAAAAAQDAABE6z8AAAAAAAgA
+					AAAEAwAAUOs/AAAAAAAIAAAABAMAAG3rPwAA
+					AAAAJAAAAAEGAADYAAAA6AAAAPgAAAAIAQAA
+					GAEAACgBAAA4AQAASAEAAFgBAAAIAAAAAAQA
+					AEG3WabMAAAAGAAAAAECAAABAAAAAAAAAA8A
+					AAAAAAAAAAAAAAAAAAAAAAAAAQUAAAQAAAAD
+					AwAAAQAAAAgAAAAEAwAABwAAAAAAAAAEAAAA
+					AwMAAPUBAAAMAAAAAQEAAE1hY2ludG9zaCBI
+					RAgAAAAEAwAAAICBPXQAAAAIAAAAAAQAAEG1
+					2mIwAAAAJAAAAAEBAAAxODA4M0E2QS0wN0Iz
+					LTNDMzAtOURGNi04ODc2NDQzQjY1QjkYAAAA
+					AQIAAIEAAAABAAgA7z8AAAEACAAAAAAAAAAA
+					AAEAAAABAQAALwAAAAQAAAADAwAAAAEAAN8A
+					AAABAgAAYTI5OGVmMDU4NGViZjZhNDFmZDBm
+					NjNmZTA2ZWM2OTZhY2E5MmI1MDswMDAwMDAw
+					MDswMDAwMDAwMDAwMDAwMDIwO2NvbS5hcHBs
+					ZS5hcHAtc2FuZGJveC5yZWFkLXdyaXRlOzAw
+					MDAwMDAxOzAxMDAwMDAyOzAwMDAwMDAwMDAz
+					ZmViNmQ7L3VzZXJzL3ByYXRvZnVuZ3VzL2Rv
+					Y3VtZW50cy94Y29kZS9jYXN0aWxsby9jYXN0
+					aWxsby9yZXNvdXJjZXMvaW1hZ2VzL2luaXRp
+					ZXJyZWQtaGQucG5nAADwAAAA/v///wEAAAAA
+					AAAAEwAAAAQQAACsAAAAAAAAAAUQAABoAQAA
+					AAAAABAQAACkAQAAAAAAAEAQAACUAQAAAAAA
+					AFQQAADMAQAAAAAAAFUQAADMAQAAAAAAAFYQ
+					AADEAQAAAAAAAAIgAAB0AgAAAAAAABAgAAD0
+					AQAAAAAAABEgAAAoAgAAAAAAABIgAAAIAgAA
+					AAAAABMgAAAYAgAAAAAAACAgAABUAgAAAAAA
+					ADAgAADEAQAAAAAAAAHAAADYAQAAAAAAABHA
+					AAAUAAAAAAAAABLAAADoAQAAAAAAABDQAACA
+					AgAAAAAAAIDwAACMAgAAAAAAAA==
+					</data>
+					<key>IsSHSprite</key>
+					<true/>
+					<key>PhysicProperties</key>
+					<dict>
+						<key>AngularDamping</key>
+						<real>0.0</real>
+						<key>AngularVelocity</key>
+						<real>0.0</real>
+						<key>CanSleep</key>
+						<true/>
+						<key>FixedRot</key>
+						<false/>
+						<key>GravityScale</key>
+						<real>1</real>
+						<key>HandledBySH</key>
+						<true/>
+						<key>IsBullet</key>
+						<false/>
+						<key>LinearDamping</key>
+						<real>0.0</real>
+						<key>LinearVelocity</key>
+						<string>{0, 0}</string>
+						<key>SH_ComplexShapes</key>
+						<array>
+							<dict>
+								<key>Angle</key>
+								<integer>0</integer>
+								<key>Category</key>
+								<integer>1</integer>
+								<key>Density</key>
+								<real>0.20000000298023224</real>
+								<key>Fixture</key>
+								<array>
+									<array>
+										<string>{-35, -36.75}</string>
+										<string>{35, -36.75}</string>
+										<string>{35, 36.75}</string>
+										<string>{-35, 36.75}</string>
+									</array>
+								</array>
+								<key>Friction</key>
+								<real>0.20000000298023224</real>
+								<key>Group</key>
+								<integer>0</integer>
+								<key>Height</key>
+								<real>147</real>
+								<key>HolesPoints</key>
+								<array/>
+								<key>IsCircle</key>
+								<false/>
+								<key>IsRectangle</key>
+								<true/>
+								<key>IsSensor</key>
+								<false/>
+								<key>LHHeight</key>
+								<real>73.5</real>
+								<key>LHShapePositionOffset</key>
+								<string>{-35, -36.75}</string>
+								<key>LHWidth</key>
+								<real>70</real>
+								<key>Mask</key>
+								<integer>65535</integer>
+								<key>Name</key>
+								<string>UntitledFixture</string>
+								<key>Restitution</key>
+								<real>0.20000000298023224</real>
+								<key>ShapePoints</key>
+								<array>
+									<string>{0, 0}</string>
+									<string>{140, 0}</string>
+									<string>{140, 147}</string>
+									<string>{0, 147}</string>
+								</array>
+								<key>ShapePositionOffset</key>
+								<string>{0, 0}</string>
+								<key>Tag</key>
+								<integer>0</integer>
+								<key>Width</key>
+								<real>140</real>
+							</dict>
+						</array>
+						<key>Type</key>
+						<integer>0</integer>
+					</dict>
+					<key>SHSheetName</key>
+					<string>initierRed</string>
+					<key>SHSpriteName</key>
+					<string>block1red</string>
+					<key>SheetImage</key>
+					<string>initierRed_initierRed.png</string>
+					<key>SheetImage-HD</key>
+					<string>initierRed_initierRed-hd.png</string>
+					<key>TextureProperties</key>
+					<dict>
+						<key>Angle</key>
+						<integer>0</integer>
+						<key>Border</key>
+						<integer>0</integer>
+						<key>CanBeTrimmed</key>
+						<false/>
+						<key>Color</key>
+						<string>{{1, 1}, {1, 0}}</string>
+						<key>ConvertedFromOldFormat</key>
+						<true/>
+						<key>CustomClassName</key>
+						<string></string>
+						<key>FlipX</key>
+						<false/>
+						<key>FlipY</key>
+						<false/>
+						<key>Frame</key>
+						<string>{{0, 828}, {70, 73.5}}</string>
+						<key>Frame-HD</key>
+						<string>{{0, 1656}, {140, 147}}</string>
+						<key>Image</key>
+						<string>initierRed_initierRed.png</string>
+						<key>Image-HD</key>
+						<string>initierRed_initierRed-hd.png</string>
+						<key>IsCropped</key>
+						<false/>
+						<key>IsDrawable</key>
+						<true/>
+						<key>IsRotated</key>
+						<false/>
+						<key>IsTrimmed</key>
+						<false/>
+						<key>Name</key>
+						<string>block1red</string>
+						<key>Opacity</key>
+						<real>1</real>
+						<key>OriginalImage</key>
+						<string>/Users/pratofungus/Documents/xcode/castillo/Castillo/Resources/Images//initierRed-hd.png</string>
+						<key>OriginalImage_RelativePath</key>
+						<string>initierRed-hd.png/</string>
+						<key>OriginalRect</key>
+						<string>{{0, 1656}, {140, 147}}</string>
+						<key>OriginalSize</key>
+						<string>{140, 147}</string>
+						<key>Position</key>
+						<string>{0, 1656}</string>
+						<key>Scale</key>
+						<string>{1, 1}</string>
+						<key>SpriteSize</key>
+						<string>{70, 73.5}</string>
+						<key>SpriteWasBreaked</key>
+						<false/>
+						<key>Tag</key>
+						<integer>0</integer>
+						<key>TextureOffset</key>
+						<string>{0, 0}</string>
+						<key>UsesBatchRendering</key>
+						<false/>
+						<key>ZOrder</key>
+						<integer>0</integer>
+					</dict>
+				</dict>
+				<key>block2red</key>
+				<dict>
+					<key>DocumentSecurityImageBookmark</key>
+					<data>
+					Ym9va5wEAAAAAAQQMAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAdAMAAAUA
+					AAABAQAAVXNlcnMAAAALAAAAAQEAAHByYXRv
+					ZnVuZ3VzAAkAAAABAQAARG9jdW1lbnRzAAAA
+					BQAAAAEBAAB4Y29kZQAAAAgAAAABAQAAY2Fz
+					dGlsbG8IAAAAAQEAAENhc3RpbGxvCQAAAAEB
+					AABSZXNvdXJjZXMAAAAGAAAAAQEAAEltYWdl
+					cwAAEQAAAAEBAABpbml0aWVyUmVkLWhkLnBu
+					ZwAAACQAAAABBgAABAAAABQAAAAoAAAAPAAA
+					AEwAAABcAAAAbAAAAIAAAACQAAAACAAAAAQD
+					AACnAwIAAAAAAAgAAAAEAwAA/8EFAAAAAAAI
+					AAAABAMAAADCBQAAAAAACAAAAAQDAAC/9QkA
+					AAAAAAgAAAAEAwAAdOk/AAAAAAAIAAAABAMA
+					AJLpPwAAAAAACAAAAAQDAABE6z8AAAAAAAgA
+					AAAEAwAAUOs/AAAAAAAIAAAABAMAAG3rPwAA
+					AAAAJAAAAAEGAADYAAAA6AAAAPgAAAAIAQAA
+					GAEAACgBAAA4AQAASAEAAFgBAAAIAAAAAAQA
+					AEG3WabMAAAAGAAAAAECAAABAAAAAAAAAA8A
+					AAAAAAAAAAAAAAAAAAAAAAAAAQUAAAQAAAAD
+					AwAAAQAAAAgAAAAEAwAABwAAAAAAAAAEAAAA
+					AwMAAPUBAAAMAAAAAQEAAE1hY2ludG9zaCBI
+					RAgAAAAEAwAAAICBPXQAAAAIAAAAAAQAAEG1
+					2mIwAAAAJAAAAAEBAAAxODA4M0E2QS0wN0Iz
+					LTNDMzAtOURGNi04ODc2NDQzQjY1QjkYAAAA
+					AQIAAIEAAAABAAgA7z8AAAEACAAAAAAAAAAA
+					AAEAAAABAQAALwAAAAQAAAADAwAAAAEAAN8A
+					AAABAgAAYTI5OGVmMDU4NGViZjZhNDFmZDBm
+					NjNmZTA2ZWM2OTZhY2E5MmI1MDswMDAwMDAw
+					MDswMDAwMDAwMDAwMDAwMDIwO2NvbS5hcHBs
+					ZS5hcHAtc2FuZGJveC5yZWFkLXdyaXRlOzAw
+					MDAwMDAxOzAxMDAwMDAyOzAwMDAwMDAwMDAz
+					ZmViNmQ7L3VzZXJzL3ByYXRvZnVuZ3VzL2Rv
+					Y3VtZW50cy94Y29kZS9jYXN0aWxsby9jYXN0
+					aWxsby9yZXNvdXJjZXMvaW1hZ2VzL2luaXRp
+					ZXJyZWQtaGQucG5nAADwAAAA/v///wEAAAAA
+					AAAAEwAAAAQQAACsAAAAAAAAAAUQAABoAQAA
+					AAAAABAQAACkAQAAAAAAAEAQAACUAQAAAAAA
+					AFQQAADMAQAAAAAAAFUQAADMAQAAAAAAAFYQ
+					AADEAQAAAAAAAAIgAAB0AgAAAAAAABAgAAD0
+					AQAAAAAAABEgAAAoAgAAAAAAABIgAAAIAgAA
+					AAAAABMgAAAYAgAAAAAAACAgAABUAgAAAAAA
+					ADAgAADEAQAAAAAAAAHAAADYAQAAAAAAABHA
+					AAAUAAAAAAAAABLAAADoAQAAAAAAABDQAACA
+					AgAAAAAAAIDwAACMAgAAAAAAAA==
+					</data>
+					<key>IsSHSprite</key>
+					<true/>
+					<key>PhysicProperties</key>
+					<dict>
+						<key>AngularDamping</key>
+						<real>0.0</real>
+						<key>AngularVelocity</key>
+						<real>0.0</real>
+						<key>CanSleep</key>
+						<true/>
+						<key>FixedRot</key>
+						<false/>
+						<key>GravityScale</key>
+						<real>1</real>
+						<key>HandledBySH</key>
+						<true/>
+						<key>IsBullet</key>
+						<false/>
+						<key>LinearDamping</key>
+						<real>0.0</real>
+						<key>LinearVelocity</key>
+						<string>{0, 0}</string>
+						<key>SH_ComplexShapes</key>
+						<array>
+							<dict>
+								<key>Angle</key>
+								<integer>0</integer>
+								<key>Category</key>
+								<integer>1</integer>
+								<key>Density</key>
+								<real>0.20000000298023224</real>
+								<key>Fixture</key>
+								<array>
+									<array>
+										<string>{-71.75, -36.75}</string>
+										<string>{71.75, -36.75}</string>
+										<string>{71.75, 36.75}</string>
+										<string>{-71.75, 36.75}</string>
+									</array>
+								</array>
+								<key>Friction</key>
+								<real>0.20000000298023224</real>
+								<key>Group</key>
+								<integer>0</integer>
+								<key>Height</key>
+								<real>147</real>
+								<key>HolesPoints</key>
+								<array/>
+								<key>IsCircle</key>
+								<false/>
+								<key>IsRectangle</key>
+								<true/>
+								<key>IsSensor</key>
+								<false/>
+								<key>LHHeight</key>
+								<real>73.5</real>
+								<key>LHShapePositionOffset</key>
+								<string>{-71.75, -36.75}</string>
+								<key>LHWidth</key>
+								<real>143.5</real>
+								<key>Mask</key>
+								<integer>65535</integer>
+								<key>Name</key>
+								<string>UntitledFixture</string>
+								<key>Restitution</key>
+								<real>0.20000000298023224</real>
+								<key>ShapePoints</key>
+								<array>
+									<string>{0, 0}</string>
+									<string>{287, 0}</string>
+									<string>{287, 147}</string>
+									<string>{0, 147}</string>
+								</array>
+								<key>ShapePositionOffset</key>
+								<string>{0, 0}</string>
+								<key>Tag</key>
+								<integer>0</integer>
+								<key>Width</key>
+								<real>287</real>
+							</dict>
+						</array>
+						<key>Type</key>
+						<integer>0</integer>
+					</dict>
+					<key>SHSheetName</key>
+					<string>initierRed</string>
+					<key>SHSpriteName</key>
+					<string>block2red</string>
+					<key>SheetImage</key>
+					<string>initierRed_initierRed.png</string>
+					<key>SheetImage-HD</key>
+					<string>initierRed_initierRed-hd.png</string>
+					<key>TextureProperties</key>
+					<dict>
+						<key>Angle</key>
+						<integer>0</integer>
+						<key>Border</key>
+						<integer>0</integer>
+						<key>CanBeTrimmed</key>
+						<false/>
+						<key>Color</key>
+						<string>{{1, 1}, {1, 0}}</string>
+						<key>ConvertedFromOldFormat</key>
+						<true/>
+						<key>CustomClassName</key>
+						<string></string>
+						<key>FlipX</key>
+						<false/>
+						<key>FlipY</key>
+						<false/>
+						<key>Frame</key>
+						<string>{{0, 752}, {143.5, 73.5}}</string>
+						<key>Frame-HD</key>
+						<string>{{0, 1504}, {287, 147}}</string>
+						<key>Image</key>
+						<string>initierRed_initierRed.png</string>
+						<key>Image-HD</key>
+						<string>initierRed_initierRed-hd.png</string>
+						<key>IsCropped</key>
+						<false/>
+						<key>IsDrawable</key>
+						<true/>
+						<key>IsRotated</key>
+						<false/>
+						<key>IsTrimmed</key>
+						<false/>
+						<key>Name</key>
+						<string>block2red</string>
+						<key>Opacity</key>
+						<real>1</real>
+						<key>OriginalImage</key>
+						<string>/Users/pratofungus/Documents/xcode/castillo/Castillo/Resources/Images//initierRed-hd.png</string>
+						<key>OriginalImage_RelativePath</key>
+						<string>initierRed-hd.png/</string>
+						<key>OriginalRect</key>
+						<string>{{0, 1504}, {287, 147}}</string>
+						<key>OriginalSize</key>
+						<string>{287, 147}</string>
+						<key>Position</key>
+						<string>{0, 1504}</string>
+						<key>Scale</key>
+						<string>{1, 1}</string>
+						<key>SpriteSize</key>
+						<string>{143.5, 73.5}</string>
+						<key>SpriteWasBreaked</key>
+						<false/>
+						<key>Tag</key>
+						<integer>0</integer>
+						<key>TextureOffset</key>
+						<string>{0, 0}</string>
+						<key>UsesBatchRendering</key>
+						<false/>
+						<key>ZOrder</key>
+						<integer>0</integer>
+					</dict>
+				</dict>
+				<key>bridgesred</key>
+				<dict>
+					<key>DocumentSecurityImageBookmark</key>
+					<data>
+					Ym9va5wEAAAAAAQQMAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAdAMAAAUA
+					AAABAQAAVXNlcnMAAAALAAAAAQEAAHByYXRv
+					ZnVuZ3VzAAkAAAABAQAARG9jdW1lbnRzAAAA
+					BQAAAAEBAAB4Y29kZQAAAAgAAAABAQAAY2Fz
+					dGlsbG8IAAAAAQEAAENhc3RpbGxvCQAAAAEB
+					AABSZXNvdXJjZXMAAAAGAAAAAQEAAEltYWdl
+					cwAAEQAAAAEBAABpbml0aWVyUmVkLWhkLnBu
+					ZwAAACQAAAABBgAABAAAABQAAAAoAAAAPAAA
+					AEwAAABcAAAAbAAAAIAAAACQAAAACAAAAAQD
+					AACnAwIAAAAAAAgAAAAEAwAA/8EFAAAAAAAI
+					AAAABAMAAADCBQAAAAAACAAAAAQDAAC/9QkA
+					AAAAAAgAAAAEAwAAdOk/AAAAAAAIAAAABAMA
+					AJLpPwAAAAAACAAAAAQDAABE6z8AAAAAAAgA
+					AAAEAwAAUOs/AAAAAAAIAAAABAMAAG3rPwAA
+					AAAAJAAAAAEGAADYAAAA6AAAAPgAAAAIAQAA
+					GAEAACgBAAA4AQAASAEAAFgBAAAIAAAAAAQA
+					AEG3WabMAAAAGAAAAAECAAABAAAAAAAAAA8A
+					AAAAAAAAAAAAAAAAAAAAAAAAAQUAAAQAAAAD
+					AwAAAQAAAAgAAAAEAwAABwAAAAAAAAAEAAAA
+					AwMAAPUBAAAMAAAAAQEAAE1hY2ludG9zaCBI
+					RAgAAAAEAwAAAICBPXQAAAAIAAAAAAQAAEG1
+					2mIwAAAAJAAAAAEBAAAxODA4M0E2QS0wN0Iz
+					LTNDMzAtOURGNi04ODc2NDQzQjY1QjkYAAAA
+					AQIAAIEAAAABAAgA7z8AAAEACAAAAAAAAAAA
+					AAEAAAABAQAALwAAAAQAAAADAwAAAAEAAN8A
+					AAABAgAAYTI5OGVmMDU4NGViZjZhNDFmZDBm
+					NjNmZTA2ZWM2OTZhY2E5MmI1MDswMDAwMDAw
+					MDswMDAwMDAwMDAwMDAwMDIwO2NvbS5hcHBs
+					ZS5hcHAtc2FuZGJveC5yZWFkLXdyaXRlOzAw
+					MDAwMDAxOzAxMDAwMDAyOzAwMDAwMDAwMDAz
+					ZmViNmQ7L3VzZXJzL3ByYXRvZnVuZ3VzL2Rv
+					Y3VtZW50cy94Y29kZS9jYXN0aWxsby9jYXN0
+					aWxsby9yZXNvdXJjZXMvaW1hZ2VzL2luaXRp
+					ZXJyZWQtaGQucG5nAADwAAAA/v///wEAAAAA
+					AAAAEwAAAAQQAACsAAAAAAAAAAUQAABoAQAA
+					AAAAABAQAACkAQAAAAAAAEAQAACUAQAAAAAA
+					AFQQAADMAQAAAAAAAFUQAADMAQAAAAAAAFYQ
+					AADEAQAAAAAAAAIgAAB0AgAAAAAAABAgAAD0
+					AQAAAAAAABEgAAAoAgAAAAAAABIgAAAIAgAA
+					AAAAABMgAAAYAgAAAAAAACAgAABUAgAAAAAA
+					ADAgAADEAQAAAAAAAAHAAADYAQAAAAAAABHA
+					AAAUAAAAAAAAABLAAADoAQAAAAAAABDQAACA
+					AgAAAAAAAIDwAACMAgAAAAAAAA==
+					</data>
+					<key>IsSHSprite</key>
+					<true/>
+					<key>PhysicProperties</key>
+					<dict>
+						<key>AngularDamping</key>
+						<real>0.0</real>
+						<key>AngularVelocity</key>
+						<real>0.0</real>
+						<key>CanSleep</key>
+						<true/>
+						<key>FixedRot</key>
+						<false/>
+						<key>GravityScale</key>
+						<real>1</real>
+						<key>HandledBySH</key>
+						<true/>
+						<key>IsBullet</key>
+						<false/>
+						<key>LinearDamping</key>
+						<real>0.0</real>
+						<key>LinearVelocity</key>
+						<string>{0, 0}</string>
+						<key>SH_ComplexShapes</key>
+						<array>
+							<dict>
+								<key>Angle</key>
+								<integer>0</integer>
+								<key>Category</key>
+								<integer>1</integer>
+								<key>Density</key>
+								<real>0.20000000298023224</real>
+								<key>Fixture</key>
+								<array>
+									<array>
+										<string>{65.868150000000014, -59.125750000000039}</string>
+										<string>{129.89269999999999, -65.985450000000014}</string>
+										<string>{136.75250000000005, 20.904999999999973}</string>
+										<string>{-14.162599999999998, 11.758600000000001}</string>
+										<string>{-0.44304999999997108, -17.967049999999972}</string>
+									</array>
+									<array>
+										<string>{-14.162599999999998, 11.758600000000001}</string>
+										<string>{-133.06529999999998, 16.331800000000044}</string>
+										<string>{-130.77874999999995, -63.698899999999981}</string>
+										<string>{-78.187149999999974, -59.125750000000039}</string>
+										<string>{-0.44304999999997108, -17.967049999999972}</string>
+									</array>
+								</array>
+								<key>Friction</key>
+								<real>0.20000000298023224</real>
+								<key>Group</key>
+								<integer>0</integer>
+								<key>Height</key>
+								<real>265</real>
+								<key>HolesPoints</key>
+								<array/>
+								<key>IsCircle</key>
+								<false/>
+								<key>IsRectangle</key>
+								<false/>
+								<key>IsSensor</key>
+								<false/>
+								<key>LHHeight</key>
+								<real>132.5</real>
+								<key>LHShapePositionOffset</key>
+								<string>{-139.25, -66.25}</string>
+								<key>LHWidth</key>
+								<real>278.5</real>
+								<key>Mask</key>
+								<integer>65535</integer>
+								<key>Name</key>
+								<string>UntitledFixture</string>
+								<key>Restitution</key>
+								<real>0.20000000298023224</real>
+								<key>ShapePoints</key>
+								<array>
+									<string>{16.942500000000109, 259.89779999999996}</string>
+									<string>{122.12570000000005, 250.75150000000008}</string>
+									<string>{277.61390000000006, 168.43409999999994}</string>
+									<string>{410.23630000000003, 250.75150000000008}</string>
+									<string>{538.28539999999998, 264.47090000000003}</string>
+									<string>{552.00500000000011, 90.690000000000055}</string>
+									<string>{250.1748, 108.9828}</string>
+									<string>{12.369400000000041, 99.836399999999912}</string>
+								</array>
+								<key>ShapePositionOffset</key>
+								<string>{0, 0}</string>
+								<key>Tag</key>
+								<integer>0</integer>
+								<key>Width</key>
+								<real>557</real>
+							</dict>
+						</array>
+						<key>Type</key>
+						<integer>0</integer>
+					</dict>
+					<key>SHSheetName</key>
+					<string>initierRed</string>
+					<key>SHSpriteName</key>
+					<string>bridgesred</string>
+					<key>SheetImage</key>
+					<string>initierRed_initierRed.png</string>
+					<key>SheetImage-HD</key>
+					<string>initierRed_initierRed-hd.png</string>
+					<key>TextureProperties</key>
+					<dict>
+						<key>Angle</key>
+						<integer>0</integer>
+						<key>Border</key>
+						<integer>0</integer>
+						<key>CanBeTrimmed</key>
+						<false/>
+						<key>Color</key>
+						<string>{{1, 1}, {1, 0}}</string>
+						<key>ConvertedFromOldFormat</key>
+						<true/>
+						<key>CustomClassName</key>
+						<string></string>
+						<key>FlipX</key>
+						<false/>
+						<key>FlipY</key>
+						<false/>
+						<key>Frame</key>
+						<string>{{680, 466}, {278.5, 132.5}}</string>
+						<key>Frame-HD</key>
+						<string>{{1360, 932}, {557, 265}}</string>
+						<key>Image</key>
+						<string>initierRed_initierRed.png</string>
+						<key>Image-HD</key>
+						<string>initierRed_initierRed-hd.png</string>
+						<key>IsCropped</key>
+						<false/>
+						<key>IsDrawable</key>
+						<true/>
+						<key>IsRotated</key>
+						<false/>
+						<key>IsTrimmed</key>
+						<false/>
+						<key>Name</key>
+						<string>bridgesred</string>
+						<key>Opacity</key>
+						<real>1</real>
+						<key>OriginalImage</key>
+						<string>/Users/pratofungus/Documents/xcode/castillo/Castillo/Resources/Images//initierRed-hd.png</string>
+						<key>OriginalImage_RelativePath</key>
+						<string>initierRed-hd.png/</string>
+						<key>OriginalRect</key>
+						<string>{{1360, 932}, {557, 265}}</string>
+						<key>OriginalSize</key>
+						<string>{557, 265}</string>
+						<key>Position</key>
+						<string>{1360, 932}</string>
+						<key>Scale</key>
+						<string>{1, 1}</string>
+						<key>SpriteSize</key>
+						<string>{278.5, 132.5}</string>
+						<key>SpriteWasBreaked</key>
+						<false/>
+						<key>Tag</key>
+						<integer>0</integer>
+						<key>TextureOffset</key>
+						<string>{0, 0}</string>
+						<key>UsesBatchRendering</key>
+						<false/>
+						<key>ZOrder</key>
+						<integer>0</integer>
+					</dict>
+				</dict>
+				<key>doorred1</key>
+				<dict>
+					<key>DocumentSecurityImageBookmark</key>
+					<data>
+					Ym9va5wEAAAAAAQQMAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAdAMAAAUA
+					AAABAQAAVXNlcnMAAAALAAAAAQEAAHByYXRv
+					ZnVuZ3VzAAkAAAABAQAARG9jdW1lbnRzAAAA
+					BQAAAAEBAAB4Y29kZQAAAAgAAAABAQAAY2Fz
+					dGlsbG8IAAAAAQEAAENhc3RpbGxvCQAAAAEB
+					AABSZXNvdXJjZXMAAAAGAAAAAQEAAEltYWdl
+					cwAAEQAAAAEBAABpbml0aWVyUmVkLWhkLnBu
+					ZwAAACQAAAABBgAABAAAABQAAAAoAAAAPAAA
+					AEwAAABcAAAAbAAAAIAAAACQAAAACAAAAAQD
+					AACnAwIAAAAAAAgAAAAEAwAA/8EFAAAAAAAI
+					AAAABAMAAADCBQAAAAAACAAAAAQDAAC/9QkA
+					AAAAAAgAAAAEAwAAdOk/AAAAAAAIAAAABAMA
+					AJLpPwAAAAAACAAAAAQDAABE6z8AAAAAAAgA
+					AAAEAwAAUOs/AAAAAAAIAAAABAMAAG3rPwAA
+					AAAAJAAAAAEGAADYAAAA6AAAAPgAAAAIAQAA
+					GAEAACgBAAA4AQAASAEAAFgBAAAIAAAAAAQA
+					AEG3WabMAAAAGAAAAAECAAABAAAAAAAAAA8A
+					AAAAAAAAAAAAAAAAAAAAAAAAAQUAAAQAAAAD
+					AwAAAQAAAAgAAAAEAwAABwAAAAAAAAAEAAAA
+					AwMAAPUBAAAMAAAAAQEAAE1hY2ludG9zaCBI
+					RAgAAAAEAwAAAICBPXQAAAAIAAAAAAQAAEG1
+					2mIwAAAAJAAAAAEBAAAxODA4M0E2QS0wN0Iz
+					LTNDMzAtOURGNi04ODc2NDQzQjY1QjkYAAAA
+					AQIAAIEAAAABAAgA7z8AAAEACAAAAAAAAAAA
+					AAEAAAABAQAALwAAAAQAAAADAwAAAAEAAN8A
+					AAABAgAAYTI5OGVmMDU4NGViZjZhNDFmZDBm
+					NjNmZTA2ZWM2OTZhY2E5MmI1MDswMDAwMDAw
+					MDswMDAwMDAwMDAwMDAwMDIwO2NvbS5hcHBs
+					ZS5hcHAtc2FuZGJveC5yZWFkLXdyaXRlOzAw
+					MDAwMDAxOzAxMDAwMDAyOzAwMDAwMDAwMDAz
+					ZmViNmQ7L3VzZXJzL3ByYXRvZnVuZ3VzL2Rv
+					Y3VtZW50cy94Y29kZS9jYXN0aWxsby9jYXN0
+					aWxsby9yZXNvdXJjZXMvaW1hZ2VzL2luaXRp
+					ZXJyZWQtaGQucG5nAADwAAAA/v///wEAAAAA
+					AAAAEwAAAAQQAACsAAAAAAAAAAUQAABoAQAA
+					AAAAABAQAACkAQAAAAAAAEAQAACUAQAAAAAA
+					AFQQAADMAQAAAAAAAFUQAADMAQAAAAAAAFYQ
+					AADEAQAAAAAAAAIgAAB0AgAAAAAAABAgAAD0
+					AQAAAAAAABEgAAAoAgAAAAAAABIgAAAIAgAA
+					AAAAABMgAAAYAgAAAAAAACAgAABUAgAAAAAA
+					ADAgAADEAQAAAAAAAAHAAADYAQAAAAAAABHA
+					AAAUAAAAAAAAABLAAADoAQAAAAAAABDQAACA
+					AgAAAAAAAIDwAACMAgAAAAAAAA==
+					</data>
+					<key>IsSHSprite</key>
+					<true/>
+					<key>PhysicProperties</key>
+					<dict>
+						<key>AngularDamping</key>
+						<real>0.0</real>
+						<key>AngularVelocity</key>
+						<real>0.0</real>
+						<key>CanSleep</key>
+						<true/>
+						<key>FixedRot</key>
+						<false/>
+						<key>GravityScale</key>
+						<real>1</real>
+						<key>HandledBySH</key>
+						<true/>
+						<key>IsBullet</key>
+						<false/>
+						<key>LinearDamping</key>
+						<real>0.0</real>
+						<key>LinearVelocity</key>
+						<string>{0, 0}</string>
+						<key>SH_ComplexShapes</key>
+						<array>
+							<dict>
+								<key>Angle</key>
+								<integer>0</integer>
+								<key>Category</key>
+								<integer>1</integer>
+								<key>Density</key>
+								<real>0.20000000298023224</real>
+								<key>Fixture</key>
+								<array>
+									<array>
+										<string>{-75.5, -141.5}</string>
+										<string>{75.5, -141.5}</string>
+										<string>{75.5, 141.5}</string>
+										<string>{-75.5, 141.5}</string>
+									</array>
+								</array>
+								<key>Friction</key>
+								<real>0.20000000298023224</real>
+								<key>Group</key>
+								<integer>0</integer>
+								<key>Height</key>
+								<real>566</real>
+								<key>HolesPoints</key>
+								<array/>
+								<key>IsCircle</key>
+								<false/>
+								<key>IsRectangle</key>
+								<true/>
+								<key>IsSensor</key>
+								<false/>
+								<key>LHHeight</key>
+								<real>283</real>
+								<key>LHShapePositionOffset</key>
+								<string>{-75.5, -141.5}</string>
+								<key>LHWidth</key>
+								<real>151</real>
+								<key>Mask</key>
+								<integer>65535</integer>
+								<key>Name</key>
+								<string>UntitledFixture</string>
+								<key>Restitution</key>
+								<real>0.20000000298023224</real>
+								<key>ShapePoints</key>
+								<array>
+									<string>{0, 0}</string>
+									<string>{302, 0}</string>
+									<string>{302, 566}</string>
+									<string>{0, 566}</string>
+								</array>
+								<key>ShapePositionOffset</key>
+								<string>{0, 0}</string>
+								<key>Tag</key>
+								<integer>0</integer>
+								<key>Width</key>
+								<real>302</real>
+							</dict>
+						</array>
+						<key>Type</key>
+						<integer>0</integer>
+					</dict>
+					<key>SHSheetName</key>
+					<string>initierRed</string>
+					<key>SHSpriteName</key>
+					<string>doorred1</string>
+					<key>SheetImage</key>
+					<string>initierRed_initierRed.png</string>
+					<key>SheetImage-HD</key>
+					<string>initierRed_initierRed-hd.png</string>
+					<key>TextureProperties</key>
+					<dict>
+						<key>Angle</key>
+						<integer>0</integer>
+						<key>Border</key>
+						<integer>0</integer>
+						<key>CanBeTrimmed</key>
+						<false/>
+						<key>Color</key>
+						<string>{{1, 1}, {1, 0}}</string>
+						<key>ConvertedFromOldFormat</key>
+						<true/>
+						<key>CustomClassName</key>
+						<string></string>
+						<key>FlipX</key>
+						<false/>
+						<key>FlipY</key>
+						<false/>
+						<key>Frame</key>
+						<string>{{614, 181}, {151, 283}}</string>
+						<key>Frame-HD</key>
+						<string>{{1228, 362}, {302, 566}}</string>
+						<key>Image</key>
+						<string>initierRed_initierRed.png</string>
+						<key>Image-HD</key>
+						<string>initierRed_initierRed-hd.png</string>
+						<key>IsCropped</key>
+						<false/>
+						<key>IsDrawable</key>
+						<true/>
+						<key>IsRotated</key>
+						<false/>
+						<key>IsTrimmed</key>
+						<false/>
+						<key>Name</key>
+						<string>doorred1</string>
+						<key>Opacity</key>
+						<real>1</real>
+						<key>OriginalImage</key>
+						<string>/Users/pratofungus/Documents/xcode/castillo/Castillo/Resources/Images//initierRed-hd.png</string>
+						<key>OriginalImage_RelativePath</key>
+						<string>initierRed-hd.png/</string>
+						<key>OriginalRect</key>
+						<string>{{1228, 362}, {302, 566}}</string>
+						<key>OriginalSize</key>
+						<string>{302, 566}</string>
+						<key>Position</key>
+						<string>{1228, 362}</string>
+						<key>Scale</key>
+						<string>{1, 1}</string>
+						<key>SpriteSize</key>
+						<string>{151, 283}</string>
+						<key>SpriteWasBreaked</key>
+						<false/>
+						<key>Tag</key>
+						<integer>0</integer>
+						<key>TextureOffset</key>
+						<string>{0, 0}</string>
+						<key>UsesBatchRendering</key>
+						<false/>
+						<key>ZOrder</key>
+						<integer>0</integer>
+					</dict>
+				</dict>
+				<key>doorred2</key>
+				<dict>
+					<key>DocumentSecurityImageBookmark</key>
+					<data>
+					Ym9va5wEAAAAAAQQMAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAdAMAAAUA
+					AAABAQAAVXNlcnMAAAALAAAAAQEAAHByYXRv
+					ZnVuZ3VzAAkAAAABAQAARG9jdW1lbnRzAAAA
+					BQAAAAEBAAB4Y29kZQAAAAgAAAABAQAAY2Fz
+					dGlsbG8IAAAAAQEAAENhc3RpbGxvCQAAAAEB
+					AABSZXNvdXJjZXMAAAAGAAAAAQEAAEltYWdl
+					cwAAEQAAAAEBAABpbml0aWVyUmVkLWhkLnBu
+					ZwAAACQAAAABBgAABAAAABQAAAAoAAAAPAAA
+					AEwAAABcAAAAbAAAAIAAAACQAAAACAAAAAQD
+					AACnAwIAAAAAAAgAAAAEAwAA/8EFAAAAAAAI
+					AAAABAMAAADCBQAAAAAACAAAAAQDAAC/9QkA
+					AAAAAAgAAAAEAwAAdOk/AAAAAAAIAAAABAMA
+					AJLpPwAAAAAACAAAAAQDAABE6z8AAAAAAAgA
+					AAAEAwAAUOs/AAAAAAAIAAAABAMAAG3rPwAA
+					AAAAJAAAAAEGAADYAAAA6AAAAPgAAAAIAQAA
+					GAEAACgBAAA4AQAASAEAAFgBAAAIAAAAAAQA
+					AEG3WabMAAAAGAAAAAECAAABAAAAAAAAAA8A
+					AAAAAAAAAAAAAAAAAAAAAAAAAQUAAAQAAAAD
+					AwAAAQAAAAgAAAAEAwAABwAAAAAAAAAEAAAA
+					AwMAAPUBAAAMAAAAAQEAAE1hY2ludG9zaCBI
+					RAgAAAAEAwAAAICBPXQAAAAIAAAAAAQAAEG1
+					2mIwAAAAJAAAAAEBAAAxODA4M0E2QS0wN0Iz
+					LTNDMzAtOURGNi04ODc2NDQzQjY1QjkYAAAA
+					AQIAAIEAAAABAAgA7z8AAAEACAAAAAAAAAAA
+					AAEAAAABAQAALwAAAAQAAAADAwAAAAEAAN8A
+					AAABAgAAYTI5OGVmMDU4NGViZjZhNDFmZDBm
+					NjNmZTA2ZWM2OTZhY2E5MmI1MDswMDAwMDAw
+					MDswMDAwMDAwMDAwMDAwMDIwO2NvbS5hcHBs
+					ZS5hcHAtc2FuZGJveC5yZWFkLXdyaXRlOzAw
+					MDAwMDAxOzAxMDAwMDAyOzAwMDAwMDAwMDAz
+					ZmViNmQ7L3VzZXJzL3ByYXRvZnVuZ3VzL2Rv
+					Y3VtZW50cy94Y29kZS9jYXN0aWxsby9jYXN0
+					aWxsby9yZXNvdXJjZXMvaW1hZ2VzL2luaXRp
+					ZXJyZWQtaGQucG5nAADwAAAA/v///wEAAAAA
+					AAAAEwAAAAQQAACsAAAAAAAAAAUQAABoAQAA
+					AAAAABAQAACkAQAAAAAAAEAQAACUAQAAAAAA
+					AFQQAADMAQAAAAAAAFUQAADMAQAAAAAAAFYQ
+					AADEAQAAAAAAAAIgAAB0AgAAAAAAABAgAAD0
+					AQAAAAAAABEgAAAoAgAAAAAAABIgAAAIAgAA
+					AAAAABMgAAAYAgAAAAAAACAgAABUAgAAAAAA
+					ADAgAADEAQAAAAAAAAHAAADYAQAAAAAAABHA
+					AAAUAAAAAAAAABLAAADoAQAAAAAAABDQAACA
+					AgAAAAAAAIDwAACMAgAAAAAAAA==
+					</data>
+					<key>IsSHSprite</key>
+					<true/>
+					<key>PhysicProperties</key>
+					<dict>
+						<key>AngularDamping</key>
+						<real>0.0</real>
+						<key>AngularVelocity</key>
+						<real>0.0</real>
+						<key>CanSleep</key>
+						<true/>
+						<key>FixedRot</key>
+						<false/>
+						<key>GravityScale</key>
+						<real>1</real>
+						<key>HandledBySH</key>
+						<true/>
+						<key>IsBullet</key>
+						<false/>
+						<key>LinearDamping</key>
+						<real>0.0</real>
+						<key>LinearVelocity</key>
+						<string>{0, 0}</string>
+						<key>SH_ComplexShapes</key>
+						<array>
+							<dict>
+								<key>Angle</key>
+								<integer>0</integer>
+								<key>Category</key>
+								<integer>1</integer>
+								<key>Density</key>
+								<real>0.20000000298023224</real>
+								<key>Fixture</key>
+								<array>
+									<array>
+										<string>{-75.5, -141.5}</string>
+										<string>{75.5, -141.5}</string>
+										<string>{75.5, 141.5}</string>
+										<string>{-75.5, 141.5}</string>
+									</array>
+								</array>
+								<key>Friction</key>
+								<real>0.20000000298023224</real>
+								<key>Group</key>
+								<integer>0</integer>
+								<key>Height</key>
+								<real>566</real>
+								<key>HolesPoints</key>
+								<array/>
+								<key>IsCircle</key>
+								<false/>
+								<key>IsRectangle</key>
+								<true/>
+								<key>IsSensor</key>
+								<false/>
+								<key>LHHeight</key>
+								<real>283</real>
+								<key>LHShapePositionOffset</key>
+								<string>{-75.5, -141.5}</string>
+								<key>LHWidth</key>
+								<real>151</real>
+								<key>Mask</key>
+								<integer>65535</integer>
+								<key>Name</key>
+								<string>UntitledFixture</string>
+								<key>Restitution</key>
+								<real>0.20000000298023224</real>
+								<key>ShapePoints</key>
+								<array>
+									<string>{0, 0}</string>
+									<string>{302, 0}</string>
+									<string>{302, 566}</string>
+									<string>{0, 566}</string>
+								</array>
+								<key>ShapePositionOffset</key>
+								<string>{0, 0}</string>
+								<key>Tag</key>
+								<integer>0</integer>
+								<key>Width</key>
+								<real>302</real>
+							</dict>
+						</array>
+						<key>Type</key>
+						<integer>0</integer>
+					</dict>
+					<key>SHSheetName</key>
+					<string>initierRed</string>
+					<key>SHSpriteName</key>
+					<string>doorred2</string>
+					<key>SheetImage</key>
+					<string>initierRed_initierRed.png</string>
+					<key>SheetImage-HD</key>
+					<string>initierRed_initierRed-hd.png</string>
+					<key>TextureProperties</key>
+					<dict>
+						<key>Angle</key>
+						<integer>0</integer>
+						<key>Border</key>
+						<integer>0</integer>
+						<key>CanBeTrimmed</key>
+						<false/>
+						<key>Color</key>
+						<string>{{1, 1}, {1, 0}}</string>
+						<key>ConvertedFromOldFormat</key>
+						<true/>
+						<key>CustomClassName</key>
+						<string></string>
+						<key>FlipX</key>
+						<false/>
+						<key>FlipY</key>
+						<false/>
+						<key>Frame</key>
+						<string>{{307, 181}, {151, 283}}</string>
+						<key>Frame-HD</key>
+						<string>{{614, 362}, {302, 566}}</string>
+						<key>Image</key>
+						<string>initierRed_initierRed.png</string>
+						<key>Image-HD</key>
+						<string>initierRed_initierRed-hd.png</string>
+						<key>IsCropped</key>
+						<false/>
+						<key>IsDrawable</key>
+						<true/>
+						<key>IsRotated</key>
+						<false/>
+						<key>IsTrimmed</key>
+						<false/>
+						<key>Name</key>
+						<string>doorred2</string>
+						<key>Opacity</key>
+						<real>1</real>
+						<key>OriginalImage</key>
+						<string>/Users/pratofungus/Documents/xcode/castillo/Castillo/Resources/Images//initierRed-hd.png</string>
+						<key>OriginalImage_RelativePath</key>
+						<string>initierRed-hd.png/</string>
+						<key>OriginalRect</key>
+						<string>{{614, 362}, {302, 566}}</string>
+						<key>OriginalSize</key>
+						<string>{302, 566}</string>
+						<key>Position</key>
+						<string>{614, 362}</string>
+						<key>Scale</key>
+						<string>{1, 1}</string>
+						<key>SpriteSize</key>
+						<string>{151, 283}</string>
+						<key>SpriteWasBreaked</key>
+						<false/>
+						<key>Tag</key>
+						<integer>0</integer>
+						<key>TextureOffset</key>
+						<string>{0, 0}</string>
+						<key>UsesBatchRendering</key>
+						<false/>
+						<key>ZOrder</key>
+						<integer>0</integer>
+					</dict>
+				</dict>
+				<key>doorred3</key>
+				<dict>
+					<key>DocumentSecurityImageBookmark</key>
+					<data>
+					Ym9va5wEAAAAAAQQMAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAdAMAAAUA
+					AAABAQAAVXNlcnMAAAALAAAAAQEAAHByYXRv
+					ZnVuZ3VzAAkAAAABAQAARG9jdW1lbnRzAAAA
+					BQAAAAEBAAB4Y29kZQAAAAgAAAABAQAAY2Fz
+					dGlsbG8IAAAAAQEAAENhc3RpbGxvCQAAAAEB
+					AABSZXNvdXJjZXMAAAAGAAAAAQEAAEltYWdl
+					cwAAEQAAAAEBAABpbml0aWVyUmVkLWhkLnBu
+					ZwAAACQAAAABBgAABAAAABQAAAAoAAAAPAAA
+					AEwAAABcAAAAbAAAAIAAAACQAAAACAAAAAQD
+					AACnAwIAAAAAAAgAAAAEAwAA/8EFAAAAAAAI
+					AAAABAMAAADCBQAAAAAACAAAAAQDAAC/9QkA
+					AAAAAAgAAAAEAwAAdOk/AAAAAAAIAAAABAMA
+					AJLpPwAAAAAACAAAAAQDAABE6z8AAAAAAAgA
+					AAAEAwAAUOs/AAAAAAAIAAAABAMAAG3rPwAA
+					AAAAJAAAAAEGAADYAAAA6AAAAPgAAAAIAQAA
+					GAEAACgBAAA4AQAASAEAAFgBAAAIAAAAAAQA
+					AEG3WabMAAAAGAAAAAECAAABAAAAAAAAAA8A
+					AAAAAAAAAAAAAAAAAAAAAAAAAQUAAAQAAAAD
+					AwAAAQAAAAgAAAAEAwAABwAAAAAAAAAEAAAA
+					AwMAAPUBAAAMAAAAAQEAAE1hY2ludG9zaCBI
+					RAgAAAAEAwAAAICBPXQAAAAIAAAAAAQAAEG1
+					2mIwAAAAJAAAAAEBAAAxODA4M0E2QS0wN0Iz
+					LTNDMzAtOURGNi04ODc2NDQzQjY1QjkYAAAA
+					AQIAAIEAAAABAAgA7z8AAAEACAAAAAAAAAAA
+					AAEAAAABAQAALwAAAAQAAAADAwAAAAEAAN8A
+					AAABAgAAYTI5OGVmMDU4NGViZjZhNDFmZDBm
+					NjNmZTA2ZWM2OTZhY2E5MmI1MDswMDAwMDAw
+					MDswMDAwMDAwMDAwMDAwMDIwO2NvbS5hcHBs
+					ZS5hcHAtc2FuZGJveC5yZWFkLXdyaXRlOzAw
+					MDAwMDAxOzAxMDAwMDAyOzAwMDAwMDAwMDAz
+					ZmViNmQ7L3VzZXJzL3ByYXRvZnVuZ3VzL2Rv
+					Y3VtZW50cy94Y29kZS9jYXN0aWxsby9jYXN0
+					aWxsby9yZXNvdXJjZXMvaW1hZ2VzL2luaXRp
+					ZXJyZWQtaGQucG5nAADwAAAA/v///wEAAAAA
+					AAAAEwAAAAQQAACsAAAAAAAAAAUQAABoAQAA
+					AAAAABAQAACkAQAAAAAAAEAQAACUAQAAAAAA
+					AFQQAADMAQAAAAAAAFUQAADMAQAAAAAAAFYQ
+					AADEAQAAAAAAAAIgAAB0AgAAAAAAABAgAAD0
+					AQAAAAAAABEgAAAoAgAAAAAAABIgAAAIAgAA
+					AAAAABMgAAAYAgAAAAAAACAgAABUAgAAAAAA
+					ADAgAADEAQAAAAAAAAHAAADYAQAAAAAAABHA
+					AAAUAAAAAAAAABLAAADoAQAAAAAAABDQAACA
+					AgAAAAAAAIDwAACMAgAAAAAAAA==
+					</data>
+					<key>IsSHSprite</key>
+					<true/>
+					<key>PhysicProperties</key>
+					<dict>
+						<key>AngularDamping</key>
+						<real>0.0</real>
+						<key>AngularVelocity</key>
+						<real>0.0</real>
+						<key>CanSleep</key>
+						<true/>
+						<key>FixedRot</key>
+						<false/>
+						<key>GravityScale</key>
+						<real>1</real>
+						<key>HandledBySH</key>
+						<true/>
+						<key>IsBullet</key>
+						<false/>
+						<key>LinearDamping</key>
+						<real>0.0</real>
+						<key>LinearVelocity</key>
+						<string>{0, 0}</string>
+						<key>SH_ComplexShapes</key>
+						<array>
+							<dict>
+								<key>Angle</key>
+								<integer>0</integer>
+								<key>Category</key>
+								<integer>1</integer>
+								<key>Density</key>
+								<real>0.20000000298023224</real>
+								<key>Fixture</key>
+								<array>
+									<array>
+										<string>{-75.5, -141.5}</string>
+										<string>{75.5, -141.5}</string>
+										<string>{75.5, 141.5}</string>
+										<string>{-75.5, 141.5}</string>
+									</array>
+								</array>
+								<key>Friction</key>
+								<real>0.20000000298023224</real>
+								<key>Group</key>
+								<integer>0</integer>
+								<key>Height</key>
+								<real>566</real>
+								<key>HolesPoints</key>
+								<array/>
+								<key>IsCircle</key>
+								<false/>
+								<key>IsRectangle</key>
+								<true/>
+								<key>IsSensor</key>
+								<false/>
+								<key>LHHeight</key>
+								<real>283</real>
+								<key>LHShapePositionOffset</key>
+								<string>{-75.5, -141.5}</string>
+								<key>LHWidth</key>
+								<real>151</real>
+								<key>Mask</key>
+								<integer>65535</integer>
+								<key>Name</key>
+								<string>UntitledFixture</string>
+								<key>Restitution</key>
+								<real>0.20000000298023224</real>
+								<key>ShapePoints</key>
+								<array>
+									<string>{0, 0}</string>
+									<string>{302, 0}</string>
+									<string>{302, 566}</string>
+									<string>{0, 566}</string>
+								</array>
+								<key>ShapePositionOffset</key>
+								<string>{0, 0}</string>
+								<key>Tag</key>
+								<integer>0</integer>
+								<key>Width</key>
+								<real>302</real>
+							</dict>
+						</array>
+						<key>Type</key>
+						<integer>0</integer>
+					</dict>
+					<key>SHSheetName</key>
+					<string>initierRed</string>
+					<key>SHSpriteName</key>
+					<string>doorred3</string>
+					<key>SheetImage</key>
+					<string>initierRed_initierRed.png</string>
+					<key>SheetImage-HD</key>
+					<string>initierRed_initierRed-hd.png</string>
+					<key>TextureProperties</key>
+					<dict>
+						<key>Angle</key>
+						<integer>0</integer>
+						<key>Border</key>
+						<integer>0</integer>
+						<key>CanBeTrimmed</key>
+						<false/>
+						<key>Color</key>
+						<string>{{1, 1}, {1, 0}}</string>
+						<key>ConvertedFromOldFormat</key>
+						<true/>
+						<key>CustomClassName</key>
+						<string></string>
+						<key>FlipX</key>
+						<false/>
+						<key>FlipY</key>
+						<false/>
+						<key>Frame</key>
+						<string>{{0, 181}, {151, 283}}</string>
+						<key>Frame-HD</key>
+						<string>{{0, 362}, {302, 566}}</string>
+						<key>Image</key>
+						<string>initierRed_initierRed.png</string>
+						<key>Image-HD</key>
+						<string>initierRed_initierRed-hd.png</string>
+						<key>IsCropped</key>
+						<false/>
+						<key>IsDrawable</key>
+						<true/>
+						<key>IsRotated</key>
+						<false/>
+						<key>IsTrimmed</key>
+						<false/>
+						<key>Name</key>
+						<string>doorred3</string>
+						<key>Opacity</key>
+						<real>1</real>
+						<key>OriginalImage</key>
+						<string>/Users/pratofungus/Documents/xcode/castillo/Castillo/Resources/Images//initierRed-hd.png</string>
+						<key>OriginalImage_RelativePath</key>
+						<string>initierRed-hd.png/</string>
+						<key>OriginalRect</key>
+						<string>{{0, 362}, {302, 566}}</string>
+						<key>OriginalSize</key>
+						<string>{302, 566}</string>
+						<key>Position</key>
+						<string>{0, 362}</string>
+						<key>Scale</key>
+						<string>{1, 1}</string>
+						<key>SpriteSize</key>
+						<string>{151, 283}</string>
+						<key>SpriteWasBreaked</key>
+						<false/>
+						<key>Tag</key>
+						<integer>0</integer>
+						<key>TextureOffset</key>
+						<string>{0, 0}</string>
+						<key>UsesBatchRendering</key>
+						<false/>
+						<key>ZOrder</key>
+						<integer>0</integer>
+					</dict>
+				</dict>
+				<key>doorred4</key>
+				<dict>
+					<key>DocumentSecurityImageBookmark</key>
+					<data>
+					Ym9va5wEAAAAAAQQMAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAdAMAAAUA
+					AAABAQAAVXNlcnMAAAALAAAAAQEAAHByYXRv
+					ZnVuZ3VzAAkAAAABAQAARG9jdW1lbnRzAAAA
+					BQAAAAEBAAB4Y29kZQAAAAgAAAABAQAAY2Fz
+					dGlsbG8IAAAAAQEAAENhc3RpbGxvCQAAAAEB
+					AABSZXNvdXJjZXMAAAAGAAAAAQEAAEltYWdl
+					cwAAEQAAAAEBAABpbml0aWVyUmVkLWhkLnBu
+					ZwAAACQAAAABBgAABAAAABQAAAAoAAAAPAAA
+					AEwAAABcAAAAbAAAAIAAAACQAAAACAAAAAQD
+					AACnAwIAAAAAAAgAAAAEAwAA/8EFAAAAAAAI
+					AAAABAMAAADCBQAAAAAACAAAAAQDAAC/9QkA
+					AAAAAAgAAAAEAwAAdOk/AAAAAAAIAAAABAMA
+					AJLpPwAAAAAACAAAAAQDAABE6z8AAAAAAAgA
+					AAAEAwAAUOs/AAAAAAAIAAAABAMAAG3rPwAA
+					AAAAJAAAAAEGAADYAAAA6AAAAPgAAAAIAQAA
+					GAEAACgBAAA4AQAASAEAAFgBAAAIAAAAAAQA
+					AEG3WabMAAAAGAAAAAECAAABAAAAAAAAAA8A
+					AAAAAAAAAAAAAAAAAAAAAAAAAQUAAAQAAAAD
+					AwAAAQAAAAgAAAAEAwAABwAAAAAAAAAEAAAA
+					AwMAAPUBAAAMAAAAAQEAAE1hY2ludG9zaCBI
+					RAgAAAAEAwAAAICBPXQAAAAIAAAAAAQAAEG1
+					2mIwAAAAJAAAAAEBAAAxODA4M0E2QS0wN0Iz
+					LTNDMzAtOURGNi04ODc2NDQzQjY1QjkYAAAA
+					AQIAAIEAAAABAAgA7z8AAAEACAAAAAAAAAAA
+					AAEAAAABAQAALwAAAAQAAAADAwAAAAEAAN8A
+					AAABAgAAYTI5OGVmMDU4NGViZjZhNDFmZDBm
+					NjNmZTA2ZWM2OTZhY2E5MmI1MDswMDAwMDAw
+					MDswMDAwMDAwMDAwMDAwMDIwO2NvbS5hcHBs
+					ZS5hcHAtc2FuZGJveC5yZWFkLXdyaXRlOzAw
+					MDAwMDAxOzAxMDAwMDAyOzAwMDAwMDAwMDAz
+					ZmViNmQ7L3VzZXJzL3ByYXRvZnVuZ3VzL2Rv
+					Y3VtZW50cy94Y29kZS9jYXN0aWxsby9jYXN0
+					aWxsby9yZXNvdXJjZXMvaW1hZ2VzL2luaXRp
+					ZXJyZWQtaGQucG5nAADwAAAA/v///wEAAAAA
+					AAAAEwAAAAQQAACsAAAAAAAAAAUQAABoAQAA
+					AAAAABAQAACkAQAAAAAAAEAQAACUAQAAAAAA
+					AFQQAADMAQAAAAAAAFUQAADMAQAAAAAAAFYQ
+					AADEAQAAAAAAAAIgAAB0AgAAAAAAABAgAAD0
+					AQAAAAAAABEgAAAoAgAAAAAAABIgAAAIAgAA
+					AAAAABMgAAAYAgAAAAAAACAgAABUAgAAAAAA
+					ADAgAADEAQAAAAAAAAHAAADYAQAAAAAAABHA
+					AAAUAAAAAAAAABLAAADoAQAAAAAAABDQAACA
+					AgAAAAAAAIDwAACMAgAAAAAAAA==
+					</data>
+					<key>IsSHSprite</key>
+					<true/>
+					<key>PhysicProperties</key>
+					<dict>
+						<key>AngularDamping</key>
+						<real>0.0</real>
+						<key>AngularVelocity</key>
+						<real>0.0</real>
+						<key>CanSleep</key>
+						<true/>
+						<key>FixedRot</key>
+						<false/>
+						<key>GravityScale</key>
+						<real>1</real>
+						<key>HandledBySH</key>
+						<true/>
+						<key>IsBullet</key>
+						<false/>
+						<key>LinearDamping</key>
+						<real>0.0</real>
+						<key>LinearVelocity</key>
+						<string>{0, 0}</string>
+						<key>SH_ComplexShapes</key>
+						<array>
+							<dict>
+								<key>Angle</key>
+								<integer>0</integer>
+								<key>Category</key>
+								<integer>1</integer>
+								<key>Density</key>
+								<real>0.20000000298023224</real>
+								<key>Fixture</key>
+								<array>
+									<array>
+										<string>{-75.5, -141.5}</string>
+										<string>{75.5, -141.5}</string>
+										<string>{75.5, 141.5}</string>
+										<string>{-75.5, 141.5}</string>
+									</array>
+								</array>
+								<key>Friction</key>
+								<real>0.20000000298023224</real>
+								<key>Group</key>
+								<integer>0</integer>
+								<key>Height</key>
+								<real>566</real>
+								<key>HolesPoints</key>
+								<array/>
+								<key>IsCircle</key>
+								<false/>
+								<key>IsRectangle</key>
+								<true/>
+								<key>IsSensor</key>
+								<false/>
+								<key>LHHeight</key>
+								<real>283</real>
+								<key>LHShapePositionOffset</key>
+								<string>{-75.5, -141.5}</string>
+								<key>LHWidth</key>
+								<real>151</real>
+								<key>Mask</key>
+								<integer>65535</integer>
+								<key>Name</key>
+								<string>UntitledFixture</string>
+								<key>Restitution</key>
+								<real>0.20000000298023224</real>
+								<key>ShapePoints</key>
+								<array>
+									<string>{0, 0}</string>
+									<string>{302, 0}</string>
+									<string>{302, 566}</string>
+									<string>{0, 566}</string>
+								</array>
+								<key>ShapePositionOffset</key>
+								<string>{0, 0}</string>
+								<key>Tag</key>
+								<integer>0</integer>
+								<key>Width</key>
+								<real>302</real>
+							</dict>
+						</array>
+						<key>Type</key>
+						<integer>0</integer>
+					</dict>
+					<key>SHSheetName</key>
+					<string>initierRed</string>
+					<key>SHSpriteName</key>
+					<string>doorred4</string>
+					<key>SheetImage</key>
+					<string>initierRed_initierRed.png</string>
+					<key>SheetImage-HD</key>
+					<string>initierRed_initierRed-hd.png</string>
+					<key>TextureProperties</key>
+					<dict>
+						<key>Angle</key>
+						<integer>0</integer>
+						<key>Border</key>
+						<integer>0</integer>
+						<key>CanBeTrimmed</key>
+						<false/>
+						<key>Color</key>
+						<string>{{1, 1}, {1, 0}}</string>
+						<key>ConvertedFromOldFormat</key>
+						<true/>
+						<key>CustomClassName</key>
+						<string></string>
+						<key>FlipX</key>
+						<false/>
+						<key>FlipY</key>
+						<false/>
+						<key>Frame</key>
+						<string>{{307, 466}, {151, 283}}</string>
+						<key>Frame-HD</key>
+						<string>{{614, 932}, {302, 566}}</string>
+						<key>Image</key>
+						<string>initierRed_initierRed.png</string>
+						<key>Image-HD</key>
+						<string>initierRed_initierRed-hd.png</string>
+						<key>IsCropped</key>
+						<false/>
+						<key>IsDrawable</key>
+						<true/>
+						<key>IsRotated</key>
+						<false/>
+						<key>IsTrimmed</key>
+						<false/>
+						<key>Name</key>
+						<string>doorred4</string>
+						<key>Opacity</key>
+						<real>1</real>
+						<key>OriginalImage</key>
+						<string>/Users/pratofungus/Documents/xcode/castillo/Castillo/Resources/Images//initierRed-hd.png</string>
+						<key>OriginalImage_RelativePath</key>
+						<string>initierRed-hd.png/</string>
+						<key>OriginalRect</key>
+						<string>{{614, 932}, {302, 566}}</string>
+						<key>OriginalSize</key>
+						<string>{302, 566}</string>
+						<key>Position</key>
+						<string>{614, 932}</string>
+						<key>Scale</key>
+						<string>{1, 1}</string>
+						<key>SpriteSize</key>
+						<string>{151, 283}</string>
+						<key>SpriteWasBreaked</key>
+						<false/>
+						<key>Tag</key>
+						<integer>0</integer>
+						<key>TextureOffset</key>
+						<string>{0, 0}</string>
+						<key>UsesBatchRendering</key>
+						<false/>
+						<key>ZOrder</key>
+						<integer>0</integer>
+					</dict>
+				</dict>
+				<key>doorred5</key>
+				<dict>
+					<key>DocumentSecurityImageBookmark</key>
+					<data>
+					Ym9va5wEAAAAAAQQMAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAdAMAAAUA
+					AAABAQAAVXNlcnMAAAALAAAAAQEAAHByYXRv
+					ZnVuZ3VzAAkAAAABAQAARG9jdW1lbnRzAAAA
+					BQAAAAEBAAB4Y29kZQAAAAgAAAABAQAAY2Fz
+					dGlsbG8IAAAAAQEAAENhc3RpbGxvCQAAAAEB
+					AABSZXNvdXJjZXMAAAAGAAAAAQEAAEltYWdl
+					cwAAEQAAAAEBAABpbml0aWVyUmVkLWhkLnBu
+					ZwAAACQAAAABBgAABAAAABQAAAAoAAAAPAAA
+					AEwAAABcAAAAbAAAAIAAAACQAAAACAAAAAQD
+					AACnAwIAAAAAAAgAAAAEAwAA/8EFAAAAAAAI
+					AAAABAMAAADCBQAAAAAACAAAAAQDAAC/9QkA
+					AAAAAAgAAAAEAwAAdOk/AAAAAAAIAAAABAMA
+					AJLpPwAAAAAACAAAAAQDAABE6z8AAAAAAAgA
+					AAAEAwAAUOs/AAAAAAAIAAAABAMAAG3rPwAA
+					AAAAJAAAAAEGAADYAAAA6AAAAPgAAAAIAQAA
+					GAEAACgBAAA4AQAASAEAAFgBAAAIAAAAAAQA
+					AEG3WabMAAAAGAAAAAECAAABAAAAAAAAAA8A
+					AAAAAAAAAAAAAAAAAAAAAAAAAQUAAAQAAAAD
+					AwAAAQAAAAgAAAAEAwAABwAAAAAAAAAEAAAA
+					AwMAAPUBAAAMAAAAAQEAAE1hY2ludG9zaCBI
+					RAgAAAAEAwAAAICBPXQAAAAIAAAAAAQAAEG1
+					2mIwAAAAJAAAAAEBAAAxODA4M0E2QS0wN0Iz
+					LTNDMzAtOURGNi04ODc2NDQzQjY1QjkYAAAA
+					AQIAAIEAAAABAAgA7z8AAAEACAAAAAAAAAAA
+					AAEAAAABAQAALwAAAAQAAAADAwAAAAEAAN8A
+					AAABAgAAYTI5OGVmMDU4NGViZjZhNDFmZDBm
+					NjNmZTA2ZWM2OTZhY2E5MmI1MDswMDAwMDAw
+					MDswMDAwMDAwMDAwMDAwMDIwO2NvbS5hcHBs
+					ZS5hcHAtc2FuZGJveC5yZWFkLXdyaXRlOzAw
+					MDAwMDAxOzAxMDAwMDAyOzAwMDAwMDAwMDAz
+					ZmViNmQ7L3VzZXJzL3ByYXRvZnVuZ3VzL2Rv
+					Y3VtZW50cy94Y29kZS9jYXN0aWxsby9jYXN0
+					aWxsby9yZXNvdXJjZXMvaW1hZ2VzL2luaXRp
+					ZXJyZWQtaGQucG5nAADwAAAA/v///wEAAAAA
+					AAAAEwAAAAQQAACsAAAAAAAAAAUQAABoAQAA
+					AAAAABAQAACkAQAAAAAAAEAQAACUAQAAAAAA
+					AFQQAADMAQAAAAAAAFUQAADMAQAAAAAAAFYQ
+					AADEAQAAAAAAAAIgAAB0AgAAAAAAABAgAAD0
+					AQAAAAAAABEgAAAoAgAAAAAAABIgAAAIAgAA
+					AAAAABMgAAAYAgAAAAAAACAgAABUAgAAAAAA
+					ADAgAADEAQAAAAAAAAHAAADYAQAAAAAAABHA
+					AAAUAAAAAAAAABLAAADoAQAAAAAAABDQAACA
+					AgAAAAAAAIDwAACMAgAAAAAAAA==
+					</data>
+					<key>IsSHSprite</key>
+					<true/>
+					<key>PhysicProperties</key>
+					<dict>
+						<key>AngularDamping</key>
+						<real>0.0</real>
+						<key>AngularVelocity</key>
+						<real>0.0</real>
+						<key>CanSleep</key>
+						<true/>
+						<key>FixedRot</key>
+						<false/>
+						<key>GravityScale</key>
+						<real>1</real>
+						<key>HandledBySH</key>
+						<true/>
+						<key>IsBullet</key>
+						<false/>
+						<key>LinearDamping</key>
+						<real>0.0</real>
+						<key>LinearVelocity</key>
+						<string>{0, 0}</string>
+						<key>SH_ComplexShapes</key>
+						<array>
+							<dict>
+								<key>Angle</key>
+								<integer>0</integer>
+								<key>Category</key>
+								<integer>1</integer>
+								<key>Density</key>
+								<real>0.20000000298023224</real>
+								<key>Fixture</key>
+								<array>
+									<array>
+										<string>{-75.5, -141.5}</string>
+										<string>{75.5, -141.5}</string>
+										<string>{75.5, 141.5}</string>
+										<string>{-75.5, 141.5}</string>
+									</array>
+								</array>
+								<key>Friction</key>
+								<real>0.20000000298023224</real>
+								<key>Group</key>
+								<integer>0</integer>
+								<key>Height</key>
+								<real>566</real>
+								<key>HolesPoints</key>
+								<array/>
+								<key>IsCircle</key>
+								<false/>
+								<key>IsRectangle</key>
+								<true/>
+								<key>IsSensor</key>
+								<false/>
+								<key>LHHeight</key>
+								<real>283</real>
+								<key>LHShapePositionOffset</key>
+								<string>{-75.5, -141.5}</string>
+								<key>LHWidth</key>
+								<real>151</real>
+								<key>Mask</key>
+								<integer>65535</integer>
+								<key>Name</key>
+								<string>UntitledFixture</string>
+								<key>Restitution</key>
+								<real>0.20000000298023224</real>
+								<key>ShapePoints</key>
+								<array>
+									<string>{0, 0}</string>
+									<string>{302, 0}</string>
+									<string>{302, 566}</string>
+									<string>{0, 566}</string>
+								</array>
+								<key>ShapePositionOffset</key>
+								<string>{0, 0}</string>
+								<key>Tag</key>
+								<integer>0</integer>
+								<key>Width</key>
+								<real>302</real>
+							</dict>
+						</array>
+						<key>Type</key>
+						<integer>0</integer>
+					</dict>
+					<key>SHSheetName</key>
+					<string>initierRed</string>
+					<key>SHSpriteName</key>
+					<string>doorred5</string>
+					<key>SheetImage</key>
+					<string>initierRed_initierRed.png</string>
+					<key>SheetImage-HD</key>
+					<string>initierRed_initierRed-hd.png</string>
+					<key>TextureProperties</key>
+					<dict>
+						<key>Angle</key>
+						<integer>0</integer>
+						<key>Border</key>
+						<integer>0</integer>
+						<key>CanBeTrimmed</key>
+						<false/>
+						<key>Color</key>
+						<string>{{1, 1}, {1, 0}}</string>
+						<key>ConvertedFromOldFormat</key>
+						<true/>
+						<key>CustomClassName</key>
+						<string></string>
+						<key>FlipX</key>
+						<false/>
+						<key>FlipY</key>
+						<false/>
+						<key>Frame</key>
+						<string>{{0, 466}, {151, 283}}</string>
+						<key>Frame-HD</key>
+						<string>{{0, 932}, {302, 566}}</string>
+						<key>Image</key>
+						<string>initierRed_initierRed.png</string>
+						<key>Image-HD</key>
+						<string>initierRed_initierRed-hd.png</string>
+						<key>IsCropped</key>
+						<false/>
+						<key>IsDrawable</key>
+						<true/>
+						<key>IsRotated</key>
+						<false/>
+						<key>IsTrimmed</key>
+						<false/>
+						<key>Name</key>
+						<string>doorred5</string>
+						<key>Opacity</key>
+						<real>1</real>
+						<key>OriginalImage</key>
+						<string>/Users/pratofungus/Documents/xcode/castillo/Castillo/Resources/Images//initierRed-hd.png</string>
+						<key>OriginalImage_RelativePath</key>
+						<string>initierRed-hd.png/</string>
+						<key>OriginalRect</key>
+						<string>{{0, 932}, {302, 566}}</string>
+						<key>OriginalSize</key>
+						<string>{302, 566}</string>
+						<key>Position</key>
+						<string>{0, 932}</string>
+						<key>Scale</key>
+						<string>{1, 1}</string>
+						<key>SpriteSize</key>
+						<string>{151, 283}</string>
+						<key>SpriteWasBreaked</key>
+						<false/>
+						<key>Tag</key>
+						<integer>0</integer>
+						<key>TextureOffset</key>
+						<string>{0, 0}</string>
+						<key>UsesBatchRendering</key>
+						<false/>
+						<key>ZOrder</key>
+						<integer>0</integer>
+					</dict>
+				</dict>
+				<key>doorred6</key>
+				<dict>
+					<key>DocumentSecurityImageBookmark</key>
+					<data>
+					Ym9va5wEAAAAAAQQMAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAdAMAAAUA
+					AAABAQAAVXNlcnMAAAALAAAAAQEAAHByYXRv
+					ZnVuZ3VzAAkAAAABAQAARG9jdW1lbnRzAAAA
+					BQAAAAEBAAB4Y29kZQAAAAgAAAABAQAAY2Fz
+					dGlsbG8IAAAAAQEAAENhc3RpbGxvCQAAAAEB
+					AABSZXNvdXJjZXMAAAAGAAAAAQEAAEltYWdl
+					cwAAEQAAAAEBAABpbml0aWVyUmVkLWhkLnBu
+					ZwAAACQAAAABBgAABAAAABQAAAAoAAAAPAAA
+					AEwAAABcAAAAbAAAAIAAAACQAAAACAAAAAQD
+					AACnAwIAAAAAAAgAAAAEAwAA/8EFAAAAAAAI
+					AAAABAMAAADCBQAAAAAACAAAAAQDAAC/9QkA
+					AAAAAAgAAAAEAwAAdOk/AAAAAAAIAAAABAMA
+					AJLpPwAAAAAACAAAAAQDAABE6z8AAAAAAAgA
+					AAAEAwAAUOs/AAAAAAAIAAAABAMAAG3rPwAA
+					AAAAJAAAAAEGAADYAAAA6AAAAPgAAAAIAQAA
+					GAEAACgBAAA4AQAASAEAAFgBAAAIAAAAAAQA
+					AEG3WabMAAAAGAAAAAECAAABAAAAAAAAAA8A
+					AAAAAAAAAAAAAAAAAAAAAAAAAQUAAAQAAAAD
+					AwAAAQAAAAgAAAAEAwAABwAAAAAAAAAEAAAA
+					AwMAAPUBAAAMAAAAAQEAAE1hY2ludG9zaCBI
+					RAgAAAAEAwAAAICBPXQAAAAIAAAAAAQAAEG1
+					2mIwAAAAJAAAAAEBAAAxODA4M0E2QS0wN0Iz
+					LTNDMzAtOURGNi04ODc2NDQzQjY1QjkYAAAA
+					AQIAAIEAAAABAAgA7z8AAAEACAAAAAAAAAAA
+					AAEAAAABAQAALwAAAAQAAAADAwAAAAEAAN8A
+					AAABAgAAYTI5OGVmMDU4NGViZjZhNDFmZDBm
+					NjNmZTA2ZWM2OTZhY2E5MmI1MDswMDAwMDAw
+					MDswMDAwMDAwMDAwMDAwMDIwO2NvbS5hcHBs
+					ZS5hcHAtc2FuZGJveC5yZWFkLXdyaXRlOzAw
+					MDAwMDAxOzAxMDAwMDAyOzAwMDAwMDAwMDAz
+					ZmViNmQ7L3VzZXJzL3ByYXRvZnVuZ3VzL2Rv
+					Y3VtZW50cy94Y29kZS9jYXN0aWxsby9jYXN0
+					aWxsby9yZXNvdXJjZXMvaW1hZ2VzL2luaXRp
+					ZXJyZWQtaGQucG5nAADwAAAA/v///wEAAAAA
+					AAAAEwAAAAQQAACsAAAAAAAAAAUQAABoAQAA
+					AAAAABAQAACkAQAAAAAAAEAQAACUAQAAAAAA
+					AFQQAADMAQAAAAAAAFUQAADMAQAAAAAAAFYQ
+					AADEAQAAAAAAAAIgAAB0AgAAAAAAABAgAAD0
+					AQAAAAAAABEgAAAoAgAAAAAAABIgAAAIAgAA
+					AAAAABMgAAAYAgAAAAAAACAgAABUAgAAAAAA
+					ADAgAADEAQAAAAAAAAHAAADYAQAAAAAAABHA
+					AAAUAAAAAAAAABLAAADoAQAAAAAAABDQAACA
+					AgAAAAAAAIDwAACMAgAAAAAAAA==
+					</data>
+					<key>IsSHSprite</key>
+					<true/>
+					<key>PhysicProperties</key>
+					<dict>
+						<key>AngularDamping</key>
+						<real>0.0</real>
+						<key>AngularVelocity</key>
+						<real>0.0</real>
+						<key>CanSleep</key>
+						<true/>
+						<key>FixedRot</key>
+						<false/>
+						<key>GravityScale</key>
+						<real>1</real>
+						<key>HandledBySH</key>
+						<true/>
+						<key>IsBullet</key>
+						<false/>
+						<key>LinearDamping</key>
+						<real>0.0</real>
+						<key>LinearVelocity</key>
+						<string>{0, 0}</string>
+						<key>SH_ComplexShapes</key>
+						<array>
+							<dict>
+								<key>Angle</key>
+								<integer>0</integer>
+								<key>Category</key>
+								<integer>1</integer>
+								<key>Density</key>
+								<real>0.20000000298023224</real>
+								<key>Fixture</key>
+								<array>
+									<array>
+										<string>{-75.5, -141.5}</string>
+										<string>{75.5, -141.5}</string>
+										<string>{75.5, 141.5}</string>
+										<string>{-75.5, 141.5}</string>
+									</array>
+								</array>
+								<key>Friction</key>
+								<real>0.20000000298023224</real>
+								<key>Group</key>
+								<integer>0</integer>
+								<key>Height</key>
+								<real>566</real>
+								<key>HolesPoints</key>
+								<array/>
+								<key>IsCircle</key>
+								<false/>
+								<key>IsRectangle</key>
+								<true/>
+								<key>IsSensor</key>
+								<false/>
+								<key>LHHeight</key>
+								<real>283</real>
+								<key>LHShapePositionOffset</key>
+								<string>{-75.5, -141.5}</string>
+								<key>LHWidth</key>
+								<real>151</real>
+								<key>Mask</key>
+								<integer>65535</integer>
+								<key>Name</key>
+								<string>UntitledFixture</string>
+								<key>Restitution</key>
+								<real>0.20000000298023224</real>
+								<key>ShapePoints</key>
+								<array>
+									<string>{0, 0}</string>
+									<string>{302, 0}</string>
+									<string>{302, 566}</string>
+									<string>{0, 566}</string>
+								</array>
+								<key>ShapePositionOffset</key>
+								<string>{0, 0}</string>
+								<key>Tag</key>
+								<integer>0</integer>
+								<key>Width</key>
+								<real>302</real>
+							</dict>
+						</array>
+						<key>Type</key>
+						<integer>0</integer>
+					</dict>
+					<key>SHSheetName</key>
+					<string>initierRed</string>
+					<key>SHSpriteName</key>
+					<string>doorred6</string>
+					<key>SheetImage</key>
+					<string>initierRed_initierRed.png</string>
+					<key>SheetImage-HD</key>
+					<string>initierRed_initierRed-hd.png</string>
+					<key>TextureProperties</key>
+					<dict>
+						<key>Angle</key>
+						<integer>0</integer>
+						<key>Border</key>
+						<integer>0</integer>
+						<key>CanBeTrimmed</key>
+						<false/>
+						<key>Color</key>
+						<string>{{1, 1}, {1, 0}}</string>
+						<key>ConvertedFromOldFormat</key>
+						<true/>
+						<key>CustomClassName</key>
+						<string></string>
+						<key>FlipX</key>
+						<false/>
+						<key>FlipY</key>
+						<false/>
+						<key>Frame</key>
+						<string>{{461, 181}, {151, 283}}</string>
+						<key>Frame-HD</key>
+						<string>{{922, 362}, {302, 566}}</string>
+						<key>Image</key>
+						<string>initierRed_initierRed.png</string>
+						<key>Image-HD</key>
+						<string>initierRed_initierRed-hd.png</string>
+						<key>IsCropped</key>
+						<false/>
+						<key>IsDrawable</key>
+						<true/>
+						<key>IsRotated</key>
+						<false/>
+						<key>IsTrimmed</key>
+						<false/>
+						<key>Name</key>
+						<string>doorred6</string>
+						<key>Opacity</key>
+						<real>1</real>
+						<key>OriginalImage</key>
+						<string>/Users/pratofungus/Documents/xcode/castillo/Castillo/Resources/Images//initierRed-hd.png</string>
+						<key>OriginalImage_RelativePath</key>
+						<string>initierRed-hd.png/</string>
+						<key>OriginalRect</key>
+						<string>{{922, 362}, {302, 566}}</string>
+						<key>OriginalSize</key>
+						<string>{302, 566}</string>
+						<key>Position</key>
+						<string>{922, 362}</string>
+						<key>Scale</key>
+						<string>{1, 1}</string>
+						<key>SpriteSize</key>
+						<string>{151, 283}</string>
+						<key>SpriteWasBreaked</key>
+						<false/>
+						<key>Tag</key>
+						<integer>0</integer>
+						<key>TextureOffset</key>
+						<string>{0, 0}</string>
+						<key>UsesBatchRendering</key>
+						<false/>
+						<key>ZOrder</key>
+						<integer>0</integer>
+					</dict>
+				</dict>
+				<key>doorred7</key>
+				<dict>
+					<key>DocumentSecurityImageBookmark</key>
+					<data>
+					Ym9va5wEAAAAAAQQMAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAdAMAAAUA
+					AAABAQAAVXNlcnMAAAALAAAAAQEAAHByYXRv
+					ZnVuZ3VzAAkAAAABAQAARG9jdW1lbnRzAAAA
+					BQAAAAEBAAB4Y29kZQAAAAgAAAABAQAAY2Fz
+					dGlsbG8IAAAAAQEAAENhc3RpbGxvCQAAAAEB
+					AABSZXNvdXJjZXMAAAAGAAAAAQEAAEltYWdl
+					cwAAEQAAAAEBAABpbml0aWVyUmVkLWhkLnBu
+					ZwAAACQAAAABBgAABAAAABQAAAAoAAAAPAAA
+					AEwAAABcAAAAbAAAAIAAAACQAAAACAAAAAQD
+					AACnAwIAAAAAAAgAAAAEAwAA/8EFAAAAAAAI
+					AAAABAMAAADCBQAAAAAACAAAAAQDAAC/9QkA
+					AAAAAAgAAAAEAwAAdOk/AAAAAAAIAAAABAMA
+					AJLpPwAAAAAACAAAAAQDAABE6z8AAAAAAAgA
+					AAAEAwAAUOs/AAAAAAAIAAAABAMAAG3rPwAA
+					AAAAJAAAAAEGAADYAAAA6AAAAPgAAAAIAQAA
+					GAEAACgBAAA4AQAASAEAAFgBAAAIAAAAAAQA
+					AEG3WabMAAAAGAAAAAECAAABAAAAAAAAAA8A
+					AAAAAAAAAAAAAAAAAAAAAAAAAQUAAAQAAAAD
+					AwAAAQAAAAgAAAAEAwAABwAAAAAAAAAEAAAA
+					AwMAAPUBAAAMAAAAAQEAAE1hY2ludG9zaCBI
+					RAgAAAAEAwAAAICBPXQAAAAIAAAAAAQAAEG1
+					2mIwAAAAJAAAAAEBAAAxODA4M0E2QS0wN0Iz
+					LTNDMzAtOURGNi04ODc2NDQzQjY1QjkYAAAA
+					AQIAAIEAAAABAAgA7z8AAAEACAAAAAAAAAAA
+					AAEAAAABAQAALwAAAAQAAAADAwAAAAEAAN8A
+					AAABAgAAYTI5OGVmMDU4NGViZjZhNDFmZDBm
+					NjNmZTA2ZWM2OTZhY2E5MmI1MDswMDAwMDAw
+					MDswMDAwMDAwMDAwMDAwMDIwO2NvbS5hcHBs
+					ZS5hcHAtc2FuZGJveC5yZWFkLXdyaXRlOzAw
+					MDAwMDAxOzAxMDAwMDAyOzAwMDAwMDAwMDAz
+					ZmViNmQ7L3VzZXJzL3ByYXRvZnVuZ3VzL2Rv
+					Y3VtZW50cy94Y29kZS9jYXN0aWxsby9jYXN0
+					aWxsby9yZXNvdXJjZXMvaW1hZ2VzL2luaXRp
+					ZXJyZWQtaGQucG5nAADwAAAA/v///wEAAAAA
+					AAAAEwAAAAQQAACsAAAAAAAAAAUQAABoAQAA
+					AAAAABAQAACkAQAAAAAAAEAQAACUAQAAAAAA
+					AFQQAADMAQAAAAAAAFUQAADMAQAAAAAAAFYQ
+					AADEAQAAAAAAAAIgAAB0AgAAAAAAABAgAAD0
+					AQAAAAAAABEgAAAoAgAAAAAAABIgAAAIAgAA
+					AAAAABMgAAAYAgAAAAAAACAgAABUAgAAAAAA
+					ADAgAADEAQAAAAAAAAHAAADYAQAAAAAAABHA
+					AAAUAAAAAAAAABLAAADoAQAAAAAAABDQAACA
+					AgAAAAAAAIDwAACMAgAAAAAAAA==
+					</data>
+					<key>IsSHSprite</key>
+					<true/>
+					<key>PhysicProperties</key>
+					<dict>
+						<key>AngularDamping</key>
+						<real>0.0</real>
+						<key>AngularVelocity</key>
+						<real>0.0</real>
+						<key>CanSleep</key>
+						<true/>
+						<key>FixedRot</key>
+						<false/>
+						<key>GravityScale</key>
+						<real>1</real>
+						<key>HandledBySH</key>
+						<true/>
+						<key>IsBullet</key>
+						<false/>
+						<key>LinearDamping</key>
+						<real>0.0</real>
+						<key>LinearVelocity</key>
+						<string>{0, 0}</string>
+						<key>SH_ComplexShapes</key>
+						<array>
+							<dict>
+								<key>Angle</key>
+								<integer>0</integer>
+								<key>Category</key>
+								<integer>1</integer>
+								<key>Density</key>
+								<real>0.20000000298023224</real>
+								<key>Fixture</key>
+								<array>
+									<array>
+										<string>{-75.5, -141.5}</string>
+										<string>{75.5, -141.5}</string>
+										<string>{75.5, 141.5}</string>
+										<string>{-75.5, 141.5}</string>
+									</array>
+								</array>
+								<key>Friction</key>
+								<real>0.20000000298023224</real>
+								<key>Group</key>
+								<integer>0</integer>
+								<key>Height</key>
+								<real>566</real>
+								<key>HolesPoints</key>
+								<array/>
+								<key>IsCircle</key>
+								<false/>
+								<key>IsRectangle</key>
+								<true/>
+								<key>IsSensor</key>
+								<false/>
+								<key>LHHeight</key>
+								<real>283</real>
+								<key>LHShapePositionOffset</key>
+								<string>{-75.5, -141.5}</string>
+								<key>LHWidth</key>
+								<real>151</real>
+								<key>Mask</key>
+								<integer>65535</integer>
+								<key>Name</key>
+								<string>UntitledFixture</string>
+								<key>Restitution</key>
+								<real>0.20000000298023224</real>
+								<key>ShapePoints</key>
+								<array>
+									<string>{0, 0}</string>
+									<string>{302, 0}</string>
+									<string>{302, 566}</string>
+									<string>{0, 566}</string>
+								</array>
+								<key>ShapePositionOffset</key>
+								<string>{0, 0}</string>
+								<key>Tag</key>
+								<integer>0</integer>
+								<key>Width</key>
+								<real>302</real>
+							</dict>
+						</array>
+						<key>Type</key>
+						<integer>0</integer>
+					</dict>
+					<key>SHSheetName</key>
+					<string>initierRed</string>
+					<key>SHSpriteName</key>
+					<string>doorred7</string>
+					<key>SheetImage</key>
+					<string>initierRed_initierRed.png</string>
+					<key>SheetImage-HD</key>
+					<string>initierRed_initierRed-hd.png</string>
+					<key>TextureProperties</key>
+					<dict>
+						<key>Angle</key>
+						<integer>0</integer>
+						<key>Border</key>
+						<integer>0</integer>
+						<key>CanBeTrimmed</key>
+						<false/>
+						<key>Color</key>
+						<string>{{1, 1}, {1, 0}}</string>
+						<key>ConvertedFromOldFormat</key>
+						<true/>
+						<key>CustomClassName</key>
+						<string></string>
+						<key>FlipX</key>
+						<false/>
+						<key>FlipY</key>
+						<false/>
+						<key>Frame</key>
+						<string>{{154, 181}, {151, 283}}</string>
+						<key>Frame-HD</key>
+						<string>{{308, 362}, {302, 566}}</string>
+						<key>Image</key>
+						<string>initierRed_initierRed.png</string>
+						<key>Image-HD</key>
+						<string>initierRed_initierRed-hd.png</string>
+						<key>IsCropped</key>
+						<false/>
+						<key>IsDrawable</key>
+						<true/>
+						<key>IsRotated</key>
+						<false/>
+						<key>IsTrimmed</key>
+						<false/>
+						<key>Name</key>
+						<string>doorred7</string>
+						<key>Opacity</key>
+						<real>1</real>
+						<key>OriginalImage</key>
+						<string>/Users/pratofungus/Documents/xcode/castillo/Castillo/Resources/Images//initierRed-hd.png</string>
+						<key>OriginalImage_RelativePath</key>
+						<string>initierRed-hd.png/</string>
+						<key>OriginalRect</key>
+						<string>{{308, 362}, {302, 566}}</string>
+						<key>OriginalSize</key>
+						<string>{302, 566}</string>
+						<key>Position</key>
+						<string>{308, 362}</string>
+						<key>Scale</key>
+						<string>{1, 1}</string>
+						<key>SpriteSize</key>
+						<string>{151, 283}</string>
+						<key>SpriteWasBreaked</key>
+						<false/>
+						<key>Tag</key>
+						<integer>0</integer>
+						<key>TextureOffset</key>
+						<string>{0, 0}</string>
+						<key>UsesBatchRendering</key>
+						<false/>
+						<key>ZOrder</key>
+						<integer>0</integer>
+					</dict>
+				</dict>
+				<key>doorred8</key>
+				<dict>
+					<key>DocumentSecurityImageBookmark</key>
+					<data>
+					Ym9va5wEAAAAAAQQMAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAdAMAAAUA
+					AAABAQAAVXNlcnMAAAALAAAAAQEAAHByYXRv
+					ZnVuZ3VzAAkAAAABAQAARG9jdW1lbnRzAAAA
+					BQAAAAEBAAB4Y29kZQAAAAgAAAABAQAAY2Fz
+					dGlsbG8IAAAAAQEAAENhc3RpbGxvCQAAAAEB
+					AABSZXNvdXJjZXMAAAAGAAAAAQEAAEltYWdl
+					cwAAEQAAAAEBAABpbml0aWVyUmVkLWhkLnBu
+					ZwAAACQAAAABBgAABAAAABQAAAAoAAAAPAAA
+					AEwAAABcAAAAbAAAAIAAAACQAAAACAAAAAQD
+					AACnAwIAAAAAAAgAAAAEAwAA/8EFAAAAAAAI
+					AAAABAMAAADCBQAAAAAACAAAAAQDAAC/9QkA
+					AAAAAAgAAAAEAwAAdOk/AAAAAAAIAAAABAMA
+					AJLpPwAAAAAACAAAAAQDAABE6z8AAAAAAAgA
+					AAAEAwAAUOs/AAAAAAAIAAAABAMAAG3rPwAA
+					AAAAJAAAAAEGAADYAAAA6AAAAPgAAAAIAQAA
+					GAEAACgBAAA4AQAASAEAAFgBAAAIAAAAAAQA
+					AEG3WabMAAAAGAAAAAECAAABAAAAAAAAAA8A
+					AAAAAAAAAAAAAAAAAAAAAAAAAQUAAAQAAAAD
+					AwAAAQAAAAgAAAAEAwAABwAAAAAAAAAEAAAA
+					AwMAAPUBAAAMAAAAAQEAAE1hY2ludG9zaCBI
+					RAgAAAAEAwAAAICBPXQAAAAIAAAAAAQAAEG1
+					2mIwAAAAJAAAAAEBAAAxODA4M0E2QS0wN0Iz
+					LTNDMzAtOURGNi04ODc2NDQzQjY1QjkYAAAA
+					AQIAAIEAAAABAAgA7z8AAAEACAAAAAAAAAAA
+					AAEAAAABAQAALwAAAAQAAAADAwAAAAEAAN8A
+					AAABAgAAYTI5OGVmMDU4NGViZjZhNDFmZDBm
+					NjNmZTA2ZWM2OTZhY2E5MmI1MDswMDAwMDAw
+					MDswMDAwMDAwMDAwMDAwMDIwO2NvbS5hcHBs
+					ZS5hcHAtc2FuZGJveC5yZWFkLXdyaXRlOzAw
+					MDAwMDAxOzAxMDAwMDAyOzAwMDAwMDAwMDAz
+					ZmViNmQ7L3VzZXJzL3ByYXRvZnVuZ3VzL2Rv
+					Y3VtZW50cy94Y29kZS9jYXN0aWxsby9jYXN0
+					aWxsby9yZXNvdXJjZXMvaW1hZ2VzL2luaXRp
+					ZXJyZWQtaGQucG5nAADwAAAA/v///wEAAAAA
+					AAAAEwAAAAQQAACsAAAAAAAAAAUQAABoAQAA
+					AAAAABAQAACkAQAAAAAAAEAQAACUAQAAAAAA
+					AFQQAADMAQAAAAAAAFUQAADMAQAAAAAAAFYQ
+					AADEAQAAAAAAAAIgAAB0AgAAAAAAABAgAAD0
+					AQAAAAAAABEgAAAoAgAAAAAAABIgAAAIAgAA
+					AAAAABMgAAAYAgAAAAAAACAgAABUAgAAAAAA
+					ADAgAADEAQAAAAAAAAHAAADYAQAAAAAAABHA
+					AAAUAAAAAAAAABLAAADoAQAAAAAAABDQAACA
+					AgAAAAAAAIDwAACMAgAAAAAAAA==
+					</data>
+					<key>IsSHSprite</key>
+					<true/>
+					<key>PhysicProperties</key>
+					<dict>
+						<key>AngularDamping</key>
+						<real>0.0</real>
+						<key>AngularVelocity</key>
+						<real>0.0</real>
+						<key>CanSleep</key>
+						<true/>
+						<key>FixedRot</key>
+						<false/>
+						<key>GravityScale</key>
+						<real>1</real>
+						<key>HandledBySH</key>
+						<true/>
+						<key>IsBullet</key>
+						<false/>
+						<key>LinearDamping</key>
+						<real>0.0</real>
+						<key>LinearVelocity</key>
+						<string>{0, 0}</string>
+						<key>SH_ComplexShapes</key>
+						<array>
+							<dict>
+								<key>Angle</key>
+								<integer>0</integer>
+								<key>Category</key>
+								<integer>1</integer>
+								<key>Density</key>
+								<real>0.20000000298023224</real>
+								<key>Fixture</key>
+								<array>
+									<array>
+										<string>{-75.5, -141.5}</string>
+										<string>{75.5, -141.5}</string>
+										<string>{75.5, 141.5}</string>
+										<string>{-75.5, 141.5}</string>
+									</array>
+								</array>
+								<key>Friction</key>
+								<real>0.20000000298023224</real>
+								<key>Group</key>
+								<integer>0</integer>
+								<key>Height</key>
+								<real>566</real>
+								<key>HolesPoints</key>
+								<array/>
+								<key>IsCircle</key>
+								<false/>
+								<key>IsRectangle</key>
+								<true/>
+								<key>IsSensor</key>
+								<false/>
+								<key>LHHeight</key>
+								<real>283</real>
+								<key>LHShapePositionOffset</key>
+								<string>{-75.5, -141.5}</string>
+								<key>LHWidth</key>
+								<real>151</real>
+								<key>Mask</key>
+								<integer>65535</integer>
+								<key>Name</key>
+								<string>UntitledFixture</string>
+								<key>Restitution</key>
+								<real>0.20000000298023224</real>
+								<key>ShapePoints</key>
+								<array>
+									<string>{0, 0}</string>
+									<string>{302, 0}</string>
+									<string>{302, 566}</string>
+									<string>{0, 566}</string>
+								</array>
+								<key>ShapePositionOffset</key>
+								<string>{0, 0}</string>
+								<key>Tag</key>
+								<integer>0</integer>
+								<key>Width</key>
+								<real>302</real>
+							</dict>
+						</array>
+						<key>Type</key>
+						<integer>0</integer>
+					</dict>
+					<key>SHSheetName</key>
+					<string>initierRed</string>
+					<key>SHSpriteName</key>
+					<string>doorred8</string>
+					<key>SheetImage</key>
+					<string>initierRed_initierRed.png</string>
+					<key>SheetImage-HD</key>
+					<string>initierRed_initierRed-hd.png</string>
+					<key>TextureProperties</key>
+					<dict>
+						<key>Angle</key>
+						<integer>0</integer>
+						<key>Border</key>
+						<integer>0</integer>
+						<key>CanBeTrimmed</key>
+						<false/>
+						<key>Color</key>
+						<string>{{1, 1}, {1, 0}}</string>
+						<key>ConvertedFromOldFormat</key>
+						<true/>
+						<key>CustomClassName</key>
+						<string></string>
+						<key>FlipX</key>
+						<false/>
+						<key>FlipY</key>
+						<false/>
+						<key>Frame</key>
+						<string>{{154, 466}, {151, 283}}</string>
+						<key>Frame-HD</key>
+						<string>{{308, 932}, {302, 566}}</string>
+						<key>Image</key>
+						<string>initierRed_initierRed.png</string>
+						<key>Image-HD</key>
+						<string>initierRed_initierRed-hd.png</string>
+						<key>IsCropped</key>
+						<false/>
+						<key>IsDrawable</key>
+						<true/>
+						<key>IsRotated</key>
+						<false/>
+						<key>IsTrimmed</key>
+						<false/>
+						<key>Name</key>
+						<string>doorred8</string>
+						<key>Opacity</key>
+						<real>1</real>
+						<key>OriginalImage</key>
+						<string>/Users/pratofungus/Documents/xcode/castillo/Castillo/Resources/Images//initierRed-hd.png</string>
+						<key>OriginalImage_RelativePath</key>
+						<string>initierRed-hd.png/</string>
+						<key>OriginalRect</key>
+						<string>{{308, 932}, {302, 566}}</string>
+						<key>OriginalSize</key>
+						<string>{302, 566}</string>
+						<key>Position</key>
+						<string>{308, 932}</string>
+						<key>Scale</key>
+						<string>{1, 1}</string>
+						<key>SpriteSize</key>
+						<string>{151, 283}</string>
+						<key>SpriteWasBreaked</key>
+						<false/>
+						<key>Tag</key>
+						<integer>0</integer>
+						<key>TextureOffset</key>
+						<string>{0, 0}</string>
+						<key>UsesBatchRendering</key>
+						<false/>
+						<key>ZOrder</key>
+						<integer>0</integer>
+					</dict>
+				</dict>
+				<key>emiterred</key>
+				<dict>
+					<key>DocumentSecurityImageBookmark</key>
+					<data>
+					Ym9va5wEAAAAAAQQMAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAdAMAAAUA
+					AAABAQAAVXNlcnMAAAALAAAAAQEAAHByYXRv
+					ZnVuZ3VzAAkAAAABAQAARG9jdW1lbnRzAAAA
+					BQAAAAEBAAB4Y29kZQAAAAgAAAABAQAAY2Fz
+					dGlsbG8IAAAAAQEAAENhc3RpbGxvCQAAAAEB
+					AABSZXNvdXJjZXMAAAAGAAAAAQEAAEltYWdl
+					cwAAEQAAAAEBAABpbml0aWVyUmVkLWhkLnBu
+					ZwAAACQAAAABBgAABAAAABQAAAAoAAAAPAAA
+					AEwAAABcAAAAbAAAAIAAAACQAAAACAAAAAQD
+					AACnAwIAAAAAAAgAAAAEAwAA/8EFAAAAAAAI
+					AAAABAMAAADCBQAAAAAACAAAAAQDAAC/9QkA
+					AAAAAAgAAAAEAwAAdOk/AAAAAAAIAAAABAMA
+					AJLpPwAAAAAACAAAAAQDAABE6z8AAAAAAAgA
+					AAAEAwAAUOs/AAAAAAAIAAAABAMAAG3rPwAA
+					AAAAJAAAAAEGAADYAAAA6AAAAPgAAAAIAQAA
+					GAEAACgBAAA4AQAASAEAAFgBAAAIAAAAAAQA
+					AEG3WabMAAAAGAAAAAECAAABAAAAAAAAAA8A
+					AAAAAAAAAAAAAAAAAAAAAAAAAQUAAAQAAAAD
+					AwAAAQAAAAgAAAAEAwAABwAAAAAAAAAEAAAA
+					AwMAAPUBAAAMAAAAAQEAAE1hY2ludG9zaCBI
+					RAgAAAAEAwAAAICBPXQAAAAIAAAAAAQAAEG1
+					2mIwAAAAJAAAAAEBAAAxODA4M0E2QS0wN0Iz
+					LTNDMzAtOURGNi04ODc2NDQzQjY1QjkYAAAA
+					AQIAAIEAAAABAAgA7z8AAAEACAAAAAAAAAAA
+					AAEAAAABAQAALwAAAAQAAAADAwAAAAEAAN8A
+					AAABAgAAYTI5OGVmMDU4NGViZjZhNDFmZDBm
+					NjNmZTA2ZWM2OTZhY2E5MmI1MDswMDAwMDAw
+					MDswMDAwMDAwMDAwMDAwMDIwO2NvbS5hcHBs
+					ZS5hcHAtc2FuZGJveC5yZWFkLXdyaXRlOzAw
+					MDAwMDAxOzAxMDAwMDAyOzAwMDAwMDAwMDAz
+					ZmViNmQ7L3VzZXJzL3ByYXRvZnVuZ3VzL2Rv
+					Y3VtZW50cy94Y29kZS9jYXN0aWxsby9jYXN0
+					aWxsby9yZXNvdXJjZXMvaW1hZ2VzL2luaXRp
+					ZXJyZWQtaGQucG5nAADwAAAA/v///wEAAAAA
+					AAAAEwAAAAQQAACsAAAAAAAAAAUQAABoAQAA
+					AAAAABAQAACkAQAAAAAAAEAQAACUAQAAAAAA
+					AFQQAADMAQAAAAAAAFUQAADMAQAAAAAAAFYQ
+					AADEAQAAAAAAAAIgAAB0AgAAAAAAABAgAAD0
+					AQAAAAAAABEgAAAoAgAAAAAAABIgAAAIAgAA
+					AAAAABMgAAAYAgAAAAAAACAgAABUAgAAAAAA
+					ADAgAADEAQAAAAAAAAHAAADYAQAAAAAAABHA
+					AAAUAAAAAAAAABLAAADoAQAAAAAAABDQAACA
+					AgAAAAAAAIDwAACMAgAAAAAAAA==
+					</data>
+					<key>IsSHSprite</key>
+					<true/>
+					<key>PhysicProperties</key>
+					<dict>
+						<key>AngularDamping</key>
+						<real>0.0</real>
+						<key>AngularVelocity</key>
+						<real>0.0</real>
+						<key>CanSleep</key>
+						<true/>
+						<key>FixedRot</key>
+						<false/>
+						<key>GravityScale</key>
+						<real>1</real>
+						<key>HandledBySH</key>
+						<true/>
+						<key>IsBullet</key>
+						<false/>
+						<key>LinearDamping</key>
+						<real>0.0</real>
+						<key>LinearVelocity</key>
+						<string>{0, 0}</string>
+						<key>SH_ComplexShapes</key>
+						<array>
+							<dict>
+								<key>Angle</key>
+								<integer>0</integer>
+								<key>Category</key>
+								<integer>1</integer>
+								<key>Density</key>
+								<real>0.20000000298023224</real>
+								<key>Fixture</key>
+								<array>
+									<array>
+										<string>{-70.56588499999998, -83.394149999999968}</string>
+										<string>{73.489400000000046, -85.680749999999989}</string>
+										<string>{64.342999999999961, -60.52819999999997}</string>
+										<string>{-61.419500000000028, -58.24165000000005}</string>
+									</array>
+									<array>
+										<string>{64.342999999999961, -60.52819999999997}</string>
+										<string>{48.336900000000014, 26.362250000000017}</string>
+										<string>{30.044200000000046, 83.527069999999981}</string>
+										<string>{-29.407249999999976, 83.527069999999981}</string>
+										<string>{-43.126750000000015, 30.935399999999959}</string>
+										<string>{-61.419500000000028, -58.24165000000005}</string>
+									</array>
+									<array>
+										<string>{-84.285430000000019, 28.648850000000039}</string>
+										<string>{-107.15133500000002, -3.363399999999956}</string>
+										<string>{-61.419500000000028, -58.24165000000005}</string>
+										<string>{-43.126750000000015, 30.935399999999959}</string>
+									</array>
+									<array>
+										<string>{48.336900000000014, 26.362250000000017}</string>
+										<string>{64.342999999999961, -60.52819999999997}</string>
+										<string>{105.50170000000003, -1.0768500000000358}</string>
+										<string>{84.922350000000051, 26.362250000000017}</string>
+									</array>
+								</array>
+								<key>Friction</key>
+								<real>0.20000000298023224</real>
+								<key>Group</key>
+								<integer>0</integer>
+								<key>Height</key>
+								<real>360</real>
+								<key>HolesPoints</key>
+								<array/>
+								<key>IsCircle</key>
+								<false/>
+								<key>IsRectangle</key>
+								<false/>
+								<key>IsSensor</key>
+								<false/>
+								<key>LHHeight</key>
+								<real>180</real>
+								<key>LHShapePositionOffset</key>
+								<string>{-108.25, -90}</string>
+								<key>LHWidth</key>
+								<real>216.5</real>
+								<key>Mask</key>
+								<integer>65535</integer>
+								<key>Name</key>
+								<string>UntitledFixture</string>
+								<key>Restitution</key>
+								<real>0.20000000298023224</real>
+								<key>ShapePoints</key>
+								<array>
+									<string>{363.47880000000009, 351.36149999999998}</string>
+									<string>{345.18599999999992, 301.05639999999994}</string>
+									<string>{427.50340000000006, 182.15370000000007}</string>
+									<string>{386.3447000000001, 127.27549999999997}</string>
+									<string>{313.17380000000003, 127.27549999999997}</string>
+									<string>{276.58840000000009, 12.945860000000039}</string>
+									<string>{157.68550000000005, 12.945860000000039}</string>
+									<string>{130.24649999999997, 118.12920000000008}</string>
+									<string>{47.929139999999961, 122.70229999999992}</string>
+									<string>{2.1973299999999654, 186.72679999999991}</string>
+									<string>{93.660999999999945, 296.4833000000001}</string>
+									<string>{75.36823000000004, 346.78829999999994}</string>
+								</array>
+								<key>ShapePositionOffset</key>
+								<string>{0, 0}</string>
+								<key>Tag</key>
+								<integer>0</integer>
+								<key>Width</key>
+								<real>433</real>
+							</dict>
+						</array>
+						<key>Type</key>
+						<integer>0</integer>
+					</dict>
+					<key>SHSheetName</key>
+					<string>initierRed</string>
+					<key>SHSpriteName</key>
+					<string>emiterred</string>
+					<key>SheetImage</key>
+					<string>initierRed_initierRed.png</string>
+					<key>SheetImage-HD</key>
+					<string>initierRed_initierRed-hd.png</string>
+					<key>TextureProperties</key>
+					<dict>
+						<key>Angle</key>
+						<integer>0</integer>
+						<key>Border</key>
+						<integer>0</integer>
+						<key>CanBeTrimmed</key>
+						<false/>
+						<key>Color</key>
+						<string>{{1, 1}, {1, 0}}</string>
+						<key>ConvertedFromOldFormat</key>
+						<true/>
+						<key>CustomClassName</key>
+						<string></string>
+						<key>FlipX</key>
+						<false/>
+						<key>FlipY</key>
+						<false/>
+						<key>Frame</key>
+						<string>{{461, 466}, {216.5, 180}}</string>
+						<key>Frame-HD</key>
+						<string>{{922, 932}, {433, 360}}</string>
+						<key>Image</key>
+						<string>initierRed_initierRed.png</string>
+						<key>Image-HD</key>
+						<string>initierRed_initierRed-hd.png</string>
+						<key>IsCropped</key>
+						<false/>
+						<key>IsDrawable</key>
+						<true/>
+						<key>IsRotated</key>
+						<false/>
+						<key>IsTrimmed</key>
+						<false/>
+						<key>Name</key>
+						<string>emiterred</string>
+						<key>Opacity</key>
+						<real>1</real>
+						<key>OriginalImage</key>
+						<string>/Users/pratofungus/Documents/xcode/castillo/Castillo/Resources/Images//initierRed-hd.png</string>
+						<key>OriginalImage_RelativePath</key>
+						<string>initierRed-hd.png/</string>
+						<key>OriginalRect</key>
+						<string>{{922, 932}, {433, 360}}</string>
+						<key>OriginalSize</key>
+						<string>{433, 360}</string>
+						<key>Position</key>
+						<string>{922, 932}</string>
+						<key>Scale</key>
+						<string>{1, 1}</string>
+						<key>SpriteSize</key>
+						<string>{216.5, 180}</string>
+						<key>SpriteWasBreaked</key>
+						<false/>
+						<key>Tag</key>
+						<integer>0</integer>
+						<key>TextureOffset</key>
+						<string>{0, 0}</string>
+						<key>UsesBatchRendering</key>
+						<false/>
+						<key>ZOrder</key>
+						<integer>0</integer>
+					</dict>
+				</dict>
+				<key>kingred</key>
+				<dict>
+					<key>DocumentSecurityImageBookmark</key>
+					<data>
+					Ym9va5wEAAAAAAQQMAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAdAMAAAUA
+					AAABAQAAVXNlcnMAAAALAAAAAQEAAHByYXRv
+					ZnVuZ3VzAAkAAAABAQAARG9jdW1lbnRzAAAA
+					BQAAAAEBAAB4Y29kZQAAAAgAAAABAQAAY2Fz
+					dGlsbG8IAAAAAQEAAENhc3RpbGxvCQAAAAEB
+					AABSZXNvdXJjZXMAAAAGAAAAAQEAAEltYWdl
+					cwAAEQAAAAEBAABpbml0aWVyUmVkLWhkLnBu
+					ZwAAACQAAAABBgAABAAAABQAAAAoAAAAPAAA
+					AEwAAABcAAAAbAAAAIAAAACQAAAACAAAAAQD
+					AACnAwIAAAAAAAgAAAAEAwAA/8EFAAAAAAAI
+					AAAABAMAAADCBQAAAAAACAAAAAQDAAC/9QkA
+					AAAAAAgAAAAEAwAAdOk/AAAAAAAIAAAABAMA
+					AJLpPwAAAAAACAAAAAQDAABE6z8AAAAAAAgA
+					AAAEAwAAUOs/AAAAAAAIAAAABAMAAG3rPwAA
+					AAAAJAAAAAEGAADYAAAA6AAAAPgAAAAIAQAA
+					GAEAACgBAAA4AQAASAEAAFgBAAAIAAAAAAQA
+					AEG3WabMAAAAGAAAAAECAAABAAAAAAAAAA8A
+					AAAAAAAAAAAAAAAAAAAAAAAAAQUAAAQAAAAD
+					AwAAAQAAAAgAAAAEAwAABwAAAAAAAAAEAAAA
+					AwMAAPUBAAAMAAAAAQEAAE1hY2ludG9zaCBI
+					RAgAAAAEAwAAAICBPXQAAAAIAAAAAAQAAEG1
+					2mIwAAAAJAAAAAEBAAAxODA4M0E2QS0wN0Iz
+					LTNDMzAtOURGNi04ODc2NDQzQjY1QjkYAAAA
+					AQIAAIEAAAABAAgA7z8AAAEACAAAAAAAAAAA
+					AAEAAAABAQAALwAAAAQAAAADAwAAAAEAAN8A
+					AAABAgAAYTI5OGVmMDU4NGViZjZhNDFmZDBm
+					NjNmZTA2ZWM2OTZhY2E5MmI1MDswMDAwMDAw
+					MDswMDAwMDAwMDAwMDAwMDIwO2NvbS5hcHBs
+					ZS5hcHAtc2FuZGJveC5yZWFkLXdyaXRlOzAw
+					MDAwMDAxOzAxMDAwMDAyOzAwMDAwMDAwMDAz
+					ZmViNmQ7L3VzZXJzL3ByYXRvZnVuZ3VzL2Rv
+					Y3VtZW50cy94Y29kZS9jYXN0aWxsby9jYXN0
+					aWxsby9yZXNvdXJjZXMvaW1hZ2VzL2luaXRp
+					ZXJyZWQtaGQucG5nAADwAAAA/v///wEAAAAA
+					AAAAEwAAAAQQAACsAAAAAAAAAAUQAABoAQAA
+					AAAAABAQAACkAQAAAAAAAEAQAACUAQAAAAAA
+					AFQQAADMAQAAAAAAAFUQAADMAQAAAAAAAFYQ
+					AADEAQAAAAAAAAIgAAB0AgAAAAAAABAgAAD0
+					AQAAAAAAABEgAAAoAgAAAAAAABIgAAAIAgAA
+					AAAAABMgAAAYAgAAAAAAACAgAABUAgAAAAAA
+					ADAgAADEAQAAAAAAAAHAAADYAQAAAAAAABHA
+					AAAUAAAAAAAAABLAAADoAQAAAAAAABDQAACA
+					AgAAAAAAAIDwAACMAgAAAAAAAA==
+					</data>
+					<key>IsSHSprite</key>
+					<true/>
+					<key>PhysicProperties</key>
+					<dict>
+						<key>AngularDamping</key>
+						<real>0.0</real>
+						<key>AngularVelocity</key>
+						<real>0.0</real>
+						<key>CanSleep</key>
+						<true/>
+						<key>FixedRot</key>
+						<false/>
+						<key>GravityScale</key>
+						<real>1</real>
+						<key>HandledBySH</key>
+						<true/>
+						<key>IsBullet</key>
+						<false/>
+						<key>LinearDamping</key>
+						<real>0.0</real>
+						<key>LinearVelocity</key>
+						<string>{0, 0}</string>
+						<key>SH_ComplexShapes</key>
+						<array>
+							<dict>
+								<key>Angle</key>
+								<integer>0</integer>
+								<key>Category</key>
+								<integer>1</integer>
+								<key>Density</key>
+								<real>0.20000000298023224</real>
+								<key>Fixture</key>
+								<array>
+									<array>
+										<string>{38.378050000000002, -66.596049999999991}</string>
+										<string>{31.518280000000004, 2.001700000000028}</string>
+										<string>{1.7925850000000025, 66.026250000000005}</string>
+										<string>{-30.219695000000002, -2.5714500000000271}</string>
+										<string>{-30.219695000000002, -73.455799999999954}</string>
+									</array>
+								</array>
+								<key>Friction</key>
+								<real>0.20000000298023224</real>
+								<key>Group</key>
+								<integer>0</integer>
+								<key>Height</key>
+								<real>271</real>
+								<key>HolesPoints</key>
+								<array/>
+								<key>IsCircle</key>
+								<false/>
+								<key>IsRectangle</key>
+								<false/>
+								<key>IsSensor</key>
+								<false/>
+								<key>LHHeight</key>
+								<real>135.5</real>
+								<key>LHShapePositionOffset</key>
+								<string>{-35, -67.75}</string>
+								<key>LHWidth</key>
+								<real>70</real>
+								<key>Mask</key>
+								<integer>65535</integer>
+								<key>Name</key>
+								<string>UntitledFixture</string>
+								<key>Restitution</key>
+								<real>0.20000000298023224</real>
+								<key>ShapePoints</key>
+								<array>
+									<string>{146.7561, 268.69209999999998}</string>
+									<string>{133.03656000000001, 131.49659999999994}</string>
+									<string>{73.585170000000005, 3.4474999999999909}</string>
+									<string>{9.5606099999999969, 140.64290000000005}</string>
+									<string>{9.5606099999999969, 282.41159999999991}</string>
+								</array>
+								<key>ShapePositionOffset</key>
+								<string>{0, 0}</string>
+								<key>Tag</key>
+								<integer>0</integer>
+								<key>Width</key>
+								<real>140</real>
+							</dict>
+						</array>
+						<key>Type</key>
+						<integer>0</integer>
+					</dict>
+					<key>SHSheetName</key>
+					<string>initierRed</string>
+					<key>SHSpriteName</key>
+					<string>kingred</string>
+					<key>SheetImage</key>
+					<string>initierRed_initierRed.png</string>
+					<key>SheetImage-HD</key>
+					<string>initierRed_initierRed-hd.png</string>
+					<key>TextureProperties</key>
+					<dict>
+						<key>Angle</key>
+						<integer>0</integer>
+						<key>Border</key>
+						<integer>0</integer>
+						<key>CanBeTrimmed</key>
+						<false/>
+						<key>Color</key>
+						<string>{{1, 1}, {1, 0}}</string>
+						<key>ConvertedFromOldFormat</key>
+						<true/>
+						<key>CustomClassName</key>
+						<string></string>
+						<key>FlipX</key>
+						<false/>
+						<key>FlipY</key>
+						<false/>
+						<key>Frame</key>
+						<string>{{154, 752}, {70, 135.5}}</string>
+						<key>Frame-HD</key>
+						<string>{{308, 1504}, {140, 271}}</string>
+						<key>Image</key>
+						<string>initierRed_initierRed.png</string>
+						<key>Image-HD</key>
+						<string>initierRed_initierRed-hd.png</string>
+						<key>IsCropped</key>
+						<false/>
+						<key>IsDrawable</key>
+						<true/>
+						<key>IsRotated</key>
+						<false/>
+						<key>IsTrimmed</key>
+						<false/>
+						<key>Name</key>
+						<string>kingred</string>
+						<key>Opacity</key>
+						<real>1</real>
+						<key>OriginalImage</key>
+						<string>/Users/pratofungus/Documents/xcode/castillo/Castillo/Resources/Images//initierRed-hd.png</string>
+						<key>OriginalImage_RelativePath</key>
+						<string>initierRed-hd.png/</string>
+						<key>OriginalRect</key>
+						<string>{{308, 1504}, {140, 271}}</string>
+						<key>OriginalSize</key>
+						<string>{140, 271}</string>
+						<key>Position</key>
+						<string>{308, 1504}</string>
+						<key>Scale</key>
+						<string>{1, 1}</string>
+						<key>SpriteSize</key>
+						<string>{70, 135.5}</string>
+						<key>SpriteWasBreaked</key>
+						<false/>
+						<key>Tag</key>
+						<integer>0</integer>
+						<key>TextureOffset</key>
+						<string>{0, 0}</string>
+						<key>UsesBatchRendering</key>
+						<false/>
+						<key>ZOrder</key>
+						<integer>0</integer>
+					</dict>
+				</dict>
+				<key>machineryred</key>
+				<dict>
+					<key>DocumentSecurityImageBookmark</key>
+					<data>
+					Ym9va5wEAAAAAAQQMAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAdAMAAAUA
+					AAABAQAAVXNlcnMAAAALAAAAAQEAAHByYXRv
+					ZnVuZ3VzAAkAAAABAQAARG9jdW1lbnRzAAAA
+					BQAAAAEBAAB4Y29kZQAAAAgAAAABAQAAY2Fz
+					dGlsbG8IAAAAAQEAAENhc3RpbGxvCQAAAAEB
+					AABSZXNvdXJjZXMAAAAGAAAAAQEAAEltYWdl
+					cwAAEQAAAAEBAABpbml0aWVyUmVkLWhkLnBu
+					ZwAAACQAAAABBgAABAAAABQAAAAoAAAAPAAA
+					AEwAAABcAAAAbAAAAIAAAACQAAAACAAAAAQD
+					AACnAwIAAAAAAAgAAAAEAwAA/8EFAAAAAAAI
+					AAAABAMAAADCBQAAAAAACAAAAAQDAAC/9QkA
+					AAAAAAgAAAAEAwAAdOk/AAAAAAAIAAAABAMA
+					AJLpPwAAAAAACAAAAAQDAABE6z8AAAAAAAgA
+					AAAEAwAAUOs/AAAAAAAIAAAABAMAAG3rPwAA
+					AAAAJAAAAAEGAADYAAAA6AAAAPgAAAAIAQAA
+					GAEAACgBAAA4AQAASAEAAFgBAAAIAAAAAAQA
+					AEG3WabMAAAAGAAAAAECAAABAAAAAAAAAA8A
+					AAAAAAAAAAAAAAAAAAAAAAAAAQUAAAQAAAAD
+					AwAAAQAAAAgAAAAEAwAABwAAAAAAAAAEAAAA
+					AwMAAPUBAAAMAAAAAQEAAE1hY2ludG9zaCBI
+					RAgAAAAEAwAAAICBPXQAAAAIAAAAAAQAAEG1
+					2mIwAAAAJAAAAAEBAAAxODA4M0E2QS0wN0Iz
+					LTNDMzAtOURGNi04ODc2NDQzQjY1QjkYAAAA
+					AQIAAIEAAAABAAgA7z8AAAEACAAAAAAAAAAA
+					AAEAAAABAQAALwAAAAQAAAADAwAAAAEAAN8A
+					AAABAgAAYTI5OGVmMDU4NGViZjZhNDFmZDBm
+					NjNmZTA2ZWM2OTZhY2E5MmI1MDswMDAwMDAw
+					MDswMDAwMDAwMDAwMDAwMDIwO2NvbS5hcHBs
+					ZS5hcHAtc2FuZGJveC5yZWFkLXdyaXRlOzAw
+					MDAwMDAxOzAxMDAwMDAyOzAwMDAwMDAwMDAz
+					ZmViNmQ7L3VzZXJzL3ByYXRvZnVuZ3VzL2Rv
+					Y3VtZW50cy94Y29kZS9jYXN0aWxsby9jYXN0
+					aWxsby9yZXNvdXJjZXMvaW1hZ2VzL2luaXRp
+					ZXJyZWQtaGQucG5nAADwAAAA/v///wEAAAAA
+					AAAAEwAAAAQQAACsAAAAAAAAAAUQAABoAQAA
+					AAAAABAQAACkAQAAAAAAAEAQAACUAQAAAAAA
+					AFQQAADMAQAAAAAAAFUQAADMAQAAAAAAAFYQ
+					AADEAQAAAAAAAAIgAAB0AgAAAAAAABAgAAD0
+					AQAAAAAAABEgAAAoAgAAAAAAABIgAAAIAgAA
+					AAAAABMgAAAYAgAAAAAAACAgAABUAgAAAAAA
+					ADAgAADEAQAAAAAAAAHAAADYAQAAAAAAABHA
+					AAAUAAAAAAAAABLAAADoAQAAAAAAABDQAACA
+					AgAAAAAAAIDwAACMAgAAAAAAAA==
+					</data>
+					<key>IsSHSprite</key>
+					<true/>
+					<key>PhysicProperties</key>
+					<dict>
+						<key>AngularDamping</key>
+						<real>0.0</real>
+						<key>AngularVelocity</key>
+						<real>0.0</real>
+						<key>CanSleep</key>
+						<true/>
+						<key>FixedRot</key>
+						<false/>
+						<key>GravityScale</key>
+						<real>1</real>
+						<key>HandledBySH</key>
+						<true/>
+						<key>IsBullet</key>
+						<false/>
+						<key>LinearDamping</key>
+						<real>0.0</real>
+						<key>LinearVelocity</key>
+						<string>{0, 0}</string>
+						<key>SH_ComplexShapes</key>
+						<array>
+							<dict>
+								<key>Angle</key>
+								<integer>0</integer>
+								<key>Category</key>
+								<integer>1</integer>
+								<key>Density</key>
+								<real>0.20000000298023224</real>
+								<key>Fixture</key>
+								<array>
+									<array>
+										<string>{92.805389999999989, -54.203735000000052}</string>
+										<string>{159.11657500000001, 46.40631099999996}</string>
+										<string>{106.52496500000001, 41.833129999999983}</string>
+										<string>{-92.408540000000002, -47.343965000000026}</string>
+										<string>{-108.414675, -86.216004999999996}</string>
+									</array>
+									<array>
+										<string>{-112.987855, 46.40631099999996}</string>
+										<string>{-161.00628660000001, 41.833129999999983}</string>
+										<string>{-92.408540000000002, -47.343965000000026}</string>
+										<string>{106.52496500000001, 41.833129999999983}</string>
+									</array>
+									<array>
+										<string>{106.52496500000001, 41.833129999999983}</string>
+										<string>{133.96404999999999, 87.564971900000046}</string>
+										<string>{-131.28059400000001, 82.991791000000035}</string>
+										<string>{-112.987855, 46.40631099999996}</string>
+									</array>
+									<array>
+										<string>{-108.414675, -86.216004999999996}</string>
+										<string>{106.52496500000001, -88.502595000000042}</string>
+										<string>{92.805389999999989, -54.203735000000052}</string>
+									</array>
+								</array>
+								<key>Friction</key>
+								<real>0.20000000298023224</real>
+								<key>Group</key>
+								<integer>0</integer>
+								<key>Height</key>
+								<real>356</real>
+								<key>HolesPoints</key>
+								<array/>
+								<key>IsCircle</key>
+								<false/>
+								<key>IsRectangle</key>
+								<false/>
+								<key>IsSensor</key>
+								<false/>
+								<key>LHHeight</key>
+								<real>178</real>
+								<key>LHShapePositionOffset</key>
+								<string>{-163.5, -89}</string>
+								<key>LHWidth</key>
+								<real>327</real>
+								<key>Mask</key>
+								<integer>65535</integer>
+								<key>Name</key>
+								<string>UntitledFixture</string>
+								<key>Restitution</key>
+								<real>0.20000000298023224</real>
+								<key>ShapePoints</key>
+								<array>
+									<string>{540.04993000000002, 355.00519000000003}</string>
+									<string>{512.61077999999998, 286.40746999999999}</string>
+									<string>{645.23315000000002, 85.187377999999995}</string>
+									<string>{540.04993000000002, 94.333740000000006}</string>
+									<string>{594.92809999999997, 2.8700561999999934}</string>
+									<string>{64.438811999999984, 12.016417999999987}</string>
+									<string>{101.02429000000001, 85.187377999999995}</string>
+									<string>{4.9874267999999802, 94.333740000000006}</string>
+									<string>{142.18292, 272.68792999999999}</string>
+									<string>{110.17064999999999, 350.43200999999999}</string>
+								</array>
+								<key>ShapePositionOffset</key>
+								<string>{0, 0}</string>
+								<key>Tag</key>
+								<integer>0</integer>
+								<key>Width</key>
+								<real>654</real>
+							</dict>
+						</array>
+						<key>Type</key>
+						<integer>0</integer>
+					</dict>
+					<key>SHSheetName</key>
+					<string>initierRed</string>
+					<key>SHSpriteName</key>
+					<string>machineryred</string>
+					<key>SheetImage</key>
+					<string>initierRed_initierRed.png</string>
+					<key>SheetImage-HD</key>
+					<string>initierRed_initierRed-hd.png</string>
+					<key>TextureProperties</key>
+					<dict>
+						<key>Angle</key>
+						<integer>0</integer>
+						<key>Border</key>
+						<integer>0</integer>
+						<key>CanBeTrimmed</key>
+						<false/>
+						<key>Color</key>
+						<string>{{1, 1}, {1, 0}}</string>
+						<key>ConvertedFromOldFormat</key>
+						<true/>
+						<key>CustomClassName</key>
+						<string></string>
+						<key>FlipX</key>
+						<false/>
+						<key>FlipY</key>
+						<false/>
+						<key>Frame</key>
+						<string>{{0, 0}, {327, 178}}</string>
+						<key>Frame-HD</key>
+						<string>{{0, 0}, {654, 356}}</string>
+						<key>Image</key>
+						<string>initierRed_initierRed.png</string>
+						<key>Image-HD</key>
+						<string>initierRed_initierRed-hd.png</string>
+						<key>IsCropped</key>
+						<false/>
+						<key>IsDrawable</key>
+						<true/>
+						<key>IsRotated</key>
+						<false/>
+						<key>IsTrimmed</key>
+						<false/>
+						<key>Name</key>
+						<string>machineryred</string>
+						<key>Opacity</key>
+						<real>1</real>
+						<key>OriginalImage</key>
+						<string>/Users/pratofungus/Documents/xcode/castillo/Castillo/Resources/Images//initierRed-hd.png</string>
+						<key>OriginalImage_RelativePath</key>
+						<string>initierRed-hd.png/</string>
+						<key>OriginalRect</key>
+						<string>{{0, 0}, {654, 356}}</string>
+						<key>OriginalSize</key>
+						<string>{654, 356}</string>
+						<key>Position</key>
+						<string>{0, 0}</string>
+						<key>Scale</key>
+						<string>{1, 1}</string>
+						<key>SpriteSize</key>
+						<string>{327, 178}</string>
+						<key>SpriteWasBreaked</key>
+						<false/>
+						<key>Tag</key>
+						<integer>0</integer>
+						<key>TextureOffset</key>
+						<string>{0, 0}</string>
+						<key>UsesBatchRendering</key>
+						<false/>
+						<key>ZOrder</key>
+						<integer>0</integer>
+					</dict>
+				</dict>
+				<key>pass%20through%20red</key>
+				<dict>
+					<key>DocumentSecurityImageBookmark</key>
+					<data>
+					Ym9va5wEAAAAAAQQMAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAdAMAAAUA
+					AAABAQAAVXNlcnMAAAALAAAAAQEAAHByYXRv
+					ZnVuZ3VzAAkAAAABAQAARG9jdW1lbnRzAAAA
+					BQAAAAEBAAB4Y29kZQAAAAgAAAABAQAAY2Fz
+					dGlsbG8IAAAAAQEAAENhc3RpbGxvCQAAAAEB
+					AABSZXNvdXJjZXMAAAAGAAAAAQEAAEltYWdl
+					cwAAEQAAAAEBAABpbml0aWVyUmVkLWhkLnBu
+					ZwAAACQAAAABBgAABAAAABQAAAAoAAAAPAAA
+					AEwAAABcAAAAbAAAAIAAAACQAAAACAAAAAQD
+					AACnAwIAAAAAAAgAAAAEAwAA/8EFAAAAAAAI
+					AAAABAMAAADCBQAAAAAACAAAAAQDAAC/9QkA
+					AAAAAAgAAAAEAwAAdOk/AAAAAAAIAAAABAMA
+					AJLpPwAAAAAACAAAAAQDAABE6z8AAAAAAAgA
+					AAAEAwAAUOs/AAAAAAAIAAAABAMAAG3rPwAA
+					AAAAJAAAAAEGAADYAAAA6AAAAPgAAAAIAQAA
+					GAEAACgBAAA4AQAASAEAAFgBAAAIAAAAAAQA
+					AEG3WabMAAAAGAAAAAECAAABAAAAAAAAAA8A
+					AAAAAAAAAAAAAAAAAAAAAAAAAQUAAAQAAAAD
+					AwAAAQAAAAgAAAAEAwAABwAAAAAAAAAEAAAA
+					AwMAAPUBAAAMAAAAAQEAAE1hY2ludG9zaCBI
+					RAgAAAAEAwAAAICBPXQAAAAIAAAAAAQAAEG1
+					2mIwAAAAJAAAAAEBAAAxODA4M0E2QS0wN0Iz
+					LTNDMzAtOURGNi04ODc2NDQzQjY1QjkYAAAA
+					AQIAAIEAAAABAAgA7z8AAAEACAAAAAAAAAAA
+					AAEAAAABAQAALwAAAAQAAAADAwAAAAEAAN8A
+					AAABAgAAYTI5OGVmMDU4NGViZjZhNDFmZDBm
+					NjNmZTA2ZWM2OTZhY2E5MmI1MDswMDAwMDAw
+					MDswMDAwMDAwMDAwMDAwMDIwO2NvbS5hcHBs
+					ZS5hcHAtc2FuZGJveC5yZWFkLXdyaXRlOzAw
+					MDAwMDAxOzAxMDAwMDAyOzAwMDAwMDAwMDAz
+					ZmViNmQ7L3VzZXJzL3ByYXRvZnVuZ3VzL2Rv
+					Y3VtZW50cy94Y29kZS9jYXN0aWxsby9jYXN0
+					aWxsby9yZXNvdXJjZXMvaW1hZ2VzL2luaXRp
+					ZXJyZWQtaGQucG5nAADwAAAA/v///wEAAAAA
+					AAAAEwAAAAQQAACsAAAAAAAAAAUQAABoAQAA
+					AAAAABAQAACkAQAAAAAAAEAQAACUAQAAAAAA
+					AFQQAADMAQAAAAAAAFUQAADMAQAAAAAAAFYQ
+					AADEAQAAAAAAAAIgAAB0AgAAAAAAABAgAAD0
+					AQAAAAAAABEgAAAoAgAAAAAAABIgAAAIAgAA
+					AAAAABMgAAAYAgAAAAAAACAgAABUAgAAAAAA
+					ADAgAADEAQAAAAAAAAHAAADYAQAAAAAAABHA
+					AAAUAAAAAAAAABLAAADoAQAAAAAAABDQAACA
+					AgAAAAAAAIDwAACMAgAAAAAAAA==
+					</data>
+					<key>IsSHSprite</key>
+					<true/>
+					<key>PhysicProperties</key>
+					<dict>
+						<key>AngularDamping</key>
+						<real>0.0</real>
+						<key>AngularVelocity</key>
+						<real>0.0</real>
+						<key>CanSleep</key>
+						<true/>
+						<key>FixedRot</key>
+						<false/>
+						<key>GravityScale</key>
+						<real>1</real>
+						<key>HandledBySH</key>
+						<true/>
+						<key>IsBullet</key>
+						<false/>
+						<key>LinearDamping</key>
+						<real>0.0</real>
+						<key>LinearVelocity</key>
+						<string>{0, 0}</string>
+						<key>SH_ComplexShapes</key>
+						<array>
+							<dict>
+								<key>Angle</key>
+								<integer>0</integer>
+								<key>Category</key>
+								<integer>1</integer>
+								<key>Density</key>
+								<real>0.20000000298023224</real>
+								<key>Fixture</key>
+								<array>
+									<array>
+										<string>{-189.23705999999999, -52.654845000000023}</string>
+										<string>{190.33714999999995, -52.654845000000023}</string>
+										<string>{146.89189999999996, -22.929169999999999}</string>
+										<string>{-141.21863000000002, -27.502349999999979}</string>
+									</array>
+								</array>
+								<key>Friction</key>
+								<real>0.20000000298023224</real>
+								<key>Group</key>
+								<integer>0</integer>
+								<key>Height</key>
+								<real>225</real>
+								<key>HolesPoints</key>
+								<array/>
+								<key>IsCircle</key>
+								<false/>
+								<key>IsRectangle</key>
+								<false/>
+								<key>IsSensor</key>
+								<false/>
+								<key>LHHeight</key>
+								<real>112.5</real>
+								<key>LHShapePositionOffset</key>
+								<string>{-191, -56.25}</string>
+								<key>LHWidth</key>
+								<real>382</real>
+								<key>Mask</key>
+								<integer>65535</integer>
+								<key>Name</key>
+								<string>UntitledFixture</string>
+								<key>Restitution</key>
+								<real>0.20000000298023224</real>
+								<key>ShapePoints</key>
+								<array>
+									<string>{3.5258800000000292, 217.80968999999999}</string>
+									<string>{762.6742999999999, 217.80968999999999}</string>
+									<string>{675.78379999999993, 158.35834}</string>
+									<string>{99.562739999999962, 167.50470000000001}</string>
+								</array>
+								<key>ShapePositionOffset</key>
+								<string>{0, 0}</string>
+								<key>Tag</key>
+								<integer>0</integer>
+								<key>Width</key>
+								<real>764</real>
+							</dict>
+						</array>
+						<key>Type</key>
+						<integer>0</integer>
+					</dict>
+					<key>SHSheetName</key>
+					<string>initierRed</string>
+					<key>SHSpriteName</key>
+					<string>pass%20through%20red</string>
+					<key>SheetImage</key>
+					<string>initierRed_initierRed.png</string>
+					<key>SheetImage-HD</key>
+					<string>initierRed_initierRed-hd.png</string>
+					<key>TextureProperties</key>
+					<dict>
+						<key>Angle</key>
+						<integer>0</integer>
+						<key>Border</key>
+						<integer>0</integer>
+						<key>CanBeTrimmed</key>
+						<false/>
+						<key>Color</key>
+						<string>{{1, 1}, {1, 0}}</string>
+						<key>ConvertedFromOldFormat</key>
+						<true/>
+						<key>CustomClassName</key>
+						<string></string>
+						<key>FlipX</key>
+						<false/>
+						<key>FlipY</key>
+						<false/>
+						<key>Frame</key>
+						<string>{{330, 0}, {382, 112.5}}</string>
+						<key>Frame-HD</key>
+						<string>{{660, 0}, {764, 225}}</string>
+						<key>Image</key>
+						<string>initierRed_initierRed.png</string>
+						<key>Image-HD</key>
+						<string>initierRed_initierRed-hd.png</string>
+						<key>IsCropped</key>
+						<false/>
+						<key>IsDrawable</key>
+						<true/>
+						<key>IsRotated</key>
+						<false/>
+						<key>IsTrimmed</key>
+						<false/>
+						<key>Name</key>
+						<string>pass%20through%20red</string>
+						<key>Opacity</key>
+						<real>1</real>
+						<key>OriginalImage</key>
+						<string>/Users/pratofungus/Documents/xcode/castillo/Castillo/Resources/Images//initierRed-hd.png</string>
+						<key>OriginalImage_RelativePath</key>
+						<string>initierRed-hd.png/</string>
+						<key>OriginalRect</key>
+						<string>{{660, 0}, {764, 225}}</string>
+						<key>OriginalSize</key>
+						<string>{764, 225}</string>
+						<key>Position</key>
+						<string>{660, 0}</string>
+						<key>Scale</key>
+						<string>{1, 1}</string>
+						<key>SpriteSize</key>
+						<string>{382, 112.5}</string>
+						<key>SpriteWasBreaked</key>
+						<false/>
+						<key>Tag</key>
+						<integer>0</integer>
+						<key>TextureOffset</key>
+						<string>{0, 0}</string>
+						<key>UsesBatchRendering</key>
+						<false/>
+						<key>ZOrder</key>
+						<integer>0</integer>
+					</dict>
+				</dict>
+				<key>shooterred</key>
+				<dict>
+					<key>DocumentSecurityImageBookmark</key>
+					<data>
+					Ym9va5wEAAAAAAQQMAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAdAMAAAUA
+					AAABAQAAVXNlcnMAAAALAAAAAQEAAHByYXRv
+					ZnVuZ3VzAAkAAAABAQAARG9jdW1lbnRzAAAA
+					BQAAAAEBAAB4Y29kZQAAAAgAAAABAQAAY2Fz
+					dGlsbG8IAAAAAQEAAENhc3RpbGxvCQAAAAEB
+					AABSZXNvdXJjZXMAAAAGAAAAAQEAAEltYWdl
+					cwAAEQAAAAEBAABpbml0aWVyUmVkLWhkLnBu
+					ZwAAACQAAAABBgAABAAAABQAAAAoAAAAPAAA
+					AEwAAABcAAAAbAAAAIAAAACQAAAACAAAAAQD
+					AACnAwIAAAAAAAgAAAAEAwAA/8EFAAAAAAAI
+					AAAABAMAAADCBQAAAAAACAAAAAQDAAC/9QkA
+					AAAAAAgAAAAEAwAAdOk/AAAAAAAIAAAABAMA
+					AJLpPwAAAAAACAAAAAQDAABE6z8AAAAAAAgA
+					AAAEAwAAUOs/AAAAAAAIAAAABAMAAG3rPwAA
+					AAAAJAAAAAEGAADYAAAA6AAAAPgAAAAIAQAA
+					GAEAACgBAAA4AQAASAEAAFgBAAAIAAAAAAQA
+					AEG3WabMAAAAGAAAAAECAAABAAAAAAAAAA8A
+					AAAAAAAAAAAAAAAAAAAAAAAAAQUAAAQAAAAD
+					AwAAAQAAAAgAAAAEAwAABwAAAAAAAAAEAAAA
+					AwMAAPUBAAAMAAAAAQEAAE1hY2ludG9zaCBI
+					RAgAAAAEAwAAAICBPXQAAAAIAAAAAAQAAEG1
+					2mIwAAAAJAAAAAEBAAAxODA4M0E2QS0wN0Iz
+					LTNDMzAtOURGNi04ODc2NDQzQjY1QjkYAAAA
+					AQIAAIEAAAABAAgA7z8AAAEACAAAAAAAAAAA
+					AAEAAAABAQAALwAAAAQAAAADAwAAAAEAAN8A
+					AAABAgAAYTI5OGVmMDU4NGViZjZhNDFmZDBm
+					NjNmZTA2ZWM2OTZhY2E5MmI1MDswMDAwMDAw
+					MDswMDAwMDAwMDAwMDAwMDIwO2NvbS5hcHBs
+					ZS5hcHAtc2FuZGJveC5yZWFkLXdyaXRlOzAw
+					MDAwMDAxOzAxMDAwMDAyOzAwMDAwMDAwMDAz
+					ZmViNmQ7L3VzZXJzL3ByYXRvZnVuZ3VzL2Rv
+					Y3VtZW50cy94Y29kZS9jYXN0aWxsby9jYXN0
+					aWxsby9yZXNvdXJjZXMvaW1hZ2VzL2luaXRp
+					ZXJyZWQtaGQucG5nAADwAAAA/v///wEAAAAA
+					AAAAEwAAAAQQAACsAAAAAAAAAAUQAABoAQAA
+					AAAAABAQAACkAQAAAAAAAEAQAACUAQAAAAAA
+					AFQQAADMAQAAAAAAAFUQAADMAQAAAAAAAFYQ
+					AADEAQAAAAAAAAIgAAB0AgAAAAAAABAgAAD0
+					AQAAAAAAABEgAAAoAgAAAAAAABIgAAAIAgAA
+					AAAAABMgAAAYAgAAAAAAACAgAABUAgAAAAAA
+					ADAgAADEAQAAAAAAAAHAAADYAQAAAAAAABHA
+					AAAUAAAAAAAAABLAAADoAQAAAAAAABDQAACA
+					AgAAAAAAAIDwAACMAgAAAAAAAA==
+					</data>
+					<key>IsSHSprite</key>
+					<true/>
+					<key>PhysicProperties</key>
+					<dict>
+						<key>AngularDamping</key>
+						<real>0.0</real>
+						<key>AngularVelocity</key>
+						<real>0.0</real>
+						<key>CanSleep</key>
+						<true/>
+						<key>FixedRot</key>
+						<false/>
+						<key>GravityScale</key>
+						<real>1</real>
+						<key>HandledBySH</key>
+						<true/>
+						<key>IsBullet</key>
+						<false/>
+						<key>LinearDamping</key>
+						<real>0.0</real>
+						<key>LinearVelocity</key>
+						<string>{0, 0}</string>
+						<key>SH_ComplexShapes</key>
+						<array>
+							<dict>
+								<key>Angle</key>
+								<integer>0</integer>
+								<key>Category</key>
+								<integer>1</integer>
+								<key>Density</key>
+								<real>0.20000000298023224</real>
+								<key>Fixture</key>
+								<array>
+									<array>
+										<string>{-70.943300000000022, 16.545224999999959}</string>
+										<string>{-114.38855000000001, 18.831786999999963}</string>
+										<string>{-77.803099999999972, -6.3206800000000385}</string>
+									</array>
+									<array>
+										<string>{57.105850000000032, -6.3206800000000385}</string>
+										<string>{116.55724999999995, 5.1122450000000299}</string>
+										<string>{102.83770000000004, 41.697723499999938}</string>
+										<string>{45.672900000000027, 25.691589499999964}</string>
+									</array>
+									<array>
+										<string>{-16.065050000000042, 66.850250250000045}</string>
+										<string>{-75.516499999999951, 66.850250250000045}</string>
+										<string>{-70.943300000000022, 16.545224999999959}</string>
+										<string>{-16.065050000000042, 48.557495000000017}</string>
+									</array>
+									<array>
+										<string>{-70.943300000000022, 16.545224999999959}</string>
+										<string>{-77.803099999999972, -6.3206800000000385}</string>
+										<string>{-77.803099999999972, -65.772095000000036}</string>
+										<string>{59.392450000000053, -70.345275000000015}</string>
+										<string>{57.105850000000032, -6.3206800000000385}</string>
+										<string>{45.672900000000027, 25.691589499999964}</string>
+										<string>{-16.065050000000042, 48.557495000000017}</string>
+									</array>
+									<array>
+										<string>{-16.065050000000042, 48.557495000000017}</string>
+										<string>{45.672900000000027, 25.691589499999964}</string>
+										<string>{43.386300000000006, 43.98431400000004}</string>
+									</array>
+								</array>
+								<key>Friction</key>
+								<real>0.20000000298023224</real>
+								<key>Group</key>
+								<integer>0</integer>
+								<key>Height</key>
+								<real>275</real>
+								<key>HolesPoints</key>
+								<array/>
+								<key>IsCircle</key>
+								<false/>
+								<key>IsRectangle</key>
+								<false/>
+								<key>IsSensor</key>
+								<false/>
+								<key>LHHeight</key>
+								<real>137.5</real>
+								<key>LHShapePositionOffset</key>
+								<string>{-116, -68.75}</string>
+								<key>LHWidth</key>
+								<real>232</real>
+								<key>Mask</key>
+								<integer>65535</integer>
+								<key>Name</key>
+								<string>UntitledFixture</string>
+								<key>Restitution</key>
+								<real>0.20000000298023224</real>
+								<key>ShapePoints</key>
+								<array>
+									<string>{76.393800000000056, 269.04419000000001}</string>
+									<string>{350.78490000000011, 278.19054999999997}</string>
+									<string>{346.21170000000006, 150.14135999999999}</string>
+									<string>{465.11449999999991, 127.27551}</string>
+									<string>{437.67540000000008, 54.10455300000001}</string>
+									<string>{323.34580000000005, 86.116821000000002}</string>
+									<string>{318.77260000000001, 49.531372000000005}</string>
+									<string>{199.86989999999992, 40.385009999999994}</string>
+									<string>{199.86989999999992, 3.799499499999996}</string>
+									<string>{80.967000000000098, 3.799499499999996}</string>
+									<string>{90.113399999999956, 104.40955}</string>
+									<string>{3.2228999999999814, 99.836426000000003}</string>
+									<string>{76.393800000000056, 150.14135999999999}</string>
+								</array>
+								<key>ShapePositionOffset</key>
+								<string>{0, 0}</string>
+								<key>Tag</key>
+								<integer>0</integer>
+								<key>Width</key>
+								<real>464</real>
+							</dict>
+						</array>
+						<key>Type</key>
+						<integer>0</integer>
+					</dict>
+					<key>SHSheetName</key>
+					<string>initierRed</string>
+					<key>SHSpriteName</key>
+					<string>shooterred</string>
+					<key>SheetImage</key>
+					<string>initierRed_initierRed.png</string>
+					<key>SheetImage-HD</key>
+					<string>initierRed_initierRed-hd.png</string>
+					<key>TextureProperties</key>
+					<dict>
+						<key>Angle</key>
+						<integer>0</integer>
+						<key>Border</key>
+						<integer>0</integer>
+						<key>CanBeTrimmed</key>
+						<false/>
+						<key>Color</key>
+						<string>{{1, 1}, {1, 0}}</string>
+						<key>ConvertedFromOldFormat</key>
+						<true/>
+						<key>CustomClassName</key>
+						<string></string>
+						<key>FlipX</key>
+						<false/>
+						<key>FlipY</key>
+						<false/>
+						<key>Frame</key>
+						<string>{{714, 0}, {232, 137.5}}</string>
+						<key>Frame-HD</key>
+						<string>{{1428, 0}, {464, 275}}</string>
+						<key>Image</key>
+						<string>initierRed_initierRed.png</string>
+						<key>Image-HD</key>
+						<string>initierRed_initierRed-hd.png</string>
+						<key>IsCropped</key>
+						<false/>
+						<key>IsDrawable</key>
+						<true/>
+						<key>IsRotated</key>
+						<false/>
+						<key>IsTrimmed</key>
+						<false/>
+						<key>Name</key>
+						<string>shooterred</string>
+						<key>Opacity</key>
+						<real>1</real>
+						<key>OriginalImage</key>
+						<string>/Users/pratofungus/Documents/xcode/castillo/Castillo/Resources/Images//initierRed-hd.png</string>
+						<key>OriginalImage_RelativePath</key>
+						<string>initierRed-hd.png/</string>
+						<key>OriginalRect</key>
+						<string>{{1428, 0}, {464, 275}}</string>
+						<key>OriginalSize</key>
+						<string>{464, 275}</string>
+						<key>Position</key>
+						<string>{1428, 0}</string>
+						<key>Scale</key>
+						<string>{1, 1}</string>
+						<key>SpriteSize</key>
+						<string>{232, 137.5}</string>
+						<key>SpriteWasBreaked</key>
+						<false/>
+						<key>Tag</key>
+						<integer>0</integer>
+						<key>TextureOffset</key>
+						<string>{0, 0}</string>
+						<key>UsesBatchRendering</key>
+						<false/>
+						<key>ZOrder</key>
+						<integer>0</integer>
+					</dict>
+				</dict>
+				<key>wallred</key>
+				<dict>
+					<key>DocumentSecurityImageBookmark</key>
+					<data>
+					Ym9va5wEAAAAAAQQMAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAdAMAAAUA
+					AAABAQAAVXNlcnMAAAALAAAAAQEAAHByYXRv
+					ZnVuZ3VzAAkAAAABAQAARG9jdW1lbnRzAAAA
+					BQAAAAEBAAB4Y29kZQAAAAgAAAABAQAAY2Fz
+					dGlsbG8IAAAAAQEAAENhc3RpbGxvCQAAAAEB
+					AABSZXNvdXJjZXMAAAAGAAAAAQEAAEltYWdl
+					cwAAEQAAAAEBAABpbml0aWVyUmVkLWhkLnBu
+					ZwAAACQAAAABBgAABAAAABQAAAAoAAAAPAAA
+					AEwAAABcAAAAbAAAAIAAAACQAAAACAAAAAQD
+					AACnAwIAAAAAAAgAAAAEAwAA/8EFAAAAAAAI
+					AAAABAMAAADCBQAAAAAACAAAAAQDAAC/9QkA
+					AAAAAAgAAAAEAwAAdOk/AAAAAAAIAAAABAMA
+					AJLpPwAAAAAACAAAAAQDAABE6z8AAAAAAAgA
+					AAAEAwAAUOs/AAAAAAAIAAAABAMAAG3rPwAA
+					AAAAJAAAAAEGAADYAAAA6AAAAPgAAAAIAQAA
+					GAEAACgBAAA4AQAASAEAAFgBAAAIAAAAAAQA
+					AEG3WabMAAAAGAAAAAECAAABAAAAAAAAAA8A
+					AAAAAAAAAAAAAAAAAAAAAAAAAQUAAAQAAAAD
+					AwAAAQAAAAgAAAAEAwAABwAAAAAAAAAEAAAA
+					AwMAAPUBAAAMAAAAAQEAAE1hY2ludG9zaCBI
+					RAgAAAAEAwAAAICBPXQAAAAIAAAAAAQAAEG1
+					2mIwAAAAJAAAAAEBAAAxODA4M0E2QS0wN0Iz
+					LTNDMzAtOURGNi04ODc2NDQzQjY1QjkYAAAA
+					AQIAAIEAAAABAAgA7z8AAAEACAAAAAAAAAAA
+					AAEAAAABAQAALwAAAAQAAAADAwAAAAEAAN8A
+					AAABAgAAYTI5OGVmMDU4NGViZjZhNDFmZDBm
+					NjNmZTA2ZWM2OTZhY2E5MmI1MDswMDAwMDAw
+					MDswMDAwMDAwMDAwMDAwMDIwO2NvbS5hcHBs
+					ZS5hcHAtc2FuZGJveC5yZWFkLXdyaXRlOzAw
+					MDAwMDAxOzAxMDAwMDAyOzAwMDAwMDAwMDAz
+					ZmViNmQ7L3VzZXJzL3ByYXRvZnVuZ3VzL2Rv
+					Y3VtZW50cy94Y29kZS9jYXN0aWxsby9jYXN0
+					aWxsby9yZXNvdXJjZXMvaW1hZ2VzL2luaXRp
+					ZXJyZWQtaGQucG5nAADwAAAA/v///wEAAAAA
+					AAAAEwAAAAQQAACsAAAAAAAAAAUQAABoAQAA
+					AAAAABAQAACkAQAAAAAAAEAQAACUAQAAAAAA
+					AFQQAADMAQAAAAAAAFUQAADMAQAAAAAAAFYQ
+					AADEAQAAAAAAAAIgAAB0AgAAAAAAABAgAAD0
+					AQAAAAAAABEgAAAoAgAAAAAAABIgAAAIAgAA
+					AAAAABMgAAAYAgAAAAAAACAgAABUAgAAAAAA
+					ADAgAADEAQAAAAAAAAHAAADYAQAAAAAAABHA
+					AAAUAAAAAAAAABLAAADoAQAAAAAAABDQAACA
+					AgAAAAAAAIDwAACMAgAAAAAAAA==
+					</data>
+					<key>IsSHSprite</key>
+					<true/>
+					<key>PhysicProperties</key>
+					<dict>
+						<key>AngularDamping</key>
+						<real>0.0</real>
+						<key>AngularVelocity</key>
+						<real>0.0</real>
+						<key>CanSleep</key>
+						<true/>
+						<key>FixedRot</key>
+						<false/>
+						<key>GravityScale</key>
+						<real>1</real>
+						<key>HandledBySH</key>
+						<true/>
+						<key>IsBullet</key>
+						<false/>
+						<key>LinearDamping</key>
+						<real>0.0</real>
+						<key>LinearVelocity</key>
+						<string>{0, 0}</string>
+						<key>SH_ComplexShapes</key>
+						<array>
+							<dict>
+								<key>Angle</key>
+								<integer>0</integer>
+								<key>Category</key>
+								<integer>1</integer>
+								<key>Density</key>
+								<real>0.20000000298023224</real>
+								<key>Fixture</key>
+								<array>
+									<array>
+										<string>{35.233050000000048, -150.94385}</string>
+										<string>{35.233050000000048, 2.2577999999999747}</string>
+										<string>{-3.6390499999999975, 153.17290000000003}</string>
+										<string>{-33.364749999999958, -0.02874999999994543}</string>
+										<string>{-31.078099999999949, -155.51694999999995}</string>
+									</array>
+								</array>
+								<key>Friction</key>
+								<real>0.20000000298023224</real>
+								<key>Group</key>
+								<integer>0</integer>
+								<key>Height</key>
+								<real>620</real>
+								<key>HolesPoints</key>
+								<array/>
+								<key>IsCircle</key>
+								<false/>
+								<key>IsRectangle</key>
+								<false/>
+								<key>IsSensor</key>
+								<false/>
+								<key>LHHeight</key>
+								<real>310</real>
+								<key>LHShapePositionOffset</key>
+								<string>{-36.75, -155}</string>
+								<key>LHWidth</key>
+								<real>73.5</real>
+								<key>Mask</key>
+								<integer>65535</integer>
+								<key>Name</key>
+								<string>UntitledFixture</string>
+								<key>Restitution</key>
+								<real>0.20000000298023224</real>
+								<key>ShapePoints</key>
+								<array>
+									<string>{143.9661000000001, 611.8877}</string>
+									<string>{143.9661000000001, 305.48440000000005}</string>
+									<string>{66.221900000000005, 3.6541999999999462}</string>
+									<string>{6.7705000000000837, 310.05749999999989}</string>
+									<string>{11.343800000000101, 621.0338999999999}</string>
+								</array>
+								<key>ShapePositionOffset</key>
+								<string>{0, 0}</string>
+								<key>Tag</key>
+								<integer>0</integer>
+								<key>Width</key>
+								<real>147</real>
+							</dict>
+						</array>
+						<key>Type</key>
+						<integer>0</integer>
+					</dict>
+					<key>SHSheetName</key>
+					<string>initierRed</string>
+					<key>SHSpriteName</key>
+					<string>wallred</string>
+					<key>SheetImage</key>
+					<string>initierRed_initierRed.png</string>
+					<key>SheetImage-HD</key>
+					<string>initierRed_initierRed-hd.png</string>
+					<key>TextureProperties</key>
+					<dict>
+						<key>Angle</key>
+						<integer>0</integer>
+						<key>Border</key>
+						<integer>0</integer>
+						<key>CanBeTrimmed</key>
+						<false/>
+						<key>Color</key>
+						<string>{{1, 1}, {1, 0}}</string>
+						<key>ConvertedFromOldFormat</key>
+						<true/>
+						<key>CustomClassName</key>
+						<string></string>
+						<key>FlipX</key>
+						<false/>
+						<key>FlipY</key>
+						<false/>
+						<key>Frame</key>
+						<string>{{680, 601}, {73.5, 310}}</string>
+						<key>Frame-HD</key>
+						<string>{{1360, 1202}, {147, 620}}</string>
+						<key>Image</key>
+						<string>initierRed_initierRed.png</string>
+						<key>Image-HD</key>
+						<string>initierRed_initierRed-hd.png</string>
+						<key>IsCropped</key>
+						<false/>
+						<key>IsDrawable</key>
+						<true/>
+						<key>IsRotated</key>
+						<false/>
+						<key>IsTrimmed</key>
+						<false/>
+						<key>Name</key>
+						<string>wallred</string>
+						<key>Opacity</key>
+						<real>1</real>
+						<key>OriginalImage</key>
+						<string>/Users/pratofungus/Documents/xcode/castillo/Castillo/Resources/Images//initierRed-hd.png</string>
+						<key>OriginalImage_RelativePath</key>
+						<string>initierRed-hd.png/</string>
+						<key>OriginalRect</key>
+						<string>{{1360, 1202}, {147, 620}}</string>
+						<key>OriginalSize</key>
+						<string>{147, 620}</string>
+						<key>Position</key>
+						<string>{1360, 1202}</string>
+						<key>Scale</key>
+						<string>{1, 1}</string>
+						<key>SpriteSize</key>
+						<string>{73.5, 310}</string>
+						<key>SpriteWasBreaked</key>
+						<false/>
+						<key>Tag</key>
+						<integer>0</integer>
+						<key>TextureOffset</key>
+						<string>{0, 0}</string>
+						<key>UsesBatchRendering</key>
+						<false/>
+						<key>ZOrder</key>
+						<integer>0</integer>
+					</dict>
+				</dict>
+			</dict>
+			<key>Size</key>
+			<string>{2048, 2048}</string>
+			<key>Trim</key>
+			<true/>
+			<key>ZOrder</key>
+			<integer>0</integer>
+		</dict>
+	</array>
+	<key>SH_ANIMATIONS_LIST</key>
+	<array/>
+	<key>SaveSettings</key>
+	<dict>
+		<key>Dither</key>
+		<false/>
+		<key>DocumentName</key>
+		<string>initierRed</string>
+		<key>HD2XSuffix</key>
+		<string>-ipadhd</string>
+		<key>HDSuffix</key>
+		<string>-hd</string>
+		<key>ImageFormatId</key>
+		<integer>0</integer>
+		<key>Npot</key>
+		<true/>
+		<key>PvrFormat</key>
+		<integer>0</integer>
+		<key>PvrRemoveParent</key>
+		<true/>
+		<key>ResamplingAlgorithm</key>
+		<integer>0</integer>
+		<key>ResizingOptions</key>
+		<integer>1</integer>
+		<key>SaveStyle</key>
+		<integer>0</integer>
+	</dict>
+	<key>SceneFolderSandboxBookmark</key>
+	<data>
+	Ym9vaygEAAAAAAQQMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJAMA
+	AAUAAAABAQAAVXNlcnMAAAALAAAAAQEAAHByYXRvZnVuZ3VzAAkAAAABAQAARG9jdW1l
+	bnRzAAAABQAAAAEBAAB4Y29kZQAAAAgAAAABAQAAY2FzdGlsbG8IAAAAAQEAAENhc3Rp
+	bGxvCQAAAAEBAABSZXNvdXJjZXMAAAAGAAAAAQEAAEltYWdlcwAAIAAAAAEGAAAEAAAA
+	FAAAACgAAAA8AAAATAAAAFwAAABsAAAAgAAAAAgAAAAEAwAApwMCAAAAAAAIAAAABAMA
+	AP/BBQAAAAAACAAAAAQDAAAAwgUAAAAAAAgAAAAEAwAAv/UJAAAAAAAIAAAABAMAAHTp
+	PwAAAAAACAAAAAQDAACS6T8AAAAAAAgAAAAEAwAAROs/AAAAAAAIAAAABAMAAFDrPwAA
+	AAAAIAAAAAEGAAC4AAAAyAAAANgAAADoAAAA+AAAAAgBAAAYAQAAKAEAAAgAAAAABAAA
+	QbdZpswAAAAYAAAAAQIAAAIAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAgAAAAEAwAABgAA
+	AAAAAAAEAAAAAwMAAPUBAAAMAAAAAQEAAE1hY2ludG9zaCBIRAgAAAAEAwAAAICBPXQA
+	AAAIAAAAAAQAAEG12mIwAAAAJAAAAAEBAAAxODA4M0E2QS0wN0IzLTNDMzAtOURGNi04
+	ODc2NDQzQjY1QjkYAAAAAQIAAIEAAAABAAgA7z8AAAEACAAAAAAAAAAAAAEAAAABAQAA
+	LwAAAAAAAAABBQAABAAAAAMDAAAAAQAAzQAAAAECAAAwYjZiNDFhYmM0OGZhOTI3ZTdm
+	NDNiMGFjOTZiODlmYWUxMTNkNDNiOzAwMDAwMDAwOzAwMDAwMDAwMDAwMDAwMjA7Y29t
+	LmFwcGxlLmFwcC1zYW5kYm94LnJlYWQtd3JpdGU7MDAwMDAwMDE7MDEwMDAwMDI7MDAw
+	MDAwMDAwMDNmZWI1MDsvdXNlcnMvcHJhdG9mdW5ndXMvZG9jdW1lbnRzL3hjb2RlL2Nh
+	c3RpbGxvL2Nhc3RpbGxvL3Jlc291cmNlcy9pbWFnZXMAAAAAzAAAAP7///8BAAAAAAAA
+	ABAAAAAEEAAAkAAAAAAAAAAFEAAAOAEAAAAAAAAQEAAAcAEAAAAAAABAEAAAYAEAAAAA
+	AAACIAAALAIAAAAAAAAQIAAArAEAAAAAAAARIAAA4AEAAAAAAAASIAAAwAEAAAAAAAAT
+	IAAA0AEAAAAAAAAgIAAADAIAAAAAAAAwIAAAOAIAAAAAAAABwAAAkAEAAAAAAAARwAAA
+	FAAAAAAAAAASwAAAoAEAAAAAAAAQ0AAAQAIAAAAAAACA8AAATAIAAAAAAAA=
+	</data>
+	<key>Version</key>
+	<string>1.8.307</string>
+</dict>
+</plist>

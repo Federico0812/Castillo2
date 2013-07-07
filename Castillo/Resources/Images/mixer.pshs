@@ -1,0 +1,1305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>Bogdan Vladu</string>
+	<key>CreatedWith</key>
+	<string>SpriteHelper</string>
+	<key>SHEETS_INFO</key>
+	<array>
+		<dict>
+			<key>2HDSuffix</key>
+			<string>-ipadhd</string>
+			<key>AllowRotation</key>
+			<false/>
+			<key>Crop</key>
+			<false/>
+			<key>DropSprites</key>
+			<false/>
+			<key>HDSuffix</key>
+			<string>-hd</string>
+			<key>IsRendable</key>
+			<true/>
+			<key>MaxSheetSize</key>
+			<integer>4096</integer>
+			<key>NpotSize</key>
+			<string>{1980, 2360}</string>
+			<key>Padding</key>
+			<integer>8</integer>
+			<key>PixelFormat</key>
+			<integer>0</integer>
+			<key>SheetImage</key>
+			<string>mixer_mixer.png</string>
+			<key>SheetImage-HD</key>
+			<string>mixer_mixer-hd.png</string>
+			<key>SheetName</key>
+			<string>mixer</string>
+			<key>SheetSceneImageName</key>
+			<string></string>
+			<key>Sheet_Sprites_Info</key>
+			<dict>
+				<key>forest</key>
+				<dict>
+					<key>DocumentSecurityImageBookmark</key>
+					<data>
+					Ym9vaygEAAAAAAQQMAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMAAAUA
+					AAABAQAAVXNlcnMAAAALAAAAAQEAAHByYXRv
+					ZnVuZ3VzAAkAAAABAQAARG9jdW1lbnRzAAAA
+					BAAAAAEBAABkcmF3BAAAAAEBAABtaXhvBwAA
+					AAEBAAB1cGRhdGUyAAoAAAABAQAAZm9yZXN0
+					LnBuZwAAHAAAAAEGAAAEAAAAFAAAACgAAAA8
+					AAAASAAAAFQAAABkAAAACAAAAAQDAACnAwIA
+					AAAAAAgAAAAEAwAA/8EFAAAAAAAIAAAABAMA
+					AADCBQAAAAAACAAAAAQDAAB03jUAAAAAAAgA
+					AAAEAwAAriZBAAAAAAAIAAAABAMAAHGlQgAA
+					AAAACAAAAAQDAACrpUIAAAAAABwAAAABBgAA
+					nAAAAKwAAAC8AAAAzAAAANwAAADsAAAA/AAA
+					AAgAAAAABAAAQbeJff8AAAAYAAAAAQIAAAEA
+					AAAAAAAADwAAAAAAAAAAAAAAAAAAAAAAAAAB
+					BQAABAAAAAMDAAAGAAAABAAAAAMDAAAEAAAA
+					CAAAAAQDAAAFAAAAAAAAAAQAAAADAwAA9QEA
+					AAwAAAABAQAATWFjaW50b3NoIEhECAAAAAQD
+					AAAAgIE9dAAAAAgAAAAABAAAQbXaYjAAAAAk
+					AAAAAQEAADE4MDgzQTZBLTA3QjMtM0MzMC05
+					REY2LTg4NzY0NDNCNjVCORgAAAABAgAAgQAA
+					AAEACADvPwAAAQAIAAAAAAAAAAAAAQAAAAEB
+					AAAvAAAABAAAAAMDAAAAAQAAwQAAAAECAAAy
+					MTdhZjk3N2FhMGRmYzQ0ZWM5ODI1MTNmNGIw
+					MjhjMjUxMTE3ZDhkOzAwMDAwMDAwOzAwMDAw
+					MDAwMDAwMDAwMjA7Y29tLmFwcGxlLmFwcC1z
+					YW5kYm94LnJlYWQtd3JpdGU7MDAwMDAwMDE7
+					MDEwMDAwMDI7MDAwMDAwMDAwMDQyYTVhYjsv
+					dXNlcnMvcHJhdG9mdW5ndXMvZG9jdW1lbnRz
+					L2RyYXcvbWl4by91cGRhdGUyL2ZvcmVzdC5w
+					bmcAAAAA8AAAAP7///8BAAAAAAAAABMAAAAE
+					EAAAeAAAAAAAAAAFEAAADAEAAAAAAAAQEAAA
+					QAEAAAAAAABAEAAAMAEAAAAAAABUEAAAaAEA
+					AAAAAABVEAAAdAEAAAAAAABWEAAAYAEAAAAA
+					AAACIAAAHAIAAAAAAAAQIAAAnAEAAAAAAAAR
+					IAAA0AEAAAAAAAASIAAAsAEAAAAAAAATIAAA
+					wAEAAAAAAAAgIAAA/AEAAAAAAAAwIAAAYAEA
+					AAAAAAABwAAAgAEAAAAAAAARwAAAFAAAAAAA
+					AAASwAAAkAEAAAAAAAAQ0AAAKAIAAAAAAACA
+					8AAANAIAAAAAAAA=
+					</data>
+					<key>IsSHSprite</key>
+					<true/>
+					<key>PhysicProperties</key>
+					<dict>
+						<key>AngularDamping</key>
+						<real>0.0</real>
+						<key>AngularVelocity</key>
+						<real>0.0</real>
+						<key>CanSleep</key>
+						<true/>
+						<key>FixedRot</key>
+						<false/>
+						<key>GravityScale</key>
+						<real>1</real>
+						<key>HandledBySH</key>
+						<true/>
+						<key>IsBullet</key>
+						<false/>
+						<key>LinearDamping</key>
+						<real>0.0</real>
+						<key>LinearVelocity</key>
+						<string>{0, 0}</string>
+						<key>SH_ComplexShapes</key>
+						<array/>
+						<key>Type</key>
+						<integer>3</integer>
+					</dict>
+					<key>SHSheetName</key>
+					<string>mixer</string>
+					<key>SHSpriteName</key>
+					<string>forest</string>
+					<key>SheetImage</key>
+					<string>mixer_mixer.png</string>
+					<key>SheetImage-HD</key>
+					<string>mixer_mixer-hd.png</string>
+					<key>TextureProperties</key>
+					<dict>
+						<key>Angle</key>
+						<integer>0</integer>
+						<key>Border</key>
+						<integer>0</integer>
+						<key>CanBeTrimmed</key>
+						<true/>
+						<key>Color</key>
+						<string>{{1, 1}, {1, 1}}</string>
+						<key>ConvertedFromOldFormat</key>
+						<false/>
+						<key>CustomClassName</key>
+						<string></string>
+						<key>FlipX</key>
+						<false/>
+						<key>FlipY</key>
+						<false/>
+						<key>Frame</key>
+						<string>{{4, 4}, {886.5, 496.5}}</string>
+						<key>Frame-HD</key>
+						<string>{{8, 8}, {1773, 993}}</string>
+						<key>Image</key>
+						<string>mixer_mixer.png</string>
+						<key>Image-HD</key>
+						<string>mixer_mixer-hd.png</string>
+						<key>IsCropped</key>
+						<false/>
+						<key>IsDrawable</key>
+						<true/>
+						<key>IsRotated</key>
+						<false/>
+						<key>IsTrimmed</key>
+						<false/>
+						<key>Name</key>
+						<string>forest</string>
+						<key>Opacity</key>
+						<real>1</real>
+						<key>OriginalImage</key>
+						<string>/Users/pratofungus/Documents/draw/mixo/update2/forest.png</string>
+						<key>OriginalImage_RelativePath</key>
+						<string>../../../../../draw/mixo/update2/forest.png/</string>
+						<key>OriginalRect</key>
+						<string>{{0, 0}, {1773, 993}}</string>
+						<key>OriginalSize</key>
+						<string>{1773, 993}</string>
+						<key>Position</key>
+						<string>{8, 8}</string>
+						<key>Scale</key>
+						<string>{1, 1}</string>
+						<key>SpriteSize</key>
+						<string>{886.5, 496.5}</string>
+						<key>SpriteWasBreaked</key>
+						<false/>
+						<key>Tag</key>
+						<integer>0</integer>
+						<key>TextureOffset</key>
+						<string>{0, 0}</string>
+						<key>UsesBatchRendering</key>
+						<true/>
+						<key>ZOrder</key>
+						<integer>0</integer>
+					</dict>
+				</dict>
+				<key>grass</key>
+				<dict>
+					<key>DocumentSecurityImageBookmark</key>
+					<data>
+					Ym9vayQEAAAAAAQQMAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAA/AIAAAUA
+					AAABAQAAVXNlcnMAAAALAAAAAQEAAHByYXRv
+					ZnVuZ3VzAAkAAAABAQAARG9jdW1lbnRzAAAA
+					BAAAAAEBAABkcmF3BAAAAAEBAABtaXhvBwAA
+					AAEBAAB1cGRhdGUyAAkAAAABAQAAZ3Jhc3Mu
+					cG5nAAAAHAAAAAEGAAAEAAAAFAAAACgAAAA8
+					AAAASAAAAFQAAABkAAAACAAAAAQDAACnAwIA
+					AAAAAAgAAAAEAwAA/8EFAAAAAAAIAAAABAMA
+					AADCBQAAAAAACAAAAAQDAAB03jUAAAAAAAgA
+					AAAEAwAAriZBAAAAAAAIAAAABAMAAHGlQgAA
+					AAAACAAAAAQDAACipUIAAAAAABwAAAABBgAA
+					nAAAAKwAAAC8AAAAzAAAANwAAADsAAAA/AAA
+					AAgAAAAABAAAQbeJfeAAAAAYAAAAAQIAAAEA
+					AAAAAAAADwAAAAAAAAAAAAAAAAAAAAAAAAAB
+					BQAABAAAAAMDAAAGAAAABAAAAAMDAAAEAAAA
+					CAAAAAQDAAAFAAAAAAAAAAQAAAADAwAA9QEA
+					AAwAAAABAQAATWFjaW50b3NoIEhECAAAAAQD
+					AAAAgIE9dAAAAAgAAAAABAAAQbXaYjAAAAAk
+					AAAAAQEAADE4MDgzQTZBLTA3QjMtM0MzMC05
+					REY2LTg4NzY0NDNCNjVCORgAAAABAgAAgQAA
+					AAEACADvPwAAAQAIAAAAAAAAAAAAAQAAAAEB
+					AAAvAAAABAAAAAMDAAAAAQAAwAAAAAECAAA2
+					ODJhZDkwODY3ZDg2OTliNGEyZDk5YWMxOWIz
+					ODIyYTk2YWRiMmNjOzAwMDAwMDAwOzAwMDAw
+					MDAwMDAwMDAwMjA7Y29tLmFwcGxlLmFwcC1z
+					YW5kYm94LnJlYWQtd3JpdGU7MDAwMDAwMDE7
+					MDEwMDAwMDI7MDAwMDAwMDAwMDQyYTVhMjsv
+					dXNlcnMvcHJhdG9mdW5ndXMvZG9jdW1lbnRz
+					L2RyYXcvbWl4by91cGRhdGUyL2dyYXNzLnBu
+					ZwDwAAAA/v///wEAAAAAAAAAEwAAAAQQAAB4
+					AAAAAAAAAAUQAAAMAQAAAAAAABAQAABAAQAA
+					AAAAAEAQAAAwAQAAAAAAAFQQAABoAQAAAAAA
+					AFUQAAB0AQAAAAAAAFYQAABgAQAAAAAAAAIg
+					AAAcAgAAAAAAABAgAACcAQAAAAAAABEgAADQ
+					AQAAAAAAABIgAACwAQAAAAAAABMgAADAAQAA
+					AAAAACAgAAD8AQAAAAAAADAgAABgAQAAAAAA
+					AAHAAACAAQAAAAAAABHAAAAUAAAAAAAAABLA
+					AACQAQAAAAAAABDQAAAoAgAAAAAAAIDwAAA0
+					AgAAAAAAAA==
+					</data>
+					<key>IsSHSprite</key>
+					<true/>
+					<key>PhysicProperties</key>
+					<dict>
+						<key>AngularDamping</key>
+						<real>0.0</real>
+						<key>AngularVelocity</key>
+						<real>0.0</real>
+						<key>CanSleep</key>
+						<true/>
+						<key>FixedRot</key>
+						<false/>
+						<key>GravityScale</key>
+						<real>1</real>
+						<key>HandledBySH</key>
+						<true/>
+						<key>IsBullet</key>
+						<false/>
+						<key>LinearDamping</key>
+						<real>0.0</real>
+						<key>LinearVelocity</key>
+						<string>{0, 0}</string>
+						<key>SH_ComplexShapes</key>
+						<array/>
+						<key>Type</key>
+						<integer>3</integer>
+					</dict>
+					<key>SHSheetName</key>
+					<string>mixer</string>
+					<key>SHSpriteName</key>
+					<string>grass</string>
+					<key>SheetImage</key>
+					<string>mixer_mixer.png</string>
+					<key>SheetImage-HD</key>
+					<string>mixer_mixer-hd.png</string>
+					<key>TextureProperties</key>
+					<dict>
+						<key>Angle</key>
+						<integer>0</integer>
+						<key>Border</key>
+						<integer>0</integer>
+						<key>CanBeTrimmed</key>
+						<true/>
+						<key>Color</key>
+						<string>{{1, 1}, {1, 1}}</string>
+						<key>ConvertedFromOldFormat</key>
+						<false/>
+						<key>CustomClassName</key>
+						<string></string>
+						<key>FlipX</key>
+						<false/>
+						<key>FlipY</key>
+						<false/>
+						<key>Frame</key>
+						<string>{{4, 506}, {672.5, 267.5}}</string>
+						<key>Frame-HD</key>
+						<string>{{8, 1012}, {1345, 535}}</string>
+						<key>Image</key>
+						<string>mixer_mixer.png</string>
+						<key>Image-HD</key>
+						<string>mixer_mixer-hd.png</string>
+						<key>IsCropped</key>
+						<false/>
+						<key>IsDrawable</key>
+						<true/>
+						<key>IsRotated</key>
+						<false/>
+						<key>IsTrimmed</key>
+						<false/>
+						<key>Name</key>
+						<string>grass</string>
+						<key>Opacity</key>
+						<real>1</real>
+						<key>OriginalImage</key>
+						<string>/Users/pratofungus/Documents/draw/mixo/update2/grass.png</string>
+						<key>OriginalImage_RelativePath</key>
+						<string>../../../../../draw/mixo/update2/grass.png/</string>
+						<key>OriginalRect</key>
+						<string>{{0, 0}, {1345, 535}}</string>
+						<key>OriginalSize</key>
+						<string>{1345, 535}</string>
+						<key>Position</key>
+						<string>{8, 1012}</string>
+						<key>Scale</key>
+						<string>{1, 1}</string>
+						<key>SpriteSize</key>
+						<string>{672.5, 267.5}</string>
+						<key>SpriteWasBreaked</key>
+						<false/>
+						<key>Tag</key>
+						<integer>0</integer>
+						<key>TextureOffset</key>
+						<string>{0, 0}</string>
+						<key>UsesBatchRendering</key>
+						<true/>
+						<key>ZOrder</key>
+						<integer>0</integer>
+					</dict>
+				</dict>
+				<key>mixus1</key>
+				<dict>
+					<key>DocumentSecurityImageBookmark</key>
+					<data>
+					Ym9vaygEAAAAAAQQMAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMAAAUA
+					AAABAQAAVXNlcnMAAAALAAAAAQEAAHByYXRv
+					ZnVuZ3VzAAkAAAABAQAARG9jdW1lbnRzAAAA
+					BAAAAAEBAABkcmF3BAAAAAEBAABtaXhvBwAA
+					AAEBAAB1cGRhdGUyAAoAAAABAQAAbWl4dXMx
+					LnBuZwAAHAAAAAEGAAAEAAAAFAAAACgAAAA8
+					AAAASAAAAFQAAABkAAAACAAAAAQDAACnAwIA
+					AAAAAAgAAAAEAwAA/8EFAAAAAAAIAAAABAMA
+					AADCBQAAAAAACAAAAAQDAAB03jUAAAAAAAgA
+					AAAEAwAAriZBAAAAAAAIAAAABAMAAHGlQgAA
+					AAAACAAAAAQDAABzpUIAAAAAABwAAAABBgAA
+					nAAAAKwAAAC8AAAAzAAAANwAAADsAAAA/AAA
+					AAgAAAAABAAAQbeJfZ0AAAAYAAAAAQIAAAEA
+					AAAAAAAADwAAAAAAAAAAAAAAAAAAAAAAAAAB
+					BQAABAAAAAMDAAAGAAAABAAAAAMDAAAEAAAA
+					CAAAAAQDAAAFAAAAAAAAAAQAAAADAwAA9QEA
+					AAwAAAABAQAATWFjaW50b3NoIEhECAAAAAQD
+					AAAAgIE9dAAAAAgAAAAABAAAQbXaYjAAAAAk
+					AAAAAQEAADE4MDgzQTZBLTA3QjMtM0MzMC05
+					REY2LTg4NzY0NDNCNjVCORgAAAABAgAAgQAA
+					AAEACADvPwAAAQAIAAAAAAAAAAAAAQAAAAEB
+					AAAvAAAABAAAAAMDAAAAAQAAwQAAAAECAAAy
+					NTExNjQwMGM3YTcyYjNlMDViNWIyOTg5YTlm
+					OTI0NWNiMDZiYzA0OzAwMDAwMDAwOzAwMDAw
+					MDAwMDAwMDAwMjA7Y29tLmFwcGxlLmFwcC1z
+					YW5kYm94LnJlYWQtd3JpdGU7MDAwMDAwMDE7
+					MDEwMDAwMDI7MDAwMDAwMDAwMDQyYTU3Mzsv
+					dXNlcnMvcHJhdG9mdW5ndXMvZG9jdW1lbnRz
+					L2RyYXcvbWl4by91cGRhdGUyL21peHVzMS5w
+					bmcAAAAA8AAAAP7///8BAAAAAAAAABMAAAAE
+					EAAAeAAAAAAAAAAFEAAADAEAAAAAAAAQEAAA
+					QAEAAAAAAABAEAAAMAEAAAAAAABUEAAAaAEA
+					AAAAAABVEAAAdAEAAAAAAABWEAAAYAEAAAAA
+					AAACIAAAHAIAAAAAAAAQIAAAnAEAAAAAAAAR
+					IAAA0AEAAAAAAAASIAAAsAEAAAAAAAATIAAA
+					wAEAAAAAAAAgIAAA/AEAAAAAAAAwIAAAYAEA
+					AAAAAAABwAAAgAEAAAAAAAARwAAAFAAAAAAA
+					AAASwAAAkAEAAAAAAAAQ0AAAKAIAAAAAAACA
+					8AAANAIAAAAAAAA=
+					</data>
+					<key>IsSHSprite</key>
+					<true/>
+					<key>PhysicProperties</key>
+					<dict>
+						<key>AngularDamping</key>
+						<real>0.0</real>
+						<key>AngularVelocity</key>
+						<real>0.0</real>
+						<key>CanSleep</key>
+						<true/>
+						<key>FixedRot</key>
+						<true/>
+						<key>GravityScale</key>
+						<real>0.0</real>
+						<key>HandledBySH</key>
+						<true/>
+						<key>IsBullet</key>
+						<false/>
+						<key>LinearDamping</key>
+						<real>0.0</real>
+						<key>LinearVelocity</key>
+						<string>{0, 0}</string>
+						<key>SH_ComplexShapes</key>
+						<array>
+							<dict>
+								<key>Angle</key>
+								<integer>0</integer>
+								<key>Category</key>
+								<integer>1</integer>
+								<key>Density</key>
+								<real>25</real>
+								<key>Fixture</key>
+								<array>
+									<array>
+										<string>{-41.5, -23}</string>
+										<string>{-44, -50}</string>
+										<string>{-38.5, -54}</string>
+										<string>{-35, -47}</string>
+										<string>{-16, -7}</string>
+									</array>
+									<array>
+										<string>{-31.5, -48.5}</string>
+										<string>{-30, -61}</string>
+										<string>{-8.9741357733938685, -79.076966712206854}</string>
+										<string>{20, -57.5}</string>
+										<string>{15.5, -19.5}</string>
+										<string>{-16, -7}</string>
+									</array>
+									<array>
+										<string>{-16, -7}</string>
+										<string>{-35, -47}</string>
+										<string>{-31.5, -48.5}</string>
+									</array>
+									<array>
+										<string>{-16, 39}</string>
+										<string>{-16, -7}</string>
+										<string>{15.5, -19.5}</string>
+									</array>
+									<array>
+										<string>{-16, 39}</string>
+										<string>{15.5, -19.5}</string>
+										<string>{41, -4}</string>
+									</array>
+									<array>
+										<string>{-3, 49}</string>
+										<string>{-16, 39}</string>
+										<string>{41, -4}</string>
+									</array>
+									<array>
+										<string>{-3, 49}</string>
+										<string>{41, -4}</string>
+										<string>{46.5, 9.5}</string>
+									</array>
+									<array>
+										<string>{-3, 49}</string>
+										<string>{46.5, 9.5}</string>
+										<string>{44.5, 29.5}</string>
+									</array>
+									<array>
+										<string>{-3, 49}</string>
+										<string>{44.5, 29.5}</string>
+										<string>{29.5, 47}</string>
+									</array>
+									<array>
+										<string>{9, 51.5}</string>
+										<string>{-3, 49}</string>
+										<string>{29.5, 47}</string>
+									</array>
+								</array>
+								<key>Friction</key>
+								<real>0.20000000298023224</real>
+								<key>Group</key>
+								<integer>0</integer>
+								<key>Height</key>
+								<real>0.0</real>
+								<key>HolesPoints</key>
+								<array/>
+								<key>IsCircle</key>
+								<false/>
+								<key>IsRectangle</key>
+								<false/>
+								<key>IsSensor</key>
+								<false/>
+								<key>LHHeight</key>
+								<real>0.0</real>
+								<key>LHShapePositionOffset</key>
+								<string>{-47, -78}</string>
+								<key>LHWidth</key>
+								<real>0.0</real>
+								<key>Mask</key>
+								<integer>65535</integer>
+								<key>Name</key>
+								<string>mixus</string>
+								<key>Restitution</key>
+								<real>0.20000000298023224</real>
+								<key>ShapePoints</key>
+								<array>
+									<string>{62, 170}</string>
+									<string>{11, 202}</string>
+									<string>{6, 256}</string>
+									<string>{17, 264}</string>
+									<string>{24, 250}</string>
+									<string>{31, 253}</string>
+									<string>{34, 278}</string>
+									<string>{76.051728453212263, 314.15393342441371}</string>
+									<string>{134, 271}</string>
+									<string>{125, 195}</string>
+									<string>{176, 164}</string>
+									<string>{187, 137}</string>
+									<string>{183, 97}</string>
+									<string>{153, 62}</string>
+									<string>{112, 53}</string>
+									<string>{88, 58}</string>
+									<string>{62, 78}</string>
+								</array>
+								<key>ShapePositionOffset</key>
+								<string>{0, 0}</string>
+								<key>Tag</key>
+								<integer>0</integer>
+								<key>Width</key>
+								<real>0.0</real>
+							</dict>
+						</array>
+						<key>Type</key>
+						<integer>2</integer>
+					</dict>
+					<key>SHSheetName</key>
+					<string>mixer</string>
+					<key>SHSpriteName</key>
+					<string>mixus1</string>
+					<key>SheetImage</key>
+					<string>mixer_mixer.png</string>
+					<key>SheetImage-HD</key>
+					<string>mixer_mixer-hd.png</string>
+					<key>TextureProperties</key>
+					<dict>
+						<key>Angle</key>
+						<integer>0</integer>
+						<key>Border</key>
+						<integer>0</integer>
+						<key>CanBeTrimmed</key>
+						<true/>
+						<key>Color</key>
+						<string>{{1, 1}, {1, 1}}</string>
+						<key>ConvertedFromOldFormat</key>
+						<false/>
+						<key>CustomClassName</key>
+						<string></string>
+						<key>FlipX</key>
+						<false/>
+						<key>FlipY</key>
+						<false/>
+						<key>Frame</key>
+						<string>{{896, 324}, {94, 156}}</string>
+						<key>Frame-HD</key>
+						<string>{{1792, 648}, {188, 312}}</string>
+						<key>Image</key>
+						<string>mixer_mixer.png</string>
+						<key>Image-HD</key>
+						<string>mixer_mixer-hd.png</string>
+						<key>IsCropped</key>
+						<false/>
+						<key>IsDrawable</key>
+						<true/>
+						<key>IsRotated</key>
+						<false/>
+						<key>IsTrimmed</key>
+						<false/>
+						<key>Name</key>
+						<string>mixus1</string>
+						<key>Opacity</key>
+						<real>1</real>
+						<key>OriginalImage</key>
+						<string>/Users/pratofungus/Documents/draw/mixo/update2/mixus1.png</string>
+						<key>OriginalImage_RelativePath</key>
+						<string>../../../../../draw/mixo/update2/mixus1.png/</string>
+						<key>OriginalRect</key>
+						<string>{{0, 0}, {188, 312}}</string>
+						<key>OriginalSize</key>
+						<string>{188, 312}</string>
+						<key>Position</key>
+						<string>{1792, 648}</string>
+						<key>Scale</key>
+						<string>{1, 1}</string>
+						<key>SpriteSize</key>
+						<string>{94, 156}</string>
+						<key>SpriteWasBreaked</key>
+						<false/>
+						<key>Tag</key>
+						<integer>0</integer>
+						<key>TextureOffset</key>
+						<string>{0, 0}</string>
+						<key>UsesBatchRendering</key>
+						<true/>
+						<key>ZOrder</key>
+						<integer>0</integer>
+					</dict>
+				</dict>
+				<key>mixus2</key>
+				<dict>
+					<key>DocumentSecurityImageBookmark</key>
+					<data>
+					Ym9vaygEAAAAAAQQMAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMAAAUA
+					AAABAQAAVXNlcnMAAAALAAAAAQEAAHByYXRv
+					ZnVuZ3VzAAkAAAABAQAARG9jdW1lbnRzAAAA
+					BAAAAAEBAABkcmF3BAAAAAEBAABtaXhvBwAA
+					AAEBAAB1cGRhdGUyAAoAAAABAQAAbWl4dXMy
+					LnBuZwAAHAAAAAEGAAAEAAAAFAAAACgAAAA8
+					AAAASAAAAFQAAABkAAAACAAAAAQDAACnAwIA
+					AAAAAAgAAAAEAwAA/8EFAAAAAAAIAAAABAMA
+					AADCBQAAAAAACAAAAAQDAAB03jUAAAAAAAgA
+					AAAEAwAAriZBAAAAAAAIAAAABAMAAHGlQgAA
+					AAAACAAAAAQDAACRpUIAAAAAABwAAAABBgAA
+					nAAAAKwAAAC8AAAAzAAAANwAAADsAAAA/AAA
+					AAgAAAAABAAAQbeJfawAAAAYAAAAAQIAAAEA
+					AAAAAAAADwAAAAAAAAAAAAAAAAAAAAAAAAAB
+					BQAABAAAAAMDAAAGAAAABAAAAAMDAAAEAAAA
+					CAAAAAQDAAAFAAAAAAAAAAQAAAADAwAA9QEA
+					AAwAAAABAQAATWFjaW50b3NoIEhECAAAAAQD
+					AAAAgIE9dAAAAAgAAAAABAAAQbXaYjAAAAAk
+					AAAAAQEAADE4MDgzQTZBLTA3QjMtM0MzMC05
+					REY2LTg4NzY0NDNCNjVCORgAAAABAgAAgQAA
+					AAEACADvPwAAAQAIAAAAAAAAAAAAAQAAAAEB
+					AAAvAAAABAAAAAMDAAAAAQAAwQAAAAECAAAw
+					NjMxMGQyNzQ0YjdhMmI0MWU4OTg1MGRjMmZj
+					YWY3YmE3ZTg2M2Y5OzAwMDAwMDAwOzAwMDAw
+					MDAwMDAwMDAwMjA7Y29tLmFwcGxlLmFwcC1z
+					YW5kYm94LnJlYWQtd3JpdGU7MDAwMDAwMDE7
+					MDEwMDAwMDI7MDAwMDAwMDAwMDQyYTU5MTsv
+					dXNlcnMvcHJhdG9mdW5ndXMvZG9jdW1lbnRz
+					L2RyYXcvbWl4by91cGRhdGUyL21peHVzMi5w
+					bmcAAAAA8AAAAP7///8BAAAAAAAAABMAAAAE
+					EAAAeAAAAAAAAAAFEAAADAEAAAAAAAAQEAAA
+					QAEAAAAAAABAEAAAMAEAAAAAAABUEAAAaAEA
+					AAAAAABVEAAAdAEAAAAAAABWEAAAYAEAAAAA
+					AAACIAAAHAIAAAAAAAAQIAAAnAEAAAAAAAAR
+					IAAA0AEAAAAAAAASIAAAsAEAAAAAAAATIAAA
+					wAEAAAAAAAAgIAAA/AEAAAAAAAAwIAAAYAEA
+					AAAAAAABwAAAgAEAAAAAAAARwAAAFAAAAAAA
+					AAASwAAAkAEAAAAAAAAQ0AAAKAIAAAAAAACA
+					8AAANAIAAAAAAAA=
+					</data>
+					<key>IsSHSprite</key>
+					<true/>
+					<key>PhysicProperties</key>
+					<dict>
+						<key>AngularDamping</key>
+						<real>0.0</real>
+						<key>AngularVelocity</key>
+						<real>0.0</real>
+						<key>CanSleep</key>
+						<true/>
+						<key>FixedRot</key>
+						<false/>
+						<key>GravityScale</key>
+						<real>1</real>
+						<key>HandledBySH</key>
+						<true/>
+						<key>IsBullet</key>
+						<false/>
+						<key>LinearDamping</key>
+						<real>0.0</real>
+						<key>LinearVelocity</key>
+						<string>{0, 0}</string>
+						<key>SH_ComplexShapes</key>
+						<array/>
+						<key>Type</key>
+						<integer>3</integer>
+					</dict>
+					<key>SHSheetName</key>
+					<string>mixer</string>
+					<key>SHSpriteName</key>
+					<string>mixus2</string>
+					<key>SheetImage</key>
+					<string>mixer_mixer.png</string>
+					<key>SheetImage-HD</key>
+					<string>mixer_mixer-hd.png</string>
+					<key>TextureProperties</key>
+					<dict>
+						<key>Angle</key>
+						<integer>0</integer>
+						<key>Border</key>
+						<integer>0</integer>
+						<key>CanBeTrimmed</key>
+						<true/>
+						<key>Color</key>
+						<string>{{1, 1}, {1, 1}}</string>
+						<key>ConvertedFromOldFormat</key>
+						<false/>
+						<key>CustomClassName</key>
+						<string></string>
+						<key>FlipX</key>
+						<false/>
+						<key>FlipY</key>
+						<false/>
+						<key>Frame</key>
+						<string>{{896, 164}, {94, 156}}</string>
+						<key>Frame-HD</key>
+						<string>{{1792, 328}, {188, 312}}</string>
+						<key>Image</key>
+						<string>mixer_mixer.png</string>
+						<key>Image-HD</key>
+						<string>mixer_mixer-hd.png</string>
+						<key>IsCropped</key>
+						<false/>
+						<key>IsDrawable</key>
+						<true/>
+						<key>IsRotated</key>
+						<false/>
+						<key>IsTrimmed</key>
+						<false/>
+						<key>Name</key>
+						<string>mixus2</string>
+						<key>Opacity</key>
+						<real>1</real>
+						<key>OriginalImage</key>
+						<string>/Users/pratofungus/Documents/draw/mixo/update2/mixus2.png</string>
+						<key>OriginalImage_RelativePath</key>
+						<string>../../../../../draw/mixo/update2/mixus2.png/</string>
+						<key>OriginalRect</key>
+						<string>{{0, 0}, {188, 312}}</string>
+						<key>OriginalSize</key>
+						<string>{188, 312}</string>
+						<key>Position</key>
+						<string>{1792, 328}</string>
+						<key>Scale</key>
+						<string>{1, 1}</string>
+						<key>SpriteSize</key>
+						<string>{94, 156}</string>
+						<key>SpriteWasBreaked</key>
+						<false/>
+						<key>Tag</key>
+						<integer>0</integer>
+						<key>TextureOffset</key>
+						<string>{0, 0}</string>
+						<key>UsesBatchRendering</key>
+						<true/>
+						<key>ZOrder</key>
+						<integer>0</integer>
+					</dict>
+				</dict>
+				<key>mixus3</key>
+				<dict>
+					<key>DocumentSecurityImageBookmark</key>
+					<data>
+					Ym9vaygEAAAAAAQQMAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMAAAUA
+					AAABAQAAVXNlcnMAAAALAAAAAQEAAHByYXRv
+					ZnVuZ3VzAAkAAAABAQAARG9jdW1lbnRzAAAA
+					BAAAAAEBAABkcmF3BAAAAAEBAABtaXhvBwAA
+					AAEBAAB1cGRhdGUyAAoAAAABAQAAbWl4dXMz
+					LnBuZwAAHAAAAAEGAAAEAAAAFAAAACgAAAA8
+					AAAASAAAAFQAAABkAAAACAAAAAQDAACnAwIA
+					AAAAAAgAAAAEAwAA/8EFAAAAAAAIAAAABAMA
+					AADCBQAAAAAACAAAAAQDAAB03jUAAAAAAAgA
+					AAAEAwAAriZBAAAAAAAIAAAABAMAAHGlQgAA
+					AAAACAAAAAQDAACbpUIAAAAAABwAAAABBgAA
+					nAAAAKwAAAC8AAAAzAAAANwAAADsAAAA/AAA
+					AAgAAAAABAAAQbeJfbkAAAAYAAAAAQIAAAEA
+					AAAAAAAADwAAAAAAAAAAAAAAAAAAAAAAAAAB
+					BQAABAAAAAMDAAAGAAAABAAAAAMDAAAEAAAA
+					CAAAAAQDAAAFAAAAAAAAAAQAAAADAwAA9QEA
+					AAwAAAABAQAATWFjaW50b3NoIEhECAAAAAQD
+					AAAAgIE9dAAAAAgAAAAABAAAQbXaYjAAAAAk
+					AAAAAQEAADE4MDgzQTZBLTA3QjMtM0MzMC05
+					REY2LTg4NzY0NDNCNjVCORgAAAABAgAAgQAA
+					AAEACADvPwAAAQAIAAAAAAAAAAAAAQAAAAEB
+					AAAvAAAABAAAAAMDAAAAAQAAwQAAAAECAAA1
+					YjE3ZGIxYWFlN2ZlMmQ0N2JjY2Y3MmI5ZGQ4
+					MTdiMTYyOGE5ODFlOzAwMDAwMDAwOzAwMDAw
+					MDAwMDAwMDAwMjA7Y29tLmFwcGxlLmFwcC1z
+					YW5kYm94LnJlYWQtd3JpdGU7MDAwMDAwMDE7
+					MDEwMDAwMDI7MDAwMDAwMDAwMDQyYTU5Yjsv
+					dXNlcnMvcHJhdG9mdW5ndXMvZG9jdW1lbnRz
+					L2RyYXcvbWl4by91cGRhdGUyL21peHVzMy5w
+					bmcAAAAA8AAAAP7///8BAAAAAAAAABMAAAAE
+					EAAAeAAAAAAAAAAFEAAADAEAAAAAAAAQEAAA
+					QAEAAAAAAABAEAAAMAEAAAAAAABUEAAAaAEA
+					AAAAAABVEAAAdAEAAAAAAABWEAAAYAEAAAAA
+					AAACIAAAHAIAAAAAAAAQIAAAnAEAAAAAAAAR
+					IAAA0AEAAAAAAAASIAAAsAEAAAAAAAATIAAA
+					wAEAAAAAAAAgIAAA/AEAAAAAAAAwIAAAYAEA
+					AAAAAAABwAAAgAEAAAAAAAARwAAAFAAAAAAA
+					AAASwAAAkAEAAAAAAAAQ0AAAKAIAAAAAAACA
+					8AAANAIAAAAAAAA=
+					</data>
+					<key>IsSHSprite</key>
+					<true/>
+					<key>PhysicProperties</key>
+					<dict>
+						<key>AngularDamping</key>
+						<real>0.0</real>
+						<key>AngularVelocity</key>
+						<real>0.0</real>
+						<key>CanSleep</key>
+						<true/>
+						<key>FixedRot</key>
+						<false/>
+						<key>GravityScale</key>
+						<real>1</real>
+						<key>HandledBySH</key>
+						<true/>
+						<key>IsBullet</key>
+						<false/>
+						<key>LinearDamping</key>
+						<real>0.0</real>
+						<key>LinearVelocity</key>
+						<string>{0, 0}</string>
+						<key>SH_ComplexShapes</key>
+						<array/>
+						<key>Type</key>
+						<integer>3</integer>
+					</dict>
+					<key>SHSheetName</key>
+					<string>mixer</string>
+					<key>SHSpriteName</key>
+					<string>mixus3</string>
+					<key>SheetImage</key>
+					<string>mixer_mixer.png</string>
+					<key>SheetImage-HD</key>
+					<string>mixer_mixer-hd.png</string>
+					<key>TextureProperties</key>
+					<dict>
+						<key>Angle</key>
+						<integer>0</integer>
+						<key>Border</key>
+						<integer>0</integer>
+						<key>CanBeTrimmed</key>
+						<true/>
+						<key>Color</key>
+						<string>{{1, 1}, {1, 1}}</string>
+						<key>ConvertedFromOldFormat</key>
+						<false/>
+						<key>CustomClassName</key>
+						<string></string>
+						<key>FlipX</key>
+						<false/>
+						<key>FlipY</key>
+						<false/>
+						<key>Frame</key>
+						<string>{{896, 4}, {94, 156}}</string>
+						<key>Frame-HD</key>
+						<string>{{1792, 8}, {188, 312}}</string>
+						<key>Image</key>
+						<string>mixer_mixer.png</string>
+						<key>Image-HD</key>
+						<string>mixer_mixer-hd.png</string>
+						<key>IsCropped</key>
+						<false/>
+						<key>IsDrawable</key>
+						<true/>
+						<key>IsRotated</key>
+						<false/>
+						<key>IsTrimmed</key>
+						<false/>
+						<key>Name</key>
+						<string>mixus3</string>
+						<key>Opacity</key>
+						<real>1</real>
+						<key>OriginalImage</key>
+						<string>/Users/pratofungus/Documents/draw/mixo/update2/mixus3.png</string>
+						<key>OriginalImage_RelativePath</key>
+						<string>../../../../../draw/mixo/update2/mixus3.png/</string>
+						<key>OriginalRect</key>
+						<string>{{0, 0}, {188, 312}}</string>
+						<key>OriginalSize</key>
+						<string>{188, 312}</string>
+						<key>Position</key>
+						<string>{1792, 8}</string>
+						<key>Scale</key>
+						<string>{1, 1}</string>
+						<key>SpriteSize</key>
+						<string>{94, 156}</string>
+						<key>SpriteWasBreaked</key>
+						<false/>
+						<key>Tag</key>
+						<integer>0</integer>
+						<key>TextureOffset</key>
+						<string>{0, 0}</string>
+						<key>UsesBatchRendering</key>
+						<true/>
+						<key>ZOrder</key>
+						<integer>0</integer>
+					</dict>
+				</dict>
+				<key>tree</key>
+				<dict>
+					<key>DocumentSecurityImageBookmark</key>
+					<data>
+					Ym9vayAEAAAAAAQQMAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAA+AIAAAUA
+					AAABAQAAVXNlcnMAAAALAAAAAQEAAHByYXRv
+					ZnVuZ3VzAAkAAAABAQAARG9jdW1lbnRzAAAA
+					BAAAAAEBAABkcmF3BAAAAAEBAABtaXhvBwAA
+					AAEBAAB1cGRhdGUyAAgAAAABAQAAdHJlZS5w
+					bmccAAAAAQYAAAQAAAAUAAAAKAAAADwAAABI
+					AAAAVAAAAGQAAAAIAAAABAMAAKcDAgAAAAAA
+					CAAAAAQDAAD/wQUAAAAAAAgAAAAEAwAAAMIF
+					AAAAAAAIAAAABAMAAHTeNQAAAAAACAAAAAQD
+					AACuJkEAAAAAAAgAAAAEAwAAcaVCAAAAAAAI
+					AAAABAMAALKlQgAAAAAAHAAAAAEGAACYAAAA
+					qAAAALgAAADIAAAA2AAAAOgAAAD4AAAACAAA
+					AAAEAABBt4l+FwAAABgAAAABAgAAAQAAAAAA
+					AAAPAAAAAAAAAAAAAAAAAAAAAAAAAAEFAAAE
+					AAAAAwMAAAYAAAAEAAAAAwMAAAQAAAAIAAAA
+					BAMAAAUAAAAAAAAABAAAAAMDAAD1AQAADAAA
+					AAEBAABNYWNpbnRvc2ggSEQIAAAABAMAAACA
+					gT10AAAACAAAAAAEAABBtdpiMAAAACQAAAAB
+					AQAAMTgwODNBNkEtMDdCMy0zQzMwLTlERjYt
+					ODg3NjQ0M0I2NUI5GAAAAAECAACBAAAAAQAI
+					AO8/AAABAAgAAAAAAAAAAAABAAAAAQEAAC8A
+					AAAEAAAAAwMAAAABAAC/AAAAAQIAADNiOGMx
+					MjZlNDRkZjYyNTEyNzYwODZkMTI1MTllMzdh
+					NzNkNTUxMjU7MDAwMDAwMDA7MDAwMDAwMDAw
+					MDAwMDAyMDtjb20uYXBwbGUuYXBwLXNhbmRi
+					b3gucmVhZC13cml0ZTswMDAwMDAwMTswMTAw
+					MDAwMjswMDAwMDAwMDAwNDJhNWIyOy91c2Vy
+					cy9wcmF0b2Z1bmd1cy9kb2N1bWVudHMvZHJh
+					dy9taXhvL3VwZGF0ZTIvdHJlZS5wbmcAAPAA
+					AAD+////AQAAAAAAAAATAAAABBAAAHQAAAAA
+					AAAABRAAAAgBAAAAAAAAEBAAADwBAAAAAAAA
+					QBAAACwBAAAAAAAAVBAAAGQBAAAAAAAAVRAA
+					AHABAAAAAAAAVhAAAFwBAAAAAAAAAiAAABgC
+					AAAAAAAAECAAAJgBAAAAAAAAESAAAMwBAAAA
+					AAAAEiAAAKwBAAAAAAAAEyAAALwBAAAAAAAA
+					ICAAAPgBAAAAAAAAMCAAAFwBAAAAAAAAAcAA
+					AHwBAAAAAAAAEcAAABQAAAAAAAAAEsAAAIwB
+					AAAAAAAAENAAACQCAAAAAAAAgPAAADACAAAA
+					AAAA
+					</data>
+					<key>IsSHSprite</key>
+					<true/>
+					<key>PhysicProperties</key>
+					<dict>
+						<key>AngularDamping</key>
+						<real>0.0</real>
+						<key>AngularVelocity</key>
+						<real>0.0</real>
+						<key>CanSleep</key>
+						<true/>
+						<key>FixedRot</key>
+						<false/>
+						<key>GravityScale</key>
+						<real>1</real>
+						<key>HandledBySH</key>
+						<true/>
+						<key>IsBullet</key>
+						<false/>
+						<key>LinearDamping</key>
+						<real>0.0</real>
+						<key>LinearVelocity</key>
+						<string>{0, 0}</string>
+						<key>SH_ComplexShapes</key>
+						<array/>
+						<key>Type</key>
+						<integer>3</integer>
+					</dict>
+					<key>SHSheetName</key>
+					<string>mixer</string>
+					<key>SHSpriteName</key>
+					<string>tree</string>
+					<key>SheetImage</key>
+					<string>mixer_mixer.png</string>
+					<key>SheetImage-HD</key>
+					<string>mixer_mixer-hd.png</string>
+					<key>TextureProperties</key>
+					<dict>
+						<key>Angle</key>
+						<integer>0</integer>
+						<key>Border</key>
+						<integer>0</integer>
+						<key>CanBeTrimmed</key>
+						<true/>
+						<key>Color</key>
+						<string>{{1, 1}, {1, 1}}</string>
+						<key>ConvertedFromOldFormat</key>
+						<false/>
+						<key>CustomClassName</key>
+						<string></string>
+						<key>FlipX</key>
+						<false/>
+						<key>FlipY</key>
+						<false/>
+						<key>Frame</key>
+						<string>{{4, 776}, {420.5, 404}}</string>
+						<key>Frame-HD</key>
+						<string>{{8, 1552}, {841, 808}}</string>
+						<key>Image</key>
+						<string>mixer_mixer.png</string>
+						<key>Image-HD</key>
+						<string>mixer_mixer-hd.png</string>
+						<key>IsCropped</key>
+						<false/>
+						<key>IsDrawable</key>
+						<true/>
+						<key>IsRotated</key>
+						<false/>
+						<key>IsTrimmed</key>
+						<false/>
+						<key>Name</key>
+						<string>tree</string>
+						<key>Opacity</key>
+						<real>1</real>
+						<key>OriginalImage</key>
+						<string>/Users/pratofungus/Documents/draw/mixo/update2/tree.png</string>
+						<key>OriginalImage_RelativePath</key>
+						<string>../../../../../draw/mixo/update2/tree.png/</string>
+						<key>OriginalRect</key>
+						<string>{{0, 0}, {841, 808}}</string>
+						<key>OriginalSize</key>
+						<string>{841, 808}</string>
+						<key>Position</key>
+						<string>{8, 1552}</string>
+						<key>Scale</key>
+						<string>{1, 1}</string>
+						<key>SpriteSize</key>
+						<string>{420.5, 404}</string>
+						<key>SpriteWasBreaked</key>
+						<false/>
+						<key>Tag</key>
+						<integer>0</integer>
+						<key>TextureOffset</key>
+						<string>{0, 0}</string>
+						<key>UsesBatchRendering</key>
+						<true/>
+						<key>ZOrder</key>
+						<integer>0</integer>
+					</dict>
+				</dict>
+			</dict>
+			<key>Size</key>
+			<string>{2048, 4096}</string>
+			<key>Trim</key>
+			<false/>
+			<key>ZOrder</key>
+			<integer>0</integer>
+		</dict>
+	</array>
+	<key>SH_ANIMATIONS_LIST</key>
+	<array>
+		<dict>
+			<key>DelayPerUnit</key>
+			<real>0.029999999329447746</real>
+			<key>Frames</key>
+			<array>
+				<dict>
+					<key>DocumentSecurityImageBookmark</key>
+					<data>
+					Ym9vaygEAAAAAAQQMAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMAAAUA
+					AAABAQAAVXNlcnMAAAALAAAAAQEAAHByYXRv
+					ZnVuZ3VzAAkAAAABAQAARG9jdW1lbnRzAAAA
+					BAAAAAEBAABkcmF3BAAAAAEBAABtaXhvBwAA
+					AAEBAAB1cGRhdGUyAAoAAAABAQAAbWl4dXMx
+					LnBuZwAAHAAAAAEGAAAEAAAAFAAAACgAAAA8
+					AAAASAAAAFQAAABkAAAACAAAAAQDAACnAwIA
+					AAAAAAgAAAAEAwAA/8EFAAAAAAAIAAAABAMA
+					AADCBQAAAAAACAAAAAQDAAB03jUAAAAAAAgA
+					AAAEAwAAriZBAAAAAAAIAAAABAMAAHGlQgAA
+					AAAACAAAAAQDAABzpUIAAAAAABwAAAABBgAA
+					nAAAAKwAAAC8AAAAzAAAANwAAADsAAAA/AAA
+					AAgAAAAABAAAQbeJfZ0AAAAYAAAAAQIAAAEA
+					AAAAAAAADwAAAAAAAAAAAAAAAAAAAAAAAAAB
+					BQAABAAAAAMDAAAGAAAABAAAAAMDAAAEAAAA
+					CAAAAAQDAAAFAAAAAAAAAAQAAAADAwAA9QEA
+					AAwAAAABAQAATWFjaW50b3NoIEhECAAAAAQD
+					AAAAgIE9dAAAAAgAAAAABAAAQbXaYjAAAAAk
+					AAAAAQEAADE4MDgzQTZBLTA3QjMtM0MzMC05
+					REY2LTg4NzY0NDNCNjVCORgAAAABAgAAgQAA
+					AAEACADvPwAAAQAIAAAAAAAAAAAAAQAAAAEB
+					AAAvAAAABAAAAAMDAAAAAQAAwQAAAAECAAAy
+					NTExNjQwMGM3YTcyYjNlMDViNWIyOTg5YTlm
+					OTI0NWNiMDZiYzA0OzAwMDAwMDAwOzAwMDAw
+					MDAwMDAwMDAwMjA7Y29tLmFwcGxlLmFwcC1z
+					YW5kYm94LnJlYWQtd3JpdGU7MDAwMDAwMDE7
+					MDEwMDAwMDI7MDAwMDAwMDAwMDQyYTU3Mzsv
+					dXNlcnMvcHJhdG9mdW5ndXMvZG9jdW1lbnRz
+					L2RyYXcvbWl4by91cGRhdGUyL21peHVzMS5w
+					bmcAAAAA8AAAAP7///8BAAAAAAAAABMAAAAE
+					EAAAeAAAAAAAAAAFEAAADAEAAAAAAAAQEAAA
+					QAEAAAAAAABAEAAAMAEAAAAAAABUEAAAaAEA
+					AAAAAABVEAAAdAEAAAAAAABWEAAAYAEAAAAA
+					AAACIAAAHAIAAAAAAAAQIAAAnAEAAAAAAAAR
+					IAAA0AEAAAAAAAASIAAAsAEAAAAAAAATIAAA
+					wAEAAAAAAAAgIAAA/AEAAAAAAAAwIAAAYAEA
+					AAAAAAABwAAAgAEAAAAAAAARwAAAFAAAAAAA
+					AAASwAAAkAEAAAAAAAAQ0AAAKAIAAAAAAACA
+					8AAANAIAAAAAAAA=
+					</data>
+					<key>Frame</key>
+					<string>{{896, 324}, {94, 156}}</string>
+					<key>Frame-HD</key>
+					<string>{{1792, 648}, {188, 312}}</string>
+					<key>IsRotated</key>
+					<false/>
+					<key>OriginalImage</key>
+					<string>/Users/pratofungus/Documents/draw/mixo/update2/mixus1.png</string>
+					<key>SpriteSize</key>
+					<string>{94, 156}</string>
+					<key>TextureOffset</key>
+					<string>{0, 0}</string>
+					<key>delayPerUnit</key>
+					<real>1</real>
+					<key>notifications</key>
+					<dict/>
+					<key>offset</key>
+					<string>{0, 0}</string>
+					<key>spriteframe</key>
+					<string>mixus1</string>
+				</dict>
+				<dict>
+					<key>DocumentSecurityImageBookmark</key>
+					<data>
+					Ym9vaygEAAAAAAQQMAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMAAAUA
+					AAABAQAAVXNlcnMAAAALAAAAAQEAAHByYXRv
+					ZnVuZ3VzAAkAAAABAQAARG9jdW1lbnRzAAAA
+					BAAAAAEBAABkcmF3BAAAAAEBAABtaXhvBwAA
+					AAEBAAB1cGRhdGUyAAoAAAABAQAAbWl4dXMy
+					LnBuZwAAHAAAAAEGAAAEAAAAFAAAACgAAAA8
+					AAAASAAAAFQAAABkAAAACAAAAAQDAACnAwIA
+					AAAAAAgAAAAEAwAA/8EFAAAAAAAIAAAABAMA
+					AADCBQAAAAAACAAAAAQDAAB03jUAAAAAAAgA
+					AAAEAwAAriZBAAAAAAAIAAAABAMAAHGlQgAA
+					AAAACAAAAAQDAACRpUIAAAAAABwAAAABBgAA
+					nAAAAKwAAAC8AAAAzAAAANwAAADsAAAA/AAA
+					AAgAAAAABAAAQbeJfawAAAAYAAAAAQIAAAEA
+					AAAAAAAADwAAAAAAAAAAAAAAAAAAAAAAAAAB
+					BQAABAAAAAMDAAAGAAAABAAAAAMDAAAEAAAA
+					CAAAAAQDAAAFAAAAAAAAAAQAAAADAwAA9QEA
+					AAwAAAABAQAATWFjaW50b3NoIEhECAAAAAQD
+					AAAAgIE9dAAAAAgAAAAABAAAQbXaYjAAAAAk
+					AAAAAQEAADE4MDgzQTZBLTA3QjMtM0MzMC05
+					REY2LTg4NzY0NDNCNjVCORgAAAABAgAAgQAA
+					AAEACADvPwAAAQAIAAAAAAAAAAAAAQAAAAEB
+					AAAvAAAABAAAAAMDAAAAAQAAwQAAAAECAAAw
+					NjMxMGQyNzQ0YjdhMmI0MWU4OTg1MGRjMmZj
+					YWY3YmE3ZTg2M2Y5OzAwMDAwMDAwOzAwMDAw
+					MDAwMDAwMDAwMjA7Y29tLmFwcGxlLmFwcC1z
+					YW5kYm94LnJlYWQtd3JpdGU7MDAwMDAwMDE7
+					MDEwMDAwMDI7MDAwMDAwMDAwMDQyYTU5MTsv
+					dXNlcnMvcHJhdG9mdW5ndXMvZG9jdW1lbnRz
+					L2RyYXcvbWl4by91cGRhdGUyL21peHVzMi5w
+					bmcAAAAA8AAAAP7///8BAAAAAAAAABMAAAAE
+					EAAAeAAAAAAAAAAFEAAADAEAAAAAAAAQEAAA
+					QAEAAAAAAABAEAAAMAEAAAAAAABUEAAAaAEA
+					AAAAAABVEAAAdAEAAAAAAABWEAAAYAEAAAAA
+					AAACIAAAHAIAAAAAAAAQIAAAnAEAAAAAAAAR
+					IAAA0AEAAAAAAAASIAAAsAEAAAAAAAATIAAA
+					wAEAAAAAAAAgIAAA/AEAAAAAAAAwIAAAYAEA
+					AAAAAAABwAAAgAEAAAAAAAARwAAAFAAAAAAA
+					AAASwAAAkAEAAAAAAAAQ0AAAKAIAAAAAAACA
+					8AAANAIAAAAAAAA=
+					</data>
+					<key>Frame</key>
+					<string>{{896, 164}, {94, 156}}</string>
+					<key>Frame-HD</key>
+					<string>{{1792, 328}, {188, 312}}</string>
+					<key>IsRotated</key>
+					<false/>
+					<key>OriginalImage</key>
+					<string>/Users/pratofungus/Documents/draw/mixo/update2/mixus2.png</string>
+					<key>SpriteSize</key>
+					<string>{94, 156}</string>
+					<key>TextureOffset</key>
+					<string>{0, 0}</string>
+					<key>delayPerUnit</key>
+					<real>1</real>
+					<key>notifications</key>
+					<dict/>
+					<key>offset</key>
+					<string>{0, 0}</string>
+					<key>spriteframe</key>
+					<string>mixus2</string>
+				</dict>
+				<dict>
+					<key>DocumentSecurityImageBookmark</key>
+					<data>
+					Ym9vaygEAAAAAAQQMAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMAAAUA
+					AAABAQAAVXNlcnMAAAALAAAAAQEAAHByYXRv
+					ZnVuZ3VzAAkAAAABAQAARG9jdW1lbnRzAAAA
+					BAAAAAEBAABkcmF3BAAAAAEBAABtaXhvBwAA
+					AAEBAAB1cGRhdGUyAAoAAAABAQAAbWl4dXMz
+					LnBuZwAAHAAAAAEGAAAEAAAAFAAAACgAAAA8
+					AAAASAAAAFQAAABkAAAACAAAAAQDAACnAwIA
+					AAAAAAgAAAAEAwAA/8EFAAAAAAAIAAAABAMA
+					AADCBQAAAAAACAAAAAQDAAB03jUAAAAAAAgA
+					AAAEAwAAriZBAAAAAAAIAAAABAMAAHGlQgAA
+					AAAACAAAAAQDAACbpUIAAAAAABwAAAABBgAA
+					nAAAAKwAAAC8AAAAzAAAANwAAADsAAAA/AAA
+					AAgAAAAABAAAQbeJfbkAAAAYAAAAAQIAAAEA
+					AAAAAAAADwAAAAAAAAAAAAAAAAAAAAAAAAAB
+					BQAABAAAAAMDAAAGAAAABAAAAAMDAAAEAAAA
+					CAAAAAQDAAAFAAAAAAAAAAQAAAADAwAA9QEA
+					AAwAAAABAQAATWFjaW50b3NoIEhECAAAAAQD
+					AAAAgIE9dAAAAAgAAAAABAAAQbXaYjAAAAAk
+					AAAAAQEAADE4MDgzQTZBLTA3QjMtM0MzMC05
+					REY2LTg4NzY0NDNCNjVCORgAAAABAgAAgQAA
+					AAEACADvPwAAAQAIAAAAAAAAAAAAAQAAAAEB
+					AAAvAAAABAAAAAMDAAAAAQAAwQAAAAECAAA1
+					YjE3ZGIxYWFlN2ZlMmQ0N2JjY2Y3MmI5ZGQ4
+					MTdiMTYyOGE5ODFlOzAwMDAwMDAwOzAwMDAw
+					MDAwMDAwMDAwMjA7Y29tLmFwcGxlLmFwcC1z
+					YW5kYm94LnJlYWQtd3JpdGU7MDAwMDAwMDE7
+					MDEwMDAwMDI7MDAwMDAwMDAwMDQyYTU5Yjsv
+					dXNlcnMvcHJhdG9mdW5ndXMvZG9jdW1lbnRz
+					L2RyYXcvbWl4by91cGRhdGUyL21peHVzMy5w
+					bmcAAAAA8AAAAP7///8BAAAAAAAAABMAAAAE
+					EAAAeAAAAAAAAAAFEAAADAEAAAAAAAAQEAAA
+					QAEAAAAAAABAEAAAMAEAAAAAAABUEAAAaAEA
+					AAAAAABVEAAAdAEAAAAAAABWEAAAYAEAAAAA
+					AAACIAAAHAIAAAAAAAAQIAAAnAEAAAAAAAAR
+					IAAA0AEAAAAAAAASIAAAsAEAAAAAAAATIAAA
+					wAEAAAAAAAAgIAAA/AEAAAAAAAAwIAAAYAEA
+					AAAAAAABwAAAgAEAAAAAAAARwAAAFAAAAAAA
+					AAASwAAAkAEAAAAAAAAQ0AAAKAIAAAAAAACA
+					8AAANAIAAAAAAAA=
+					</data>
+					<key>Frame</key>
+					<string>{{896, 4}, {94, 156}}</string>
+					<key>Frame-HD</key>
+					<string>{{1792, 8}, {188, 312}}</string>
+					<key>IsRotated</key>
+					<false/>
+					<key>OriginalImage</key>
+					<string>/Users/pratofungus/Documents/draw/mixo/update2/mixus3.png</string>
+					<key>SpriteSize</key>
+					<string>{94, 156}</string>
+					<key>TextureOffset</key>
+					<string>{0, 0}</string>
+					<key>delayPerUnit</key>
+					<real>1</real>
+					<key>notifications</key>
+					<dict/>
+					<key>offset</key>
+					<string>{0, 0}</string>
+					<key>spriteframe</key>
+					<string>mixus3</string>
+				</dict>
+			</array>
+			<key>Loop</key>
+			<true/>
+			<key>Repetitions</key>
+			<integer>1</integer>
+			<key>RestoreOriginalFrame</key>
+			<false/>
+			<key>SheetImage</key>
+			<string>mixer_mixer.png</string>
+			<key>SheetName</key>
+			<string>mixer</string>
+			<key>StartAtLaunch</key>
+			<true/>
+			<key>UniqueName</key>
+			<string>mixus</string>
+		</dict>
+	</array>
+	<key>SaveSettings</key>
+	<dict>
+		<key>Dither</key>
+		<false/>
+		<key>DocumentName</key>
+		<string>mixer</string>
+		<key>HD2XSuffix</key>
+		<string>-ipadhd</string>
+		<key>HDSuffix</key>
+		<string>-hd</string>
+		<key>ImageFormatId</key>
+		<integer>0</integer>
+		<key>Npot</key>
+		<true/>
+		<key>PvrFormat</key>
+		<integer>0</integer>
+		<key>PvrRemoveParent</key>
+		<true/>
+		<key>ResamplingAlgorithm</key>
+		<integer>0</integer>
+		<key>ResizingOptions</key>
+		<integer>1</integer>
+		<key>SaveStyle</key>
+		<integer>0</integer>
+	</dict>
+	<key>SceneFolderSandboxBookmark</key>
+	<data>
+	Ym9vaygEAAAAAAQQMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJAMA
+	AAUAAAABAQAAVXNlcnMAAAALAAAAAQEAAHByYXRvZnVuZ3VzAAkAAAABAQAARG9jdW1l
+	bnRzAAAABQAAAAEBAAB4Y29kZQAAAAgAAAABAQAAY2FzdGlsbG8IAAAAAQEAAENhc3Rp
+	bGxvCQAAAAEBAABSZXNvdXJjZXMAAAAGAAAAAQEAAEltYWdlcwAAIAAAAAEGAAAEAAAA
+	FAAAACgAAAA8AAAATAAAAFwAAABsAAAAgAAAAAgAAAAEAwAApwMCAAAAAAAIAAAABAMA
+	AP/BBQAAAAAACAAAAAQDAAAAwgUAAAAAAAgAAAAEAwAAv/UJAAAAAAAIAAAABAMAAHTp
+	PwAAAAAACAAAAAQDAACS6T8AAAAAAAgAAAAEAwAAROs/AAAAAAAIAAAABAMAAFDrPwAA
+	AAAAIAAAAAEGAAC4AAAAyAAAANgAAADoAAAA+AAAAAgBAAAYAQAAKAEAAAgAAAAABAAA
+	QbdZpswAAAAYAAAAAQIAAAIAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAgAAAAEAwAABgAA
+	AAAAAAAEAAAAAwMAAPUBAAAMAAAAAQEAAE1hY2ludG9zaCBIRAgAAAAEAwAAAICBPXQA
+	AAAIAAAAAAQAAEG12mIwAAAAJAAAAAEBAAAxODA4M0E2QS0wN0IzLTNDMzAtOURGNi04
+	ODc2NDQzQjY1QjkYAAAAAQIAAIEAAAABAAgA7z8AAAEACAAAAAAAAAAAAAEAAAABAQAA
+	LwAAAAAAAAABBQAABAAAAAMDAAAAAQAAzQAAAAECAAA0MjRkYzYzMDIzMDMwZTQ1MzQ1
+	N2RmZTRiODhhYjZjMmJhMWIyZjRkOzAwMDAwMDAwOzAwMDAwMDAwMDAwMDAwMjA7Y29t
+	LmFwcGxlLmFwcC1zYW5kYm94LnJlYWQtd3JpdGU7MDAwMDAwMDE7MDEwMDAwMDI7MDAw
+	MDAwMDAwMDNmZWI1MDsvdXNlcnMvcHJhdG9mdW5ndXMvZG9jdW1lbnRzL3hjb2RlL2Nh
+	c3RpbGxvL2Nhc3RpbGxvL3Jlc291cmNlcy9pbWFnZXMAAAAAzAAAAP7///8BAAAAAAAA
+	ABAAAAAEEAAAkAAAAAAAAAAFEAAAOAEAAAAAAAAQEAAAcAEAAAAAAABAEAAAYAEAAAAA
+	AAACIAAALAIAAAAAAAAQIAAArAEAAAAAAAARIAAA4AEAAAAAAAASIAAAwAEAAAAAAAAT
+	IAAA0AEAAAAAAAAgIAAADAIAAAAAAAAwIAAAOAIAAAAAAAABwAAAkAEAAAAAAAARwAAA
+	FAAAAAAAAAASwAAAoAEAAAAAAAAQ0AAAQAIAAAAAAACA8AAATAIAAAAAAAA=
+	</data>
+	<key>Version</key>
+	<string>1.8.307</string>
+</dict>
+</plist>
